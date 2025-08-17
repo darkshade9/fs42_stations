@@ -1,0 +1,354 @@
+{
+  "station_conf": {
+    "network_name": "CBS",
+    "channel_number": 2,
+    "network_type": "standard",
+    "schedule_increment": 30,
+    "break_strategy": "standard",
+    "commercial_free": false,
+    "break_duration": 120,
+    "catalog_path": "catalog/CBS_catalog.bin",
+    "content_dir": "catalog/CBS",
+    "commercial_dir": "commercial",
+    "bump_dir": "bump",
+    "runtime_dir": "runtime/CBS",
+    "schedule_path": "runtime/CBS_schedule.bin",
+    "sign_off_video": "runtime/signoff.mp4",
+    "off_air_video": "runtime/off_air_pattern.mp4",
+    "standby_image": "runtime/standby.png",
+
+    "sunday": {
+      "0": [
+        {
+          "tags": "frasier",
+          "start_bump": "extra/pre-frasier.mp4",
+          "end_bump": "extra/post-frasier.mp4",
+          "bump_dir": "extra/frasier_bumps",
+          "commercial_dir": "commercials/cbs_late_night_commercials",
+          "break_strategy": "center",
+          "sequence": "shuffle",
+          "random_tags": false,
+          "schedule_increment": 30
+        },
+        {
+          "tags": "the_golden_girls",
+          "start_bump": "extra/pre-golden_girls.mp4",
+          "end_bump": "extra/post-golden_girls.mp4",
+          "bump_dir": "extra/golden_girls_bumps",
+          "commercial_dir": "commercials/cbs_late_night_commercials",
+          "break_strategy": "center",
+          "sequence": "shuffle",
+          "random_tags": false,
+          "schedule_increment": 30
+        }
+      ],
+      "1": { "event": "off_air" },
+      "2": { "event": "off_air" },
+      "3": { "event": "off_air" },
+      "4": { "event": "off_air" },
+      "5": { "event": "off_air" },
+      "6": { "event": "off_air" },
+
+      "7": [
+        {
+          "tags": "the_golden_girls",
+          "start_bump": "extra/pre-golden_girls.mp4",
+          "end_bump": "extra/post-golden_girls.mp4",
+          "bump_dir": "extra/golden_girls_bumps",
+          "commercial_dir": "commercials/cbs_daytime_commercials",
+          "break_strategy": "center",
+          "sequence": "shuffle",
+          "random_tags": false,
+          "schedule_increment": 30
+        },
+        {
+          "tags": "cheers",
+          "start_bump": "extra/pre-cheers.mp4",
+          "end_bump": "extra/post-cheers.mp4",
+          "bump_dir": "extra/cheers_bumps",
+          "commercial_dir": "commercials/cbs_daytime_commercials",
+          "break_strategy": "center",
+          "sequence": "shuffle",
+          "random_tags": false,
+          "schedule_increment": 30
+        }
+      ],
+      "8": [
+        {
+          "tags": "family_matters",
+          "start_bump": "extra/pre-family_matters.mp4",
+          "end_bump": "extra/post-family_matters.mp4",
+          "bump_dir": "extra/family_matters_bumps",
+          "commercial_dir": "commercials/cbs_daytime_commercials",
+          "break_strategy": "center",
+          "sequence": "shuffle",
+          "random_tags": false,
+          "schedule_increment": 30
+        },
+        {
+          "tags": "frasier",
+          "start_bump": "extra/pre-frasier.mp4",
+          "end_bump": "extra/post-frasier.mp4",
+          "bump_dir": "extra/frasier_bumps",
+          "commercial_dir": "commercials/cbs_daytime_commercials",
+          "break_strategy": "center",
+          "sequence": "shuffle",
+          "random_tags": false,
+          "schedule_increment": 30
+        }
+      ],
+      "9": [
+        {
+          "tags": "night_court",
+          "start_bump": "extra/pre-night_court.mp4",
+          "end_bump": "extra/post-night_court.mp4",
+          "bump_dir": "extra/night_court_bumps",
+          "commercial_dir": "commercials/cbs_daytime_commercials",
+          "break_strategy": "center",
+          "sequence": "shuffle",
+          "random_tags": false,
+          "schedule_increment": 30
+        },
+        {
+          "tags": "the_golden_girls",
+          "start_bump": "extra/pre-golden_girls.mp4",
+          "end_bump": "extra/post-golden_girls.mp4",
+          "bump_dir": "extra/golden_girls_bumps",
+          "commercial_dir": "commercials/cbs_daytime_commercials",
+          "break_strategy": "center",
+          "sequence": "shuffle",
+          "random_tags": false,
+          "schedule_increment": 30
+        }
+      ],
+      "10": [
+        {
+          "tags": "cheers",
+          "start_bump": "extra/pre-cheers.mp4",
+          "end_bump": "extra/post-cheers.mp4",
+          "bump_dir": "extra/cheers_bumps",
+          "commercial_dir": "commercials/cbs_daytime_commercials",
+          "break_strategy": "center",
+          "sequence": "shuffle",
+          "random_tags": false,
+          "schedule_increment": 30
+        },
+        {
+          "tags": "frasier",
+          "start_bump": "extra/pre-frasier.mp4",
+          "end_bump": "extra/post-frasier.mp4",
+          "bump_dir": "extra/frasier_bumps",
+          "commercial_dir": "commercials/cbs_daytime_commercials",
+          "break_strategy": "center",
+          "sequence": "shuffle",
+          "random_tags": false,
+          "schedule_increment": 30
+        }
+      ],
+      "11": [
+        {
+          "tags": "family_matters",
+          "start_bump": "extra/pre-family_matters.mp4",
+          "end_bump": "extra/post-family_matters.mp4",
+          "bump_dir": "extra/family_matters_bumps",
+          "commercial_dir": "commercials/cbs_daytime_commercials",
+          "break_strategy": "center",
+          "sequence": "shuffle",
+          "random_tags": false,
+          "schedule_increment": 30
+        },
+        {
+          "tags": "night_court",
+          "start_bump": "extra/pre-night_court.mp4",
+          "end_bump": "extra/post-night_court.mp4",
+          "bump_dir": "extra/night_court_bumps",
+          "commercial_dir": "commercials/cbs_daytime_commercials",
+          "break_strategy": "center",
+          "sequence": "shuffle",
+          "random_tags": false,
+          "schedule_increment": 30
+        }
+      ],
+
+      "12": [
+        {
+          "tags": "dallas",
+          "start_bump": "extra/pre-dallas.mp4",
+          "end_bump": "extra/post-dallas.mp4",
+          "bump_dir": "extra/dallas_bumps",
+          "commercial_dir": "commercials/cbs_daytime_dramas",
+          "break_strategy": "center",
+          "sequence": "shuffle",
+          "random_tags": false,
+          "schedule_increment": 60
+        }
+      ],
+      "13": [
+        {
+          "tags": "murder_she_wrote",
+          "start_bump": "extra/pre-murder_she_wrote.mp4",
+          "end_bump": "extra/post-murder_she_wrote.mp4",
+          "bump_dir": "extra/murder_she_wrote_bumps",
+          "commercial_dir": "commercials/cbs_daytime_dramas",
+          "break_strategy": "center",
+          "sequence": "shuffle",
+          "random_tags": false,
+          "schedule_increment": 60
+        }
+      ],
+      "14": [
+        {
+          "tags": "quantum_leap",
+          "start_bump": "extra/pre-quantum_leap.mp4",
+          "end_bump": "extra/post-quantum_leap.mp4",
+          "bump_dir": "extra/quantum_leap_bumps",
+          "commercial_dir": "commercials/cbs_daytime_dramas",
+          "break_strategy": "center",
+          "sequence": "shuffle",
+          "random_tags": false,
+          "schedule_increment": 60
+        }
+      ],
+      "15": [
+        {
+          "tags": "dallas",
+          "start_bump": "extra/pre-dallas.mp4",
+          "end_bump": "extra/post-dallas.mp4",
+          "bump_dir": "extra/dallas_bumps",
+          "commercial_dir": "commercials/cbs_daytime_dramas",
+          "break_strategy": "center",
+          "sequence": "shuffle",
+          "random_tags": false,
+          "schedule_increment": 60
+        }
+      ],
+      "16": [
+        {
+          "tags": "murder_she_wrote",
+          "start_bump": "extra/pre-murder_she_wrote.mp4",
+          "end_bump": "extra/post-murder_she_wrote.mp4",
+          "bump_dir": "extra/murder_she_wrote_bumps",
+          "commercial_dir": "commercials/cbs_daytime_dramas",
+          "break_strategy": "center",
+          "sequence": "shuffle",
+          "random_tags": false,
+          "schedule_increment": 60
+        }
+      ],
+
+      "17": [
+        {
+          "tags": "frasier",
+          "start_bump": "extra/pre-frasier.mp4",
+          "end_bump": "extra/post-frasier.mp4",
+          "bump_dir": "extra/frasier_bumps",
+          "commercial_dir": "commercials/cbs_prime_time_commercials",
+          "break_strategy": "center",
+          "sequence": "shuffle",
+          "random_tags": false,
+          "schedule_increment": 30
+        },
+        {
+          "tags": "the_golden_girls",
+          "start_bump": "extra/pre-golden_girls.mp4",
+          "end_bump": "extra/post-golden_girls.mp4",
+          "bump_dir": "extra/golden_girls_bumps",
+          "commercial_dir": "commercials/cbs_prime_time_commercials",
+          "break_strategy": "center",
+          "sequence": "shuffle",
+          "random_tags": false,
+          "schedule_increment": 30
+        }
+      ],
+      "18": [
+        {
+          "tags": "cheers",
+          "start_bump": "extra/pre-cheers.mp4",
+          "end_bump": "extra/post-cheers.mp4",
+          "bump_dir": "extra/cheers_bumps",
+          "commercial_dir": "commercials/cbs_prime_time_commercials",
+          "break_strategy": "center",
+          "sequence": "shuffle",
+          "random_tags": false,
+          "schedule_increment": 30
+        },
+        {
+          "tags": "family_matters",
+          "start_bump": "extra/pre-family_matters.mp4",
+          "end_bump": "extra/post-family_matters.mp4",
+          "bump_dir": "extra/family_matters_bumps",
+          "commercial_dir": "commercials/cbs_prime_time_commercials",
+          "break_strategy": "center",
+          "sequence": "shuffle",
+          "random_tags": false,
+          "schedule_increment": 30
+        }
+      ],
+      "19": [
+        {
+          "tags": "quantum_leap",
+          "start_bump": "extra/pre-quantum_leap.mp4",
+          "end_bump": "extra/post-quantum_leap.mp4",
+          "bump_dir": "extra/quantum_leap_bumps",
+          "commercial_dir": "commercials/cbs_prime_time_commercials",
+          "break_strategy": "center",
+          "sequence": "shuffle",
+          "random_tags": false,
+          "schedule_increment": 60
+        }
+      ],
+
+      "20": [
+        {
+          "tags": "weekly_miniseries", 
+          "start_bump": "extra/pre-miniseries.mp4",
+          "end_bump": "extra/post-miniseries.mp4",
+          "bump_dir": "extra/miniseries_bumps",
+          "commercial_dir": "commercials/cbs_miniseries_commercials",
+          "break_strategy": "center",
+          "sequence": "prime",
+          "random_tags": false,
+          "schedule_increment": 120
+        }
+      ],
+
+      "22": [
+        {
+          "tags": "murder_she_wrote",
+          "start_bump": "extra/pre-murder_she_wrote.mp4",
+          "end_bump": "extra/post-murder_she_wrote.mp4",
+          "bump_dir": "extra/murder_she_wrote_bumps",
+          "commercial_dir": "commercials/cbs_late_night_commercials",
+          "break_strategy": "center",
+          "sequence": "shuffle",
+          "random_tags": false,
+          "schedule_increment": 60
+        }
+      ],
+      "23": [
+        {
+          "tags": "cheers",
+          "start_bump": "extra/pre-cheers.mp4",
+          "end_bump": "extra/post-cheers.mp4",
+          "bump_dir": "extra/cheers_bumps",
+          "commercial_dir": "commercials/cbs_late_night_commercials",
+          "break_strategy": "center",
+          "sequence": "shuffle",
+          "random_tags": false,
+          "schedule_increment": 30
+        },
+        {
+          "tags": "night_court",
+          "start_bump": "extra/pre-night_court.mp4",
+          "end_bump": "extra/post-night_court.mp4",
+          "bump_dir": "extra/night_court_bumps",
+          "commercial_dir": "commercials/cbs_late_night_commercials",
+          "break_strategy": "center",
+          "sequence": "shuffle",
+          "random_tags": false,
+          "schedule_increment": 30
+        }
+      ]
+    }
+  }
+}

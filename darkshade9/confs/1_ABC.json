@@ -1,0 +1,382 @@
+{
+    "station_conf": {
+        "network_name": "ABC",
+        "channel_number": 1,
+        "network_type": "standard",
+        "schedule_increment": 30,
+        "break_strategy": "standard",
+        "commercial_free": false,
+        "break_duration": 120,
+        "catalog_path": "catalog/ABC_catalog.bin",
+        "content_dir": "catalog/ABC",
+        "commercial_dir": "commercial",
+        "bump_dir": "bump",
+        "runtime_dir": "runtime/ABC",
+        "schedule_path": "runtime/ABC_schedule.bin",
+        "sign_off_video": "runtime/signoff.mp4",
+        "off_air_video": "runtime/off_air_pattern.mp4",
+        "standby_image": "runtime/standby.png",
+        "monday": {
+            "0": {
+                "tags": [
+                    "adult_cartoon_block"
+                ]
+            },
+            "1": {
+                "event": "off_air"
+            },
+            "2": {
+                "event": "off_air"
+            },
+            "3": {
+                "event": "off_air"
+            },
+            "4": {
+                "event": "off_air"
+            },
+            "5": {
+                "event": "off_air"
+            },
+            "6": {
+                "event": "off_air"
+            },
+            "7": [
+                {
+                    "tags": "bluey",
+                    "start_bump": "extra/pre-bluey.mp4",
+                    "end_bump": "extra/post-bluey.mp4",
+                    "bump_dir": "extra/bluey_bumps",
+                    "commercial_dir": "commercials/kids_morning_commercials",
+                    "break_strategy": "center",
+                    "sequence": "shuffle",
+                    "sequence_start": 0,
+                    "random_tags": false,
+                    "schedule_increment": 30
+                },
+                {
+                    "tags": "pocoyo",
+                    "start_bump": "extra/pre-pocoyo.mp4",
+                    "end_bump": "extra/post-pocoyo.mp4",
+                    "bump_dir": "extra/pocoyo_bumps",
+                    "commercial_dir": "commercials/kids_morning_commercials",
+                    "break_strategy": "center",
+                    "sequence": "shuffle",
+                    "sequence_start": 0,
+                    "random_tags": false,
+                    "schedule_increment": 30
+                }
+            ],
+            "8": [
+                {
+                    "tags": "peep_and_the_big_wide_world",
+                    "start_bump": "extra/pre-peep.mp4",
+                    "end_bump": "extra/post-peep.mp4",
+                    "bump_dir": "extra/peep_bumps",
+                    "commercial_dir": "commercials/kids_morning_commercials",
+                    "break_strategy": "center",
+                    "sequence": "shuffle",
+                    "sequence_start": 0,
+                    "random_tags": false,
+                    "schedule_increment": 30
+                },
+                {
+                    "tags": "curious_george",
+                    "start_bump": "extra/pre-curious.mp4",
+                    "end_bump": "extra/post-curious.mp4",
+                    "bump_dir": "extra/curious_bumps",
+                    "commercial_dir": "commercials/kids_morning_commercials",
+                    "break_strategy": "center",
+                    "sequence": "shuffle",
+                    "sequence_start": 0,
+                    "random_tags": false,
+                    "schedule_increment": 30
+                }
+            ],
+            "9": [
+                {
+                    "tags": "alvin_and_the_chipmunks",
+                    "start_bump": "extra/pre-alvin.mp4",
+                    "end_bump": "extra/post-alvin.mp4",
+                    "bump_dir": "extra/alvin_bumps",
+                    "commercial_dir": "commercials/kids_morning_commercials",
+                    "break_strategy": "center",
+                    "sequence": "shuffle",
+                    "sequence_start": 0,
+                    "random_tags": false,
+                    "schedule_increment": 30
+                },
+                {
+                    "tags": "adventures_of_the_gummi_bears",
+                    "start_bump": "extra/pre-gummi.mp4",
+                    "end_bump": "extra/post-gummi.mp4",
+                    "bump_dir": "extra/gummi_bumps",
+                    "commercial_dir": "commercials/kids_morning_commercials",
+                    "break_strategy": "center",
+                    "sequence": "shuffle",
+                    "sequence_start": 0,
+                    "random_tags": false,
+                    "schedule_increment": 30
+                }
+            ],
+            "10": [
+                {
+                    "tags": "chip_n_dale_rescue_rangers",
+                    "start_bump": "extra/pre-chip.mp4",
+                    "end_bump": "extra/post-chip.mp4",
+                    "bump_dir": "extra/chip_bumps",
+                    "commercial_dir": "commercials/kids_morning_commercials",
+                    "break_strategy": "center",
+                    "sequence": "shuffle",
+                    "sequence_start": 0,
+                    "random_tags": false,
+                    "schedule_increment": 30
+                },
+                {
+                    "tags": "goof_troop",
+                    "start_bump": "extra/pre-goof.mp4",
+                    "end_bump": "extra/post-goof.mp4",
+                    "bump_dir": "extra/goof_bumps",
+                    "commercial_dir": "commercials/kids_morning_commercials",
+                    "break_strategy": "center",
+                    "sequence": "shuffle",
+                    "sequence_start": 0,
+                    "random_tags": false,
+                    "schedule_increment": 30
+                }
+            ],
+            "11": [
+                {
+                    "tags": "heathcliff",
+                    "start_bump": "extra/pre-heathcliff.mp4",
+                    "end_bump": "extra/post-heathcliff.mp4",
+                    "bump_dir": "extra/heathcliff_bumps",
+                    "commercial_dir": "commercials/kids_morning_commercials",
+                    "break_strategy": "center",
+                    "sequence": "shuffle",
+                    "sequence_start": 0,
+                    "random_tags": false,
+                    "schedule_increment": 30
+                },
+                {
+                    "tags": "garfield_and_friends",
+                    "start_bump": "extra/pre-garfield.mp4",
+                    "end_bump": "extra/post-garfield.mp4",
+                    "bump_dir": "extra/garfield_bumps",
+                    "commercial_dir": "commercials/kids_morning_commercials",
+                    "break_strategy": "center",
+                    "sequence": "shuffle",
+                    "sequence_start": 0,
+                    "random_tags": false,
+                    "schedule_increment": 30
+                }
+            ],
+            "12": [
+                {
+                    "tags": "bluey",
+                    "start_bump": "extra/pre-bluey.mp4",
+                    "end_bump": "extra/post-bluey.mp4",
+                    "bump_dir": "extra/bluey_bumps",
+                    "commercial_dir": "commercials/kids_morning_commercials",
+                    "break_strategy": "center",
+                    "sequence": "shuffle",
+                    "sequence_start": 0,
+                    "random_tags": false,
+                    "schedule_increment": 30
+                },
+                {
+                    "tags": "peep_and_the_big_wide_world",
+                    "start_bump": "extra/pre-peep.mp4",
+                    "end_bump": "extra/post-peep.mp4",
+                    "bump_dir": "extra/peep_bumps",
+                    "commercial_dir": "commercials/kids_morning_commercials",
+                    "break_strategy": "center",
+                    "sequence": "shuffle",
+                    "sequence_start": 0,
+                    "random_tags": false,
+                    "schedule_increment": 30
+                }
+            ],
+            "13": [
+                {
+                    "tags": "ducktales_1987",
+                    "start_bump": "extra/pre-ducktales1987.mp4",
+                    "end_bump": "extra/post-ducktales1987.mp4",
+                    "bump_dir": "extra/ducktales1987_bumps",
+                    "commercial_dir": "commercials/disney_afternoon_commercials",
+                    "break_strategy": "center",
+                    "sequence": "shuffle",
+                    "sequence_start": 0,
+                    "random_tags": false,
+                    "schedule_increment": 30
+                },
+                {
+                    "tags": "talespin",
+                    "start_bump": "extra/pre-talespin.mp4",
+                    "end_bump": "extra/post-talespin.mp4",
+                    "bump_dir": "extra/talespin_bumps",
+                    "commercial_dir": "commercials/disney_afternoon_commercials",
+                    "break_strategy": "center",
+                    "sequence": "shuffle",
+                    "sequence_start": 0,
+                    "random_tags": false,
+                    "schedule_increment": 30
+                }
+            ],
+            "14": [
+                {
+                    "tags": "rescue_rangers",
+                    "start_bump": "extra/pre-rescue.mp4",
+                    "end_bump": "extra/post-rescue.mp4",
+                    "bump_dir": "extra/rescue_bumps",
+                    "commercial_dir": "commercials/disney_afternoon_commercials",
+                    "break_strategy": "center",
+                    "sequence": "shuffle",
+                    "sequence_start": 0,
+                    "random_tags": false,
+                    "schedule_increment": 30
+                },
+                {
+                    "tags": "darkwing_duck",
+                    "start_bump": "extra/pre-darkwing.mp4",
+                    "end_bump": "extra/post-darkwing.mp4",
+                    "bump_dir": "extra/darkwing_bumps",
+                    "commercial_dir": "commercials/disney_afternoon_commercials",
+                    "break_strategy": "center",
+                    "sequence": "shuffle",
+                    "sequence_start": 0,
+                    "random_tags": false,
+                    "schedule_increment": 30
+                }
+            ],
+            "15": [
+                {
+                    "tags": "aladdin",
+                    "start_bump": "extra/pre-aladdin.mp4",
+                    "end_bump": "extra/post-aladdin.mp4",
+                    "bump_dir": "extra/aladdin_bumps",
+                    "commercial_dir": "commercials/disney_afternoon_commercials",
+                    "break_strategy": "center",
+                    "sequence": "shuffle",
+                    "sequence_start": 0,
+                    "random_tags": false,
+                    "schedule_increment": 30
+                },
+                {
+                    "tags": "ducktales_2017",
+                    "start_bump": "extra/pre-ducktales2017.mp4",
+                    "end_bump": "extra/post-ducktales2017.mp4",
+                    "bump_dir": "extra/ducktales2017_bumps",
+                    "commercial_dir": "commercials/disney_afternoon_commercials",
+                    "break_strategy": "center",
+                    "sequence": "shuffle",
+                    "sequence_start": 0,
+                    "random_tags": false,
+                    "schedule_increment": 30
+                }
+            ],
+            "16": [
+                {
+                    "tags": "talespin",
+                    "start_bump": "extra/pre-talespin.mp4",
+                    "end_bump": "extra/post-talespin.mp4",
+                    "bump_dir": "extra/talespin_bumps",
+                    "commercial_dir": "commercials/disney_afternoon_commercials",
+                    "break_strategy": "center",
+                    "sequence": "shuffle",
+                    "sequence_start": 0,
+                    "random_tags": false,
+                    "schedule_increment": 30
+                },
+                {
+                    "tags": "rescue_rangers",
+                    "start_bump": "extra/pre-rescue.mp4",
+                    "end_bump": "extra/post-rescue.mp4",
+                    "bump_dir": "extra/rescue_bumps",
+                    "commercial_dir": "commercials/disney_afternoon_commercials",
+                    "break_strategy": "center",
+                    "sequence": "shuffle",
+                    "sequence_start": 0,
+                    "random_tags": false,
+                    "schedule_increment": 30
+                }
+            ],
+            "17": [
+                {
+                    "tags": "darkwing_duck",
+                    "start_bump": "extra/pre-darkwing_duck.mp4",
+                    "end_bump": "extra/post-darkwing_duck.mp4",
+                    "bump_dir": "extra/darkwing_duck_bumps",
+                    "commercial_dir": "commercials/disney_afternoon_commercials",
+                    "break_strategy": "center",
+                    "sequence": "shuffle",
+                    "sequence_start": 0,
+                    "random_tags": false,
+                    "schedule_increment": 30
+                },
+                {
+                    "tags": "aladdin",
+                    "start_bump": "extra/pre-aladdin.mp4",
+                    "end_bump": "extra/post-aladdin.mp4",
+                    "bump_dir": "extra/aladdin_bumps",
+                    "commercial_dir": "commercials/disney_afternoon_commercials",
+                    "break_strategy": "center",
+                    "sequence": "shuffle",
+                    "sequence_start": 0,
+                    "random_tags": false,
+                    "schedule_increment": 30
+                }
+            ],
+            "18": {
+                "tags": [
+                    "prime_time_kids"
+                ],
+                "break_strategy": "center",
+                "sequence": "shuffle",
+                "random_tags": false,
+                "schedule_increment": 30
+            },
+            "19": {
+                "tags": [
+                    "the_simpsons",
+                    "king_of_the_hill"
+                ],
+                "sequence": "shuffle",
+                "random_tags": false,
+                "schedule_increment": 30
+            },
+            "20": {
+                "tags": [
+                    "the_simpsons",
+                    "king_of_the_hill"
+                ],
+                "sequence": "shuffle",
+                "random_tags": false,
+                "schedule_increment": 30
+            },
+            "21": {
+                "tags": [
+                    "adult_cartoon_block"
+                ],
+                "sequence": "shuffle",
+                "random_tags": false,
+                "schedule_increment": 30
+            },
+            "22": {
+                "tags": [
+                    "adult_cartoon_block"
+                ],
+                "sequence": "shuffle",
+                "random_tags": false,
+                "schedule_increment": 30
+            },
+            "23": {
+                "tags": [
+                    "adult_cartoon_block"
+                ],
+                "sequence": "shuffle",
+                "random_tags": false,
+                "schedule_increment": 30
+            }
+        }
+    }
+}
