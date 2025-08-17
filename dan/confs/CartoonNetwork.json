@@ -1,0 +1,3395 @@
+{"station_conf"  : {
+    "network_name" : "CartoonNetwork",
+    "channel_number": 32,
+
+    "network_type": "standard",
+    "schedule_increment": 30,
+    "break_strategy": "standard",
+    "commercial_free": false, 
+    "break_duration": 120,
+
+    "catalog_path" : "catalog/CartoonNetwork_catalog.bin",
+    "content_dir" : "catalog/CartoonNetwork",
+    "commercial_dir" : "commercial",
+    "bump_dir" : "bump",
+    "clip_shows": [
+        "Aqua Teen Hunger Force",
+        "Check it Out With Dr Steve Brule",
+        "Harvey Birdman Attorney at Law",
+        "Loiter Squad",
+        "Morel Orel",
+        "Robot Chicken",
+        "Space Ghost Coast to Coast",
+        "Squidbillies",
+        "The Brak Show",
+        "The Eric Andre Show",
+        "The Venture Bros",
+        "Tim and Eric Awesome Show"
+],
+    
+    "runtime_dir" : "runtime/CartoonNetwork",
+    "schedule_path": "runtime/CartoonNetwork_schedule.bin",
+    "sign_off_video": "runtime/signoff.mp4",
+    "off_air_video": "runtime/off_air_pattern.mp4",
+    "standby_image": "runtime/standby.png",
+
+    "monday": {
+    "0": {
+      "tags": [
+        "Aqua Teen Hunger Force",
+        "Check it Out With Dr Steve Brule",
+        "Harvey Birdman Attorney at Law",
+        "Loiter Squad",
+        "Morel Orel",
+        "Robot Chicken",
+        "Robot Chicken",
+        "Space Ghost Coast to Coast",
+        "Squidbillies",
+        "Squidbillies",
+        "Aqua Teen Hunger Force",
+        "The Brak Show",
+        "The Eric Andre Show",
+        "The Venture Bros",
+        "Tim and Eric Awesome Show"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Aqua Teen Hunger Force",
+        "Check it Out With Dr Steve Brule",
+        "Harvey Birdman Attorney at Law",
+        "Loiter Squad",
+        "Morel Orel",
+        "Robot Chicken",
+        "Robot Chicken",
+        "Space Ghost Coast to Coast",
+        "Squidbillies",
+        "Squidbillies",
+        "Aqua Teen Hunger Force",
+        "The Brak Show",
+        "The Eric Andre Show",
+        "The Venture Bros",
+        "Tim and Eric Awesome Show"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "Aqua Teen Hunger Force",
+        "Check it Out With Dr Steve Brule",
+        "Harvey Birdman Attorney at Law",
+        "Loiter Squad",
+        "Morel Orel",
+        "Robot Chicken",
+        "Robot Chicken",
+        "Space Ghost Coast to Coast",
+        "Squidbillies",
+        "Squidbillies",
+        "Aqua Teen Hunger Force",
+        "The Brak Show",
+        "The Eric Andre Show",
+        "The Venture Bros",
+        "Tim and Eric Awesome Show"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "Aqua Teen Hunger Force",
+        "Check it Out With Dr Steve Brule",
+        "Harvey Birdman Attorney at Law",
+        "Loiter Squad",
+        "Morel Orel",
+        "Robot Chicken",
+        "Robot Chicken",
+        "Space Ghost Coast to Coast",
+        "Squidbillies",
+        "Squidbillies",
+        "Aqua Teen Hunger Force",
+        "The Brak Show",
+        "The Eric Andre Show",
+        "The Boondocks",
+        "The Venture Bros",
+        "Tim and Eric Awesome Show"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "Pokemon",
+        "Pokemon",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Pokemon",
+        "Pokemon",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "A Pup Named Scooby Doo",
+        "Baby Looney Tunes",
+        "Scooby Doo Where are You",
+        "The 13 Ghosts of Scooby Doo",
+        "The Flintstones",
+        "The Jetsons",
+        "The New Scooby Doo Movies",
+        "Whats New Scooby Doo"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "A Pup Named Scooby Doo",
+        "Baby Looney Tunes",
+        "Scooby Doo Where are You",
+        "The 13 Ghosts of Scooby Doo",
+        "The Flintstones",
+        "The Jetsons",
+        "The New Scooby Doo Movies",
+        "Whats New Scooby Doo"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "A Pup Named Scooby Doo",
+        "Baby Looney Tunes",
+        "Scooby Doo Where are You",
+        "The 13 Ghosts of Scooby Doo",
+        "The Flintstones",
+        "The Jetsons",
+        "The New Scooby Doo Movies",
+        "Whats New Scooby Doo"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "A Pup Named Scooby Doo",
+        "Baby Looney Tunes",
+        "Scooby Doo Where are You",
+        "The 13 Ghosts of Scooby Doo",
+        "The Flintstones",
+        "The Jetsons",
+        "The New Scooby Doo Movies",
+        "Whats New Scooby Doo"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "Pokemon",
+        "Pokemon",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "Pokemon",
+        "Pokemon",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "BrainRush",
+        "Destroy Build Destroy",
+        "Dude What Would Happen"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "King of the HIll",
+        "King of the HIll",
+        "Family Guy",
+        "Futurama",
+        "American Dad"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "King of the HIll",
+        "King of the HIll",
+        "Family Guy",
+        "Futurama",
+        "American Dad"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    }
+    },
+    "tuesday": {
+    "0": {
+      "tags": [
+        "Aqua Teen Hunger Force",
+        "Check it Out With Dr Steve Brule",
+        "Harvey Birdman Attorney at Law",
+        "Loiter Squad",
+        "Morel Orel",
+        "Robot Chicken",
+        "Robot Chicken",
+        "Space Ghost Coast to Coast",
+        "Squidbillies",
+        "Squidbillies",
+        "Aqua Teen Hunger Force",
+        "The Brak Show",
+        "The Eric Andre Show",
+        "The Venture Bros",
+        "Tim and Eric Awesome Show"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Aqua Teen Hunger Force",
+        "Check it Out With Dr Steve Brule",
+        "Harvey Birdman Attorney at Law",
+        "Loiter Squad",
+        "Morel Orel",
+        "Robot Chicken",
+        "Robot Chicken",
+        "Space Ghost Coast to Coast",
+        "Squidbillies",
+        "Squidbillies",
+        "Aqua Teen Hunger Force",
+        "The Brak Show",
+        "The Eric Andre Show",
+        "The Venture Bros",
+        "Tim and Eric Awesome Show"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "Aqua Teen Hunger Force",
+        "Check it Out With Dr Steve Brule",
+        "Harvey Birdman Attorney at Law",
+        "Loiter Squad",
+        "Morel Orel",
+        "Robot Chicken",
+        "Robot Chicken",
+        "Space Ghost Coast to Coast",
+        "Squidbillies",
+        "Squidbillies",
+        "Aqua Teen Hunger Force",
+        "The Brak Show",
+        "The Eric Andre Show",
+        "The Venture Bros",
+        "Tim and Eric Awesome Show"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "Aqua Teen Hunger Force",
+        "Check it Out With Dr Steve Brule",
+        "Harvey Birdman Attorney at Law",
+        "Loiter Squad",
+        "Morel Orel",
+        "Robot Chicken",
+        "Robot Chicken",
+        "Space Ghost Coast to Coast",
+        "Squidbillies",
+        "Squidbillies",
+        "Aqua Teen Hunger Force",
+        "The Brak Show",
+        "The Eric Andre Show",
+        "The Boondocks",
+        "The Venture Bros",
+        "Tim and Eric Awesome Show"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "Pokemon",
+        "Pokemon",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Pokemon",
+        "Pokemon",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "A Pup Named Scooby Doo",
+        "Baby Looney Tunes",
+        "Scooby Doo Where are You",
+        "The 13 Ghosts of Scooby Doo",
+        "The Flintstones",
+        "The Jetsons",
+        "The New Scooby Doo Movies",
+        "Whats New Scooby Doo"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "A Pup Named Scooby Doo",
+        "Baby Looney Tunes",
+        "Scooby Doo Where are You",
+        "The 13 Ghosts of Scooby Doo",
+        "The Flintstones",
+        "The Jetsons",
+        "The New Scooby Doo Movies",
+        "Whats New Scooby Doo"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "A Pup Named Scooby Doo",
+        "Baby Looney Tunes",
+        "Scooby Doo Where are You",
+        "The 13 Ghosts of Scooby Doo",
+        "The Flintstones",
+        "The Jetsons",
+        "The New Scooby Doo Movies",
+        "Whats New Scooby Doo"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "A Pup Named Scooby Doo",
+        "Baby Looney Tunes",
+        "Scooby Doo Where are You",
+        "The 13 Ghosts of Scooby Doo",
+        "The Flintstones",
+        "The Jetsons",
+        "The New Scooby Doo Movies",
+        "Whats New Scooby Doo"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "Pokemon",
+        "Pokemon",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "Pokemon",
+        "Pokemon",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "BrainRush",
+        "Destroy Build Destroy",
+        "Dude What Would Happen"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "King of the HIll",
+        "King of the HIll",
+        "Family Guy",
+        "Futurama",
+        "American Dad"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "King of the HIll",
+        "King of the HIll",
+        "Family Guy",
+        "Futurama",
+        "American Dad"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    }
+    },
+    "wednesday": {
+    "0": {
+      "tags": [
+        "Aqua Teen Hunger Force",
+        "Check it Out With Dr Steve Brule",
+        "Harvey Birdman Attorney at Law",
+        "Loiter Squad",
+        "Morel Orel",
+        "Robot Chicken",
+        "Robot Chicken",
+        "Space Ghost Coast to Coast",
+        "Squidbillies",
+        "Squidbillies",
+        "Aqua Teen Hunger Force",
+        "The Brak Show",
+        "The Eric Andre Show",
+        "The Venture Bros",
+        "Tim and Eric Awesome Show"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Aqua Teen Hunger Force",
+        "Check it Out With Dr Steve Brule",
+        "Harvey Birdman Attorney at Law",
+        "Loiter Squad",
+        "Morel Orel",
+        "Robot Chicken",
+        "Robot Chicken",
+        "Space Ghost Coast to Coast",
+        "Squidbillies",
+        "Squidbillies",
+        "Aqua Teen Hunger Force",
+        "The Brak Show",
+        "The Eric Andre Show",
+        "The Venture Bros",
+        "Tim and Eric Awesome Show"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "Aqua Teen Hunger Force",
+        "Check it Out With Dr Steve Brule",
+        "Harvey Birdman Attorney at Law",
+        "Loiter Squad",
+        "Morel Orel",
+        "Robot Chicken",
+        "Robot Chicken",
+        "Space Ghost Coast to Coast",
+        "Squidbillies",
+        "Squidbillies",
+        "Aqua Teen Hunger Force",
+        "The Brak Show",
+        "The Eric Andre Show",
+        "The Venture Bros",
+        "Tim and Eric Awesome Show"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "Aqua Teen Hunger Force",
+        "Check it Out With Dr Steve Brule",
+        "Harvey Birdman Attorney at Law",
+        "Loiter Squad",
+        "Morel Orel",
+        "Robot Chicken",
+        "Robot Chicken",
+        "Space Ghost Coast to Coast",
+        "Squidbillies",
+        "Squidbillies",
+        "Aqua Teen Hunger Force",
+        "The Brak Show",
+        "The Eric Andre Show",
+        "The Boondocks",
+        "The Venture Bros",
+        "Tim and Eric Awesome Show"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "Pokemon",
+        "Pokemon",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Pokemon",
+        "Pokemon",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "A Pup Named Scooby Doo",
+        "Baby Looney Tunes",
+        "Scooby Doo Where are You",
+        "The 13 Ghosts of Scooby Doo",
+        "The Flintstones",
+        "The Jetsons",
+        "The New Scooby Doo Movies",
+        "Whats New Scooby Doo"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "A Pup Named Scooby Doo",
+        "Baby Looney Tunes",
+        "Scooby Doo Where are You",
+        "The 13 Ghosts of Scooby Doo",
+        "The Flintstones",
+        "The Jetsons",
+        "The New Scooby Doo Movies",
+        "Whats New Scooby Doo"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "A Pup Named Scooby Doo",
+        "Baby Looney Tunes",
+        "Scooby Doo Where are You",
+        "The 13 Ghosts of Scooby Doo",
+        "The Flintstones",
+        "The Jetsons",
+        "The New Scooby Doo Movies",
+        "Whats New Scooby Doo"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "A Pup Named Scooby Doo",
+        "Baby Looney Tunes",
+        "Scooby Doo Where are You",
+        "The 13 Ghosts of Scooby Doo",
+        "The Flintstones",
+        "The Jetsons",
+        "The New Scooby Doo Movies",
+        "Whats New Scooby Doo"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "Pokemon",
+        "Pokemon",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "Pokemon",
+        "Pokemon",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "BrainRush",
+        "Destroy Build Destroy",
+        "Dude What Would Happen"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "King of the HIll",
+        "King of the HIll",
+        "Family Guy",
+        "Futurama",
+        "American Dad"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "King of the HIll",
+        "King of the HIll",
+        "Family Guy",
+        "Futurama",
+        "American Dad"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    }
+    },
+    "thursday": {
+    "0": {
+      "tags": [
+        "Aqua Teen Hunger Force",
+        "Check it Out With Dr Steve Brule",
+        "Harvey Birdman Attorney at Law",
+        "Loiter Squad",
+        "Morel Orel",
+        "Robot Chicken",
+        "Robot Chicken",
+        "Space Ghost Coast to Coast",
+        "Squidbillies",
+        "Squidbillies",
+        "Aqua Teen Hunger Force",
+        "The Brak Show",
+        "The Eric Andre Show",
+        "The Venture Bros",
+        "Tim and Eric Awesome Show"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Aqua Teen Hunger Force",
+        "Check it Out With Dr Steve Brule",
+        "Harvey Birdman Attorney at Law",
+        "Loiter Squad",
+        "Morel Orel",
+        "Robot Chicken",
+        "Robot Chicken",
+        "Space Ghost Coast to Coast",
+        "Squidbillies",
+        "Squidbillies",
+        "Aqua Teen Hunger Force",
+        "The Brak Show",
+        "The Eric Andre Show",
+        "The Venture Bros",
+        "Tim and Eric Awesome Show"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "Aqua Teen Hunger Force",
+        "Check it Out With Dr Steve Brule",
+        "Harvey Birdman Attorney at Law",
+        "Loiter Squad",
+        "Morel Orel",
+        "Robot Chicken",
+        "Robot Chicken",
+        "Space Ghost Coast to Coast",
+        "Squidbillies",
+        "Squidbillies",
+        "Aqua Teen Hunger Force",
+        "The Brak Show",
+        "The Eric Andre Show",
+        "The Venture Bros",
+        "Tim and Eric Awesome Show"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "Aqua Teen Hunger Force",
+        "Check it Out With Dr Steve Brule",
+        "Harvey Birdman Attorney at Law",
+        "Loiter Squad",
+        "Morel Orel",
+        "Robot Chicken",
+        "Robot Chicken",
+        "Space Ghost Coast to Coast",
+        "Squidbillies",
+        "Squidbillies",
+        "Aqua Teen Hunger Force",
+        "The Brak Show",
+        "The Eric Andre Show",
+        "The Boondocks",
+        "The Venture Bros",
+        "Tim and Eric Awesome Show"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "Pokemon",
+        "Pokemon",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Pokemon",
+        "Pokemon",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "A Pup Named Scooby Doo",
+        "Baby Looney Tunes",
+        "Scooby Doo Where are You",
+        "The 13 Ghosts of Scooby Doo",
+        "The Flintstones",
+        "The Jetsons",
+        "The New Scooby Doo Movies",
+        "Whats New Scooby Doo"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "A Pup Named Scooby Doo",
+        "Baby Looney Tunes",
+        "Scooby Doo Where are You",
+        "The 13 Ghosts of Scooby Doo",
+        "The Flintstones",
+        "The Jetsons",
+        "The New Scooby Doo Movies",
+        "Whats New Scooby Doo"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "A Pup Named Scooby Doo",
+        "Baby Looney Tunes",
+        "Scooby Doo Where are You",
+        "The 13 Ghosts of Scooby Doo",
+        "The Flintstones",
+        "The Jetsons",
+        "The New Scooby Doo Movies",
+        "Whats New Scooby Doo"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "A Pup Named Scooby Doo",
+        "Baby Looney Tunes",
+        "Scooby Doo Where are You",
+        "The 13 Ghosts of Scooby Doo",
+        "The Flintstones",
+        "The Jetsons",
+        "The New Scooby Doo Movies",
+        "Whats New Scooby Doo"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "Pokemon",
+        "Pokemon",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "Pokemon",
+        "Pokemon",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "BrainRush",
+        "Destroy Build Destroy",
+        "Dude What Would Happen"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "King of the HIll",
+        "King of the HIll",
+        "Family Guy",
+        "Futurama",
+        "American Dad"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "King of the HIll",
+        "King of the HIll",
+        "Family Guy",
+        "Futurama",
+        "American Dad"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    }
+    },
+    "friday": {
+    "0": {
+      "tags": [
+        "Aqua Teen Hunger Force",
+        "Check it Out With Dr Steve Brule",
+        "Harvey Birdman Attorney at Law",
+        "Loiter Squad",
+        "Morel Orel",
+        "Robot Chicken",
+        "Robot Chicken",
+        "Space Ghost Coast to Coast",
+        "Squidbillies",
+        "Squidbillies",
+        "Aqua Teen Hunger Force",
+        "The Brak Show",
+        "The Eric Andre Show",
+        "The Venture Bros",
+        "Tim and Eric Awesome Show"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Aqua Teen Hunger Force",
+        "Check it Out With Dr Steve Brule",
+        "Harvey Birdman Attorney at Law",
+        "Loiter Squad",
+        "Morel Orel",
+        "Robot Chicken",
+        "Robot Chicken",
+        "Space Ghost Coast to Coast",
+        "Squidbillies",
+        "Squidbillies",
+        "Aqua Teen Hunger Force",
+        "The Brak Show",
+        "The Eric Andre Show",
+        "The Venture Bros",
+        "Tim and Eric Awesome Show"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "Aqua Teen Hunger Force",
+        "Check it Out With Dr Steve Brule",
+        "Harvey Birdman Attorney at Law",
+        "Loiter Squad",
+        "Morel Orel",
+        "Robot Chicken",
+        "Robot Chicken",
+        "Space Ghost Coast to Coast",
+        "Squidbillies",
+        "Squidbillies",
+        "Aqua Teen Hunger Force",
+        "The Brak Show",
+        "The Eric Andre Show",
+        "The Venture Bros",
+        "Tim and Eric Awesome Show"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "Aqua Teen Hunger Force",
+        "Check it Out With Dr Steve Brule",
+        "Harvey Birdman Attorney at Law",
+        "Loiter Squad",
+        "Morel Orel",
+        "Robot Chicken",
+        "Robot Chicken",
+        "Space Ghost Coast to Coast",
+        "Squidbillies",
+        "Squidbillies",
+        "Aqua Teen Hunger Force",
+        "The Brak Show",
+        "The Eric Andre Show",
+        "The Boondocks",
+        "The Venture Bros",
+        "Tim and Eric Awesome Show"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "Pokemon",
+        "Pokemon",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Pokemon",
+        "Pokemon",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "A Pup Named Scooby Doo",
+        "Baby Looney Tunes",
+        "Scooby Doo Where are You",
+        "The 13 Ghosts of Scooby Doo",
+        "The Flintstones",
+        "The Jetsons",
+        "The New Scooby Doo Movies",
+        "Whats New Scooby Doo"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "A Pup Named Scooby Doo",
+        "Baby Looney Tunes",
+        "Scooby Doo Where are You",
+        "The 13 Ghosts of Scooby Doo",
+        "The Flintstones",
+        "The Jetsons",
+        "The New Scooby Doo Movies",
+        "Whats New Scooby Doo"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "A Pup Named Scooby Doo",
+        "Baby Looney Tunes",
+        "Scooby Doo Where are You",
+        "The 13 Ghosts of Scooby Doo",
+        "The Flintstones",
+        "The Jetsons",
+        "The New Scooby Doo Movies",
+        "Whats New Scooby Doo"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "A Pup Named Scooby Doo",
+        "Baby Looney Tunes",
+        "Scooby Doo Where are You",
+        "The 13 Ghosts of Scooby Doo",
+        "The Flintstones",
+        "The Jetsons",
+        "The New Scooby Doo Movies",
+        "Whats New Scooby Doo"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "Pokemon",
+        "Pokemon",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "Pokemon",
+        "Pokemon",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": "Movies"
+    },
+    "20": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "King of the HIll",
+        "King of the HIll",
+        "Family Guy",
+        "Futurama",
+        "American Dad"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "King of the HIll",
+        "King of the HIll",
+        "Family Guy",
+        "Futurama",
+        "American Dad"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    }
+    },
+    "saturday": {
+    "0": {
+      "tags": [
+        "Aqua Teen Hunger Force",
+        "Check it Out With Dr Steve Brule",
+        "Harvey Birdman Attorney at Law",
+        "Loiter Squad",
+        "Morel Orel",
+        "Robot Chicken",
+        "Robot Chicken",
+        "Space Ghost Coast to Coast",
+        "Squidbillies",
+        "Squidbillies",
+        "Aqua Teen Hunger Force",
+        "The Brak Show",
+        "The Eric Andre Show",
+        "The Venture Bros",
+        "Tim and Eric Awesome Show"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Aqua Teen Hunger Force",
+        "Check it Out With Dr Steve Brule",
+        "Harvey Birdman Attorney at Law",
+        "Loiter Squad",
+        "Morel Orel",
+        "Robot Chicken",
+        "Robot Chicken",
+        "Space Ghost Coast to Coast",
+        "Squidbillies",
+        "Squidbillies",
+        "Aqua Teen Hunger Force",
+        "The Brak Show",
+        "The Eric Andre Show",
+        "The Venture Bros",
+        "Tim and Eric Awesome Show"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "Aqua Teen Hunger Force",
+        "Check it Out With Dr Steve Brule",
+        "Harvey Birdman Attorney at Law",
+        "Loiter Squad",
+        "Morel Orel",
+        "Robot Chicken",
+        "Robot Chicken",
+        "Space Ghost Coast to Coast",
+        "Squidbillies",
+        "Squidbillies",
+        "Aqua Teen Hunger Force",
+        "The Brak Show",
+        "The Eric Andre Show",
+        "The Venture Bros",
+        "Tim and Eric Awesome Show"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "Aqua Teen Hunger Force",
+        "Check it Out With Dr Steve Brule",
+        "Harvey Birdman Attorney at Law",
+        "Loiter Squad",
+        "Morel Orel",
+        "Robot Chicken",
+        "Robot Chicken",
+        "Space Ghost Coast to Coast",
+        "Squidbillies",
+        "Squidbillies",
+        "Aqua Teen Hunger Force",
+        "The Brak Show",
+        "The Eric Andre Show",
+        "The Boondocks",
+        "The Venture Bros",
+        "Tim and Eric Awesome Show"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "Pokemon",
+        "Pokemon",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Pokemon",
+        "Pokemon",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "A Pup Named Scooby Doo",
+        "Baby Looney Tunes",
+        "Scooby Doo Where are You",
+        "The 13 Ghosts of Scooby Doo",
+        "The Flintstones",
+        "The Jetsons",
+        "The New Scooby Doo Movies",
+        "Whats New Scooby Doo"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "A Pup Named Scooby Doo",
+        "Baby Looney Tunes",
+        "Scooby Doo Where are You",
+        "The 13 Ghosts of Scooby Doo",
+        "The Flintstones",
+        "The Jetsons",
+        "The New Scooby Doo Movies",
+        "Whats New Scooby Doo"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "A Pup Named Scooby Doo",
+        "Baby Looney Tunes",
+        "Scooby Doo Where are You",
+        "The 13 Ghosts of Scooby Doo",
+        "The Flintstones",
+        "The Jetsons",
+        "The New Scooby Doo Movies",
+        "Whats New Scooby Doo"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "A Pup Named Scooby Doo",
+        "Baby Looney Tunes",
+        "Scooby Doo Where are You",
+        "The 13 Ghosts of Scooby Doo",
+        "The Flintstones",
+        "The Jetsons",
+        "The New Scooby Doo Movies",
+        "Whats New Scooby Doo"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "Pokemon",
+        "Pokemon",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "Pokemon",
+        "Pokemon",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "BrainRush",
+        "Destroy Build Destroy",
+        "Dude What Would Happen"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": "Movies"
+    },
+    "21": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "King of the HIll",
+        "King of the HIll",
+        "Family Guy",
+        "Futurama",
+        "American Dad"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "King of the HIll",
+        "King of the HIll",
+        "Family Guy",
+        "Futurama",
+        "American Dad"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    }
+    },
+    "sunday": {
+    "0": {
+      "tags": [
+        "Aqua Teen Hunger Force",
+        "Check it Out With Dr Steve Brule",
+        "Harvey Birdman Attorney at Law",
+        "Loiter Squad",
+        "Morel Orel",
+        "Robot Chicken",
+        "Robot Chicken",
+        "Space Ghost Coast to Coast",
+        "Squidbillies",
+        "Squidbillies",
+        "Aqua Teen Hunger Force",
+        "The Brak Show",
+        "The Eric Andre Show",
+        "The Venture Bros",
+        "Tim and Eric Awesome Show"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Aqua Teen Hunger Force",
+        "Check it Out With Dr Steve Brule",
+        "Harvey Birdman Attorney at Law",
+        "Loiter Squad",
+        "Morel Orel",
+        "Robot Chicken",
+        "Robot Chicken",
+        "Space Ghost Coast to Coast",
+        "Squidbillies",
+        "Squidbillies",
+        "Aqua Teen Hunger Force",
+        "The Brak Show",
+        "The Eric Andre Show",
+        "The Venture Bros",
+        "Tim and Eric Awesome Show"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "Aqua Teen Hunger Force",
+        "Check it Out With Dr Steve Brule",
+        "Harvey Birdman Attorney at Law",
+        "Loiter Squad",
+        "Morel Orel",
+        "Robot Chicken",
+        "Robot Chicken",
+        "Space Ghost Coast to Coast",
+        "Squidbillies",
+        "Squidbillies",
+        "Aqua Teen Hunger Force",
+        "The Brak Show",
+        "The Eric Andre Show",
+        "The Venture Bros",
+        "Tim and Eric Awesome Show"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "Aqua Teen Hunger Force",
+        "Check it Out With Dr Steve Brule",
+        "Harvey Birdman Attorney at Law",
+        "Loiter Squad",
+        "Morel Orel",
+        "Robot Chicken",
+        "Robot Chicken",
+        "Space Ghost Coast to Coast",
+        "Squidbillies",
+        "Squidbillies",
+        "Aqua Teen Hunger Force",
+        "The Brak Show",
+        "The Eric Andre Show",
+        "The Boondocks",
+        "The Venture Bros",
+        "Tim and Eric Awesome Show"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "Pokemon",
+        "Pokemon",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Pokemon",
+        "Pokemon",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "A Pup Named Scooby Doo",
+        "Baby Looney Tunes",
+        "Scooby Doo Where are You",
+        "The 13 Ghosts of Scooby Doo",
+        "The Flintstones",
+        "The Jetsons",
+        "The New Scooby Doo Movies",
+        "Whats New Scooby Doo"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "A Pup Named Scooby Doo",
+        "Baby Looney Tunes",
+        "Scooby Doo Where are You",
+        "The 13 Ghosts of Scooby Doo",
+        "The Flintstones",
+        "The Jetsons",
+        "The New Scooby Doo Movies",
+        "Whats New Scooby Doo"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "A Pup Named Scooby Doo",
+        "Baby Looney Tunes",
+        "Scooby Doo Where are You",
+        "The 13 Ghosts of Scooby Doo",
+        "The Flintstones",
+        "The Jetsons",
+        "The New Scooby Doo Movies",
+        "Whats New Scooby Doo"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "A Pup Named Scooby Doo",
+        "Baby Looney Tunes",
+        "Scooby Doo Where are You",
+        "The 13 Ghosts of Scooby Doo",
+        "The Flintstones",
+        "The Jetsons",
+        "The New Scooby Doo Movies",
+        "Whats New Scooby Doo"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "Pokemon",
+        "Pokemon",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "Pokemon",
+        "Pokemon",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": "Movies"
+    },
+    "20": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "6teen",
+        "Adventure Time",
+        "Batman The Animated Series",
+        "Ben 10",
+        "Camp Lazlo",
+        "Chowder",
+        "Code Name Kids Next Door",
+        "Courage the Cowardly Dog",
+        "Dexters Laboratory",
+        "Ed Edd n Eddy",
+        "Fosters Home for Imaginary Friends",
+
+        "Hi Hi Puffy AmiYumi Show",
+        "Johnny Bravo",
+        "Johnny Test",
+        "Justice League Unlimited",
+        "Samurai Jack",
+        "Teen Titans",
+        "The Batman",
+        "The Grim Adventures of Billy and Mandy",
+        "The Marvelous Misadventures of Flapjack",
+        "The Powerpuff Girls",
+        "Total Drama Action",
+        "Total Drama Island",
+        "Xiaolin Showdown"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "King of the HIll",
+        "King of the HIll",
+        "Family Guy",
+        "Futurama",
+        "American Dad"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "King of the HIll",
+        "King of the HIll",
+        "Family Guy",
+        "Futurama",
+        "American Dad"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "Adult Swim",
+      "random_tags": true
+    }
+    }
+}
+}

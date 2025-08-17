@@ -1,0 +1,2151 @@
+{"station_conf"  : {
+    "network_name" : "NBC",
+    "channel_number": 4,
+
+    "network_type": "standard",
+    "schedule_increment": 30,
+    "break_strategy": "standard",
+    "commercial_free": false, 
+    "break_duration": 120,
+
+    "catalog_path" : "catalog/NBC_catalog.bin",
+    "content_dir" : "catalog/NBC",
+    "commercial_dir" : "commercial",
+    "bump_dir" : "bump",
+    
+    "runtime_dir" : "runtime/NBC",
+    "schedule_path": "runtime/NBC_schedule.bin",
+    "sign_off_video": "runtime/signoff.mp4",
+    "off_air_video": "runtime/off_air_pattern.mp4",
+    "standby_image": "runtime/standby.png",
+
+    "monday": {
+    "0": {
+      "tags": "Late Night with Conan"
+    },
+    "1": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Crossing Jordan",
+        "Fear Factor",
+        "Homicide Life on the Street",
+        "Las Vegas",
+        "Law and Order",
+        "Law and Order SVU",
+        "The Apprentice"
+      ],
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "Crossing Jordan",
+        "Fear Factor",
+        "Homicide Life on the Street",
+        "Las Vegas",
+        "Law and Order",
+        "Law and Order SVU",
+        "The Apprentice"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": "Today Show"
+    },
+    "8": {
+      "tags": "Today Show"
+    },
+    "9": {
+      "tags": [
+        "Judge Judy",
+        "The Jerry Springer Show",
+        "Judge Joe Brown"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Judge Judy",
+        "The Jerry Springer Show",
+        "Judge Joe Brown"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Judge Judy",
+        "The Jerry Springer Show",
+        "Judge Joe Brown"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "Jeopardy",
+        "The Biggest Loser",
+        "Deal or No Deal",
+        "Wheel of Fortune"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "Jeopardy",
+        "The Biggest Loser",
+        "Deal or No Deal",
+        "Wheel of Fortune",
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "Access Hollywood",
+        "Entertainment Tonight"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Crossing Jordan",
+        "Fear Factor",
+        "Homicide Life on the Street",
+        "Las Vegas",
+        "Law and Order",
+        "Law and Order SVU",
+        "The Apprentice",
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Crossing Jordan",
+        "Fear Factor",
+        "Homicide Life on the Street",
+        "Las Vegas",
+        "Law and Order",
+        "Law and Order SVU",
+        "The Apprentice",
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": "The Tonight Show with Jay Leno"
+    }
+    },
+    "tuesday": {
+    "0": {
+      "tags": "Late Night with Conan"
+    },
+    "1": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Crossing Jordan",
+        "Fear Factor",
+        "Homicide Life on the Street",
+        "Las Vegas",
+        "Law and Order",
+        "Law and Order SVU",
+        "The Apprentice"
+      ],
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "Crossing Jordan",
+        "Fear Factor",
+        "Homicide Life on the Street",
+        "Las Vegas",
+        "Law and Order",
+        "Law and Order SVU",
+        "The Apprentice"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": "Today Show"
+    },
+    "8": {
+      "tags": "Today Show"
+    },
+    "9": {
+      "tags": [
+        "Judge Judy",
+        "The Jerry Springer Show",
+        "Judge Joe Brown"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Judge Judy",
+        "The Jerry Springer Show",
+        "Judge Joe Brown"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Judge Judy",
+        "The Jerry Springer Show",
+        "Judge Joe Brown"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "Jeopardy",
+        "The Biggest Loser",
+        "Deal or No Deal",
+        "Wheel of Fortune"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "Jeopardy",
+        "The Biggest Loser",
+        "Deal or No Deal",
+        "Wheel of Fortune",
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "Access Hollywood",
+        "Entertainment Tonight"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Crossing Jordan",
+        "Fear Factor",
+        "Homicide Life on the Street",
+        "Las Vegas",
+        "Law and Order",
+        "Law and Order SVU",
+        "The Apprentice",
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Crossing Jordan",
+        "Fear Factor",
+        "Homicide Life on the Street",
+        "Las Vegas",
+        "Law and Order",
+        "Law and Order SVU",
+        "The Apprentice",
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": "The Tonight Show with Jay Leno"
+    }
+    },
+    "wednesday": {
+    "0": {
+      "tags": "Late Night with Conan"
+    },
+    "1": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Crossing Jordan",
+        "Fear Factor",
+        "Homicide Life on the Street",
+        "Las Vegas",
+        "Law and Order",
+        "Law and Order SVU",
+        "The Apprentice"
+      ],
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "Crossing Jordan",
+        "Fear Factor",
+        "Homicide Life on the Street",
+        "Las Vegas",
+        "Law and Order",
+        "Law and Order SVU",
+        "The Apprentice"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": "Today Show"
+    },
+    "8": {
+      "tags": "Today Show"
+    },
+    "9": {
+      "tags": [
+        "Judge Judy",
+        "The Jerry Springer Show",
+        "Judge Joe Brown"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Judge Judy",
+        "The Jerry Springer Show",
+        "Judge Joe Brown"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Judge Judy",
+        "The Jerry Springer Show",
+        "Judge Joe Brown"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "Jeopardy",
+        "The Biggest Loser",
+        "Deal or No Deal",
+        "Wheel of Fortune"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "Jeopardy",
+        "The Biggest Loser",
+        "Deal or No Deal",
+        "Wheel of Fortune",
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "Access Hollywood",
+        "Entertainment Tonight"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Crossing Jordan",
+        "Fear Factor",
+        "Homicide Life on the Street",
+        "Las Vegas",
+        "Law and Order",
+        "Law and Order SVU",
+        "The Apprentice",
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Crossing Jordan",
+        "Fear Factor",
+        "Homicide Life on the Street",
+        "Las Vegas",
+        "Law and Order",
+        "Law and Order SVU",
+        "The Apprentice",
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": "The Tonight Show with Jay Leno"
+    }
+    },
+    "thursday": {
+    "0": {
+      "tags": "Late Night with Conan"
+    },
+    "1": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Crossing Jordan",
+        "Fear Factor",
+        "Homicide Life on the Street",
+        "Las Vegas",
+        "Law and Order",
+        "Law and Order SVU",
+        "The Apprentice"
+      ],
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "Crossing Jordan",
+        "Fear Factor",
+        "Homicide Life on the Street",
+        "Las Vegas",
+        "Law and Order",
+        "Law and Order SVU",
+        "The Apprentice"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": "Today Show"
+    },
+    "8": {
+      "tags": "Today Show"
+    },
+    "9": {
+      "tags": [
+        "Judge Judy",
+        "The Jerry Springer Show",
+        "Judge Joe Brown"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Judge Judy",
+        "The Jerry Springer Show",
+        "Judge Joe Brown"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Judge Judy",
+        "The Jerry Springer Show",
+        "Judge Joe Brown"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "Jeopardy",
+        "The Biggest Loser",
+        "Deal or No Deal",
+        "Wheel of Fortune"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "Jeopardy",
+        "The Biggest Loser",
+        "Deal or No Deal",
+        "Wheel of Fortune",
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "Access Hollywood",
+        "Entertainment Tonight"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Crossing Jordan",
+        "Fear Factor",
+        "Homicide Life on the Street",
+        "Las Vegas",
+        "Law and Order",
+        "Law and Order SVU",
+        "The Apprentice",
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Crossing Jordan",
+        "Fear Factor",
+        "Homicide Life on the Street",
+        "Las Vegas",
+        "Law and Order",
+        "Law and Order SVU",
+        "The Apprentice",
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": "The Tonight Show with Jay Leno"
+    }
+    },
+    "friday": {
+    "0": {
+      "tags": "Late Night with Conan"
+    },
+    "1": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Crossing Jordan",
+        "Fear Factor",
+        "Homicide Life on the Street",
+        "Las Vegas",
+        "Law and Order",
+        "Law and Order SVU",
+        "The Apprentice"
+      ],
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "Crossing Jordan",
+        "Fear Factor",
+        "Homicide Life on the Street",
+        "Las Vegas",
+        "Law and Order",
+        "Law and Order SVU",
+        "The Apprentice"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": "Today Show"
+    },
+    "8": {
+      "tags": "Today Show"
+    },
+    "9": {
+      "tags": [
+        "Judge Judy",
+        "The Jerry Springer Show",
+        "Judge Joe Brown"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Judge Judy",
+        "The Jerry Springer Show",
+        "Judge Joe Brown"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Judge Judy",
+        "The Jerry Springer Show",
+        "Judge Joe Brown"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "Jeopardy",
+        "The Biggest Loser",
+        "Deal or No Deal",
+        "Wheel of Fortune"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "Jeopardy",
+        "The Biggest Loser",
+        "Deal or No Deal",
+        "Wheel of Fortune",
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "Access Hollywood",
+        "Entertainment Tonight"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Crossing Jordan",
+        "Fear Factor",
+        "Homicide Life on the Street",
+        "Las Vegas",
+        "Law and Order",
+        "Law and Order SVU",
+        "The Apprentice",
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Crossing Jordan",
+        "Fear Factor",
+        "Homicide Life on the Street",
+        "Las Vegas",
+        "Law and Order",
+        "Law and Order SVU",
+        "The Apprentice",
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": "The Tonight Show with Jay Leno"
+    }
+    },
+    "saturday": {
+    "0": {
+      "tags": "Late Night with Conan"
+    },
+    "1": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Crossing Jordan",
+        "Fear Factor",
+        "Homicide Life on the Street",
+        "Las Vegas",
+        "Law and Order",
+        "Law and Order SVU",
+        "The Apprentice"
+      ],
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "Crossing Jordan",
+        "Fear Factor",
+        "Homicide Life on the Street",
+        "Las Vegas",
+        "Law and Order",
+        "Law and Order SVU",
+        "The Apprentice"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": "Today Show"
+    },
+    "8": {
+      "tags": "Today Show"
+    },
+    "9": {
+      "tags": [
+        "Judge Judy",
+        "The Jerry Springer Show",
+        "Judge Joe Brown"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Judge Judy",
+        "The Jerry Springer Show",
+        "Judge Joe Brown"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Judge Judy",
+        "The Jerry Springer Show",
+        "Judge Joe Brown"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "Jeopardy",
+        "The Biggest Loser",
+        "Deal or No Deal",
+        "Wheel of Fortune"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "Jeopardy",
+        "The Biggest Loser",
+        "Deal or No Deal",
+        "Wheel of Fortune",
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "Access Hollywood",
+        "Entertainment Tonight"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Crossing Jordan",
+        "Fear Factor",
+        "Homicide Life on the Street",
+        "Las Vegas",
+        "Law and Order",
+        "Law and Order SVU",
+        "The Apprentice",
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Crossing Jordan",
+        "Fear Factor",
+        "Homicide Life on the Street",
+        "Las Vegas",
+        "Law and Order",
+        "Law and Order SVU",
+        "The Apprentice",
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": "The Tonight Show with Jay Leno"
+    }
+    },
+    "sunday": {
+    "0": {
+      "tags": "Late Night with Conan"
+    },
+    "1": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Crossing Jordan",
+        "Fear Factor",
+        "Homicide Life on the Street",
+        "Las Vegas",
+        "Law and Order",
+        "Law and Order SVU",
+        "The Apprentice"
+      ],
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "Crossing Jordan",
+        "Fear Factor",
+        "Homicide Life on the Street",
+        "Las Vegas",
+        "Law and Order",
+        "Law and Order SVU",
+        "The Apprentice"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": "Today Show"
+    },
+    "8": {
+      "tags": "Today Show"
+    },
+    "9": {
+      "tags": [
+        "Judge Judy",
+        "The Jerry Springer Show",
+        "Judge Joe Brown"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Judge Judy",
+        "The Jerry Springer Show",
+        "Judge Joe Brown"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Judge Judy",
+        "The Jerry Springer Show",
+        "Judge Joe Brown"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "Jeopardy",
+        "The Biggest Loser",
+        "Deal or No Deal",
+        "Wheel of Fortune"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "Jeopardy",
+        "The Biggest Loser",
+        "Deal or No Deal",
+        "Wheel of Fortune",
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "Access Hollywood",
+        "Entertainment Tonight"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Crossing Jordan",
+        "Fear Factor",
+        "Homicide Life on the Street",
+        "Las Vegas",
+        "Law and Order",
+        "Law and Order SVU",
+        "The Apprentice",
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Crossing Jordan",
+        "Fear Factor",
+        "Homicide Life on the Street",
+        "Las Vegas",
+        "Law and Order",
+        "Law and Order SVU",
+        "The Apprentice",
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "3rd Rock From the Sun",
+        "30 Rock",
+        "Community",
+        "Frasier",
+        "Freaks and Geeks",
+        "Friends",
+        "My Name is Earl",
+        "Parks and Recreation",
+        "Scrubs",
+        "Seinfeld",
+        "The Office"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": "The Tonight Show with Jay Leno"
+    }
+    }
+}
+}

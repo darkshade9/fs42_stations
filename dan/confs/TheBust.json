@@ -1,0 +1,9 @@
+{"station_conf" : {
+    "network_name" : "TheBust",
+    "network_type" : "loop",
+    "channel_number": 60,
+    "runtime_dir" : "runtime/TheBust",
+    "content_dir" : "catalog/TheBust",
+    "catalog_path": "catalog/TheBust.bin",
+    "schedule_path": "runtime/TheBust_schedule.bin"
+}}

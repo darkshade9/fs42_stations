@@ -1,0 +1,2614 @@
+{"station_conf"  : {
+    "network_name" : "FOX",
+    "channel_number": 5,
+
+    "network_type": "standard",
+    "schedule_increment": 30,
+    "break_strategy": "standard",
+    "commercial_free": false, 
+    "break_duration": 120,
+
+    "catalog_path" : "catalog/FOX_catalog.bin",
+    "content_dir" : "catalog/FOX",
+    "commercial_dir" : "commercial",
+    "bump_dir" : "bump",
+    "clip_shows" : ["Sports", "News"],
+    
+    "runtime_dir" : "runtime/FOX",
+    "schedule_path": "runtime/FOX_schedule.bin",
+    "sign_off_video": "runtime/signoff.mp4",
+    "off_air_video": "runtime/off_air_pattern.mp4",
+    "standby_image": "runtime/standby.png",
+
+    "monday": {
+    "0": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "21 Jump Street",
+        "24",
+        "90210",
+        "American Idol",
+        "Are You Smarter Than a 5th Grader",
+        "Firefly",
+        "Hells Kitchen",
+        "Kitchen Nightmares",
+        "Magics Biggest Secrets Revealed",
+        "Melrose Place",
+        "Prison Break",
+        "The Lone Gunmen",
+        "The Mole",
+        "Millennium",
+        "The X Files"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show"
+      ],
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "Donkey Kong Country",
+        "Animaniacs",
+        "Batman The Animated Series",
+        "Goosebumps",
+        "Justice League Unlimited",
+        "Kirby Right Back at Ya",
+        "Liberty Kids",
+        "Power Rangers",
+        "Pokemon",
+        "Spiderman",
+        "Silver Surfer",
+        "Where on Earth is Carmen Sandiego",
+        "X Men",
+        "Static Shock",
+        "X Men Evolution",
+        "Superman The Animated Series",
+        "Tazmania",
+        "Teenage Mutant Ninja Turtles",
+        "The Magic School Bus",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX",
+        "Sonic X"
+      ],
+      "commercial_dir": "kidscom",
+      "bump_dir": "FoxKids",
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "Donkey Kong Country",
+        "Animaniacs",
+        "Batman The Animated Series",
+        "Goosebumps",
+        "Justice League Unlimited",
+        "Kirby Right Back at Ya",
+        "Liberty Kids",
+        "Power Rangers",
+        "Pokemon",
+        "Spiderman",
+        "Silver Surfer",
+        "Where on Earth is Carmen Sandiego",
+        "X Men",
+        "Static Shock",
+        "X Men Evolution",
+        "Superman The Animated Series",
+        "Tazmania",
+        "Teenage Mutant Ninja Turtles",
+        "The Magic School Bus",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX",
+        "Sonic X"
+      ],
+      "commercial_dir": "kidscom",
+      "bump_dir": "FoxKids",
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Donkey Kong Country",
+        "Animaniacs",
+        "Batman The Animated Series",
+        "Goosebumps",
+        "Justice League Unlimited",
+        "Kirby Right Back at Ya",
+        "Liberty Kids",
+        "Power Rangers",
+        "Pokemon",
+        "Spiderman",
+        "Silver Surfer",
+        "Where on Earth is Carmen Sandiego",
+        "X Men",
+        "Static Shock",
+        "X Men Evolution",
+        "Superman The Animated Series",
+        "Tazmania",
+        "Teenage Mutant Ninja Turtles",
+        "The Magic School Bus",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX",
+        "Sonic X"
+      ],
+      "commercial_dir": "kidscom",
+      "bump_dir": "FoxKids",
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Donkey Kong Country",
+        "Animaniacs",
+        "Batman The Animated Series",
+        "Goosebumps",
+        "Justice League Unlimited",
+        "Kirby Right Back at Ya",
+        "Liberty Kids",
+        "Power Rangers",
+        "Pokemon",
+        "Spiderman",
+        "Silver Surfer",
+        "Where on Earth is Carmen Sandiego",
+        "X Men",
+        "Static Shock",
+        "X Men Evolution",
+        "Superman The Animated Series",
+        "Tazmania",
+        "Teenage Mutant Ninja Turtles",
+        "The Magic School Bus",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX",
+        "Sonic X"
+      ],
+      "commercial_dir": "kidscom",
+      "bump_dir": "FoxKids",
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Judge Judy",
+        "The Jerry Springer Show",
+        "Judge Joe Brown"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "Judge Judy",
+        "The Jerry Springer Show",
+        "Judge Joe Brown"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Judge Judy",
+        "The Jerry Springer Show",
+        "Judge Joe Brown"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": "News"
+    },
+    "18": {
+      "tags": [
+        "21 Jump Street",
+        "24",
+        "90210",
+        "American Idol",
+        "Are You Smarter Than a 5th Grader",
+        "Firefly",
+        "Hells Kitchen",
+        "Kitchen Nightmares",
+        "Magics Biggest Secrets Revealed",
+        "Melrose Place",
+        "Prison Break",
+        "The Lone Gunmen",
+        "The Mole",
+        "Millennium",
+        "The X Files"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show",
+        "21 Jump Street",
+        "24",
+        "90210",
+        "American Idol",
+        "Are You Smarter Than a 5th Grader",
+        "Firefly",
+        "Hells Kitchen",
+        "Kitchen Nightmares",
+        "Magics Biggest Secrets Revealed",
+        "Melrose Place",
+        "Prison Break",
+        "The Lone Gunmen",
+        "The Mole",
+        "Millennium",
+        "The X Files"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show",
+        "21 Jump Street",
+        "24",
+        "90210",
+        "American Idol",
+        "Are You Smarter Than a 5th Grader",
+        "Firefly",
+        "Hells Kitchen",
+        "Kitchen Nightmares",
+        "Magics Biggest Secrets Revealed",
+        "Melrose Place",
+        "Prison Break",
+        "The Lone Gunmen",
+        "The Mole",
+        "Millennium",
+        "The X Files"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    }
+    },
+    "tuesday": {
+    "0": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "21 Jump Street",
+        "24",
+        "90210",
+        "American Idol",
+        "Are You Smarter Than a 5th Grader",
+        "Firefly",
+        "Hells Kitchen",
+        "Kitchen Nightmares",
+        "Magics Biggest Secrets Revealed",
+        "Melrose Place",
+        "Prison Break",
+        "The Lone Gunmen",
+        "The Mole",
+        "Millennium",
+        "The X Files"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show"
+      ],
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "Donkey Kong Country",
+        "Animaniacs",
+        "Batman The Animated Series",
+        "Goosebumps",
+        "Justice League Unlimited",
+        "Kirby Right Back at Ya",
+        "Liberty Kids",
+        "Power Rangers",
+        "Pokemon",
+        "Spiderman",
+        "Silver Surfer",
+        "Where on Earth is Carmen Sandiego",
+        "X Men",
+        "Static Shock",
+        "X Men Evolution",
+        "Superman The Animated Series",
+        "Tazmania",
+        "Teenage Mutant Ninja Turtles",
+        "The Magic School Bus",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX",
+        "Sonic X"
+      ],
+      "commercial_dir": "kidscom",
+      "bump_dir": "FoxKids",
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "Donkey Kong Country",
+        "Animaniacs",
+        "Batman The Animated Series",
+        "Goosebumps",
+        "Justice League Unlimited",
+        "Kirby Right Back at Ya",
+        "Liberty Kids",
+        "Power Rangers",
+        "Pokemon",
+        "Spiderman",
+        "Silver Surfer",
+        "Where on Earth is Carmen Sandiego",
+        "X Men",
+        "Static Shock",
+        "X Men Evolution",
+        "Superman The Animated Series",
+        "Tazmania",
+        "Teenage Mutant Ninja Turtles",
+        "The Magic School Bus",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX",
+        "Sonic X"
+      ],
+      "commercial_dir": "kidscom",
+      "bump_dir": "FoxKids",
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Donkey Kong Country",
+        "Animaniacs",
+        "Batman The Animated Series",
+        "Goosebumps",
+        "Justice League Unlimited",
+        "Kirby Right Back at Ya",
+        "Liberty Kids",
+        "Power Rangers",
+        "Pokemon",
+        "Spiderman",
+        "Silver Surfer",
+        "Where on Earth is Carmen Sandiego",
+        "X Men",
+        "Static Shock",
+        "X Men Evolution",
+        "Superman The Animated Series",
+        "Tazmania",
+        "Teenage Mutant Ninja Turtles",
+        "The Magic School Bus",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX",
+        "Sonic X"
+      ],
+      "commercial_dir": "kidscom",
+      "bump_dir": "FoxKids",
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Donkey Kong Country",
+        "Animaniacs",
+        "Batman The Animated Series",
+        "Goosebumps",
+        "Justice League Unlimited",
+        "Kirby Right Back at Ya",
+        "Liberty Kids",
+        "Power Rangers",
+        "Pokemon",
+        "Spiderman",
+        "Silver Surfer",
+        "Where on Earth is Carmen Sandiego",
+        "X Men",
+        "Static Shock",
+        "X Men Evolution",
+        "Superman The Animated Series",
+        "Tazmania",
+        "Teenage Mutant Ninja Turtles",
+        "The Magic School Bus",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX",
+        "Sonic X"
+      ],
+      "commercial_dir": "kidscom",
+      "bump_dir": "FoxKids",
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Judge Judy",
+        "The Jerry Springer Show",
+        "Judge Joe Brown"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "Judge Judy",
+        "The Jerry Springer Show",
+        "Judge Joe Brown"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Judge Judy",
+        "The Jerry Springer Show",
+        "Judge Joe Brown"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": "News"
+    },
+    "18": {
+      "tags": "Sports"
+    },
+    "19": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show",
+        "21 Jump Street",
+        "24",
+        "90210",
+        "American Idol",
+        "Are You Smarter Than a 5th Grader",
+        "Firefly",
+        "Hells Kitchen",
+        "Kitchen Nightmares",
+        "Magics Biggest Secrets Revealed",
+        "Melrose Place",
+        "Prison Break",
+        "The Lone Gunmen",
+        "The Mole",
+        "Millennium",
+        "The X Files"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show",
+        "21 Jump Street",
+        "24",
+        "90210",
+        "American Idol",
+        "Are You Smarter Than a 5th Grader",
+        "Firefly",
+        "Hells Kitchen",
+        "Kitchen Nightmares",
+        "Magics Biggest Secrets Revealed",
+        "Melrose Place",
+        "Prison Break",
+        "The Lone Gunmen",
+        "The Mole",
+        "Millennium",
+        "The X Files"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    }
+    },
+    "wednesday": {
+    "0": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "21 Jump Street",
+        "24",
+        "90210",
+        "American Idol",
+        "Are You Smarter Than a 5th Grader",
+        "Firefly",
+        "Hells Kitchen",
+        "Kitchen Nightmares",
+        "Magics Biggest Secrets Revealed",
+        "Melrose Place",
+        "Prison Break",
+        "The Lone Gunmen",
+        "The Mole",
+        "Millennium",
+        "The X Files"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show"
+      ],
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "Donkey Kong Country",
+        "Animaniacs",
+        "Batman The Animated Series",
+        "Goosebumps",
+        "Justice League Unlimited",
+        "Kirby Right Back at Ya",
+        "Liberty Kids",
+        "Power Rangers",
+        "Pokemon",
+        "Spiderman",
+        "Silver Surfer",
+        "Where on Earth is Carmen Sandiego",
+        "X Men",
+        "Static Shock",
+        "X Men Evolution",
+        "Superman The Animated Series",
+        "Tazmania",
+        "Teenage Mutant Ninja Turtles",
+        "The Magic School Bus",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX",
+        "Sonic X"
+      ],
+      "commercial_dir": "kidscom",
+      "bump_dir": "FoxKids",
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "Donkey Kong Country",
+        "Animaniacs",
+        "Batman The Animated Series",
+        "Goosebumps",
+        "Justice League Unlimited",
+        "Kirby Right Back at Ya",
+        "Liberty Kids",
+        "Power Rangers",
+        "Pokemon",
+        "Spiderman",
+        "Silver Surfer",
+        "Where on Earth is Carmen Sandiego",
+        "X Men",
+        "Static Shock",
+        "X Men Evolution",
+        "Superman The Animated Series",
+        "Tazmania",
+        "Teenage Mutant Ninja Turtles",
+        "The Magic School Bus",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX",
+        "Sonic X"
+      ],
+      "commercial_dir": "kidscom",
+      "bump_dir": "FoxKids",
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Donkey Kong Country",
+        "Animaniacs",
+        "Batman The Animated Series",
+        "Goosebumps",
+        "Justice League Unlimited",
+        "Kirby Right Back at Ya",
+        "Liberty Kids",
+        "Power Rangers",
+        "Pokemon",
+        "Spiderman",
+        "Silver Surfer",
+        "Where on Earth is Carmen Sandiego",
+        "X Men",
+        "Static Shock",
+        "X Men Evolution",
+        "Superman The Animated Series",
+        "Tazmania",
+        "Teenage Mutant Ninja Turtles",
+        "The Magic School Bus",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX",
+        "Sonic X"
+      ],
+      "commercial_dir": "kidscom",
+      "bump_dir": "FoxKids",
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Donkey Kong Country",
+        "Animaniacs",
+        "Batman The Animated Series",
+        "Goosebumps",
+        "Justice League Unlimited",
+        "Kirby Right Back at Ya",
+        "Liberty Kids",
+        "Power Rangers",
+        "Pokemon",
+        "Spiderman",
+        "Silver Surfer",
+        "Where on Earth is Carmen Sandiego",
+        "X Men",
+        "Static Shock",
+        "X Men Evolution",
+        "Superman The Animated Series",
+        "Tazmania",
+        "Teenage Mutant Ninja Turtles",
+        "The Magic School Bus",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX",
+        "Sonic X"
+      ],
+      "commercial_dir": "kidscom",
+      "bump_dir": "FoxKids",
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Judge Judy",
+        "The Jerry Springer Show",
+        "Judge Joe Brown"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "Judge Judy",
+        "The Jerry Springer Show",
+        "Judge Joe Brown"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Judge Judy",
+        "The Jerry Springer Show",
+        "Judge Joe Brown"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": "News"
+    },
+    "18": {
+      "tags": [
+        "21 Jump Street",
+        "24",
+        "90210",
+        "American Idol",
+        "Are You Smarter Than a 5th Grader",
+        "Firefly",
+        "Hells Kitchen",
+        "Kitchen Nightmares",
+        "Magics Biggest Secrets Revealed",
+        "Melrose Place",
+        "Prison Break",
+        "The Lone Gunmen",
+        "The Mole",
+        "Millennium",
+        "The X Files"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show",
+        "21 Jump Street",
+        "24",
+        "90210",
+        "American Idol",
+        "Are You Smarter Than a 5th Grader",
+        "Firefly",
+        "Hells Kitchen",
+        "Kitchen Nightmares",
+        "Magics Biggest Secrets Revealed",
+        "Melrose Place",
+        "Prison Break",
+        "The Lone Gunmen",
+        "The Mole",
+        "Millennium",
+        "The X Files"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show",
+        "21 Jump Street",
+        "24",
+        "90210",
+        "American Idol",
+        "Are You Smarter Than a 5th Grader",
+        "Firefly",
+        "Hells Kitchen",
+        "Kitchen Nightmares",
+        "Magics Biggest Secrets Revealed",
+        "Melrose Place",
+        "Prison Break",
+        "The Lone Gunmen",
+        "The Mole",
+        "Millennium",
+        "The X Files"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    }
+    },
+    "thursday": {
+    "0": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "21 Jump Street",
+        "24",
+        "90210",
+        "American Idol",
+        "Are You Smarter Than a 5th Grader",
+        "Firefly",
+        "Hells Kitchen",
+        "Kitchen Nightmares",
+        "Magics Biggest Secrets Revealed",
+        "Melrose Place",
+        "Prison Break",
+        "The Lone Gunmen",
+        "The Mole",
+        "Millennium",
+        "The X Files"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show"
+      ],
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "Donkey Kong Country",
+        "Animaniacs",
+        "Batman The Animated Series",
+        "Goosebumps",
+        "Justice League Unlimited",
+        "Kirby Right Back at Ya",
+        "Liberty Kids",
+        "Power Rangers",
+        "Pokemon",
+        "Spiderman",
+        "Silver Surfer",
+        "Where on Earth is Carmen Sandiego",
+        "X Men",
+        "Static Shock",
+        "X Men Evolution",
+        "Superman The Animated Series",
+        "Tazmania",
+        "Teenage Mutant Ninja Turtles",
+        "The Magic School Bus",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX",
+        "Sonic X"
+      ],
+      "commercial_dir": "kidscom",
+      "bump_dir": "FoxKids",
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "Donkey Kong Country",
+        "Animaniacs",
+        "Batman The Animated Series",
+        "Goosebumps",
+        "Justice League Unlimited",
+        "Kirby Right Back at Ya",
+        "Liberty Kids",
+        "Power Rangers",
+        "Pokemon",
+        "Spiderman",
+        "Silver Surfer",
+        "Where on Earth is Carmen Sandiego",
+        "X Men",
+        "Static Shock",
+        "X Men Evolution",
+        "Superman The Animated Series",
+        "Tazmania",
+        "Teenage Mutant Ninja Turtles",
+        "The Magic School Bus",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX",
+        "Sonic X"
+      ],
+      "commercial_dir": "kidscom",
+      "bump_dir": "FoxKids",
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Donkey Kong Country",
+        "Animaniacs",
+        "Batman The Animated Series",
+        "Goosebumps",
+        "Justice League Unlimited",
+        "Kirby Right Back at Ya",
+        "Liberty Kids",
+        "Power Rangers",
+        "Pokemon",
+        "Spiderman",
+        "Silver Surfer",
+        "Where on Earth is Carmen Sandiego",
+        "X Men",
+        "Static Shock",
+        "X Men Evolution",
+        "Superman The Animated Series",
+        "Tazmania",
+        "Teenage Mutant Ninja Turtles",
+        "The Magic School Bus",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX",
+        "Sonic X"
+      ],
+      "commercial_dir": "kidscom",
+      "bump_dir": "FoxKids",
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Donkey Kong Country",
+        "Animaniacs",
+        "Batman The Animated Series",
+        "Goosebumps",
+        "Justice League Unlimited",
+        "Kirby Right Back at Ya",
+        "Liberty Kids",
+        "Power Rangers",
+        "Pokemon",
+        "Spiderman",
+        "Silver Surfer",
+        "Where on Earth is Carmen Sandiego",
+        "X Men",
+        "Static Shock",
+        "X Men Evolution",
+        "Superman The Animated Series",
+        "Tazmania",
+        "Teenage Mutant Ninja Turtles",
+        "The Magic School Bus",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX",
+        "Sonic X"
+      ],
+      "commercial_dir": "kidscom",
+      "bump_dir": "FoxKids",
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Judge Judy",
+        "The Jerry Springer Show",
+        "Judge Joe Brown"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "Judge Judy",
+        "The Jerry Springer Show",
+        "Judge Joe Brown"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Judge Judy",
+        "The Jerry Springer Show",
+        "Judge Joe Brown"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": "News"
+    },
+    "18": {
+      "tags": "Sports"
+    },
+    "19": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show",
+        "21 Jump Street",
+        "24",
+        "90210",
+        "American Idol",
+        "Are You Smarter Than a 5th Grader",
+        "Firefly",
+        "Hells Kitchen",
+        "Kitchen Nightmares",
+        "Magics Biggest Secrets Revealed",
+        "Melrose Place",
+        "Prison Break",
+        "The Lone Gunmen",
+        "The Mole",
+        "Millennium",
+        "The X Files"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show",
+        "21 Jump Street",
+        "24",
+        "90210",
+        "American Idol",
+        "Are You Smarter Than a 5th Grader",
+        "Firefly",
+        "Hells Kitchen",
+        "Kitchen Nightmares",
+        "Magics Biggest Secrets Revealed",
+        "Melrose Place",
+        "Prison Break",
+        "The Lone Gunmen",
+        "The Mole",
+        "Millennium",
+        "The X Files"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    }
+    },
+    "friday": {
+    "0": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "21 Jump Street",
+        "24",
+        "90210",
+        "American Idol",
+        "Are You Smarter Than a 5th Grader",
+        "Firefly",
+        "Hells Kitchen",
+        "Kitchen Nightmares",
+        "Magics Biggest Secrets Revealed",
+        "Melrose Place",
+        "Prison Break",
+        "The Lone Gunmen",
+        "The Mole",
+        "Millennium",
+        "The X Files"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show"
+      ],
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "Donkey Kong Country",
+        "Animaniacs",
+        "Batman The Animated Series",
+        "Goosebumps",
+        "Justice League Unlimited",
+        "Kirby Right Back at Ya",
+        "Liberty Kids",
+        "Power Rangers",
+        "Pokemon",
+        "Spiderman",
+        "Silver Surfer",
+        "Where on Earth is Carmen Sandiego",
+        "X Men",
+        "Static Shock",
+        "X Men Evolution",
+        "Superman The Animated Series",
+        "Tazmania",
+        "Teenage Mutant Ninja Turtles",
+        "The Magic School Bus",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX",
+        "Sonic X"
+      ],
+      "commercial_dir": "kidscom",
+      "bump_dir": "FoxKids",
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "Donkey Kong Country",
+        "Animaniacs",
+        "Batman The Animated Series",
+        "Goosebumps",
+        "Justice League Unlimited",
+        "Kirby Right Back at Ya",
+        "Liberty Kids",
+        "Power Rangers",
+        "Pokemon",
+        "Spiderman",
+        "Silver Surfer",
+        "Where on Earth is Carmen Sandiego",
+        "X Men",
+        "Static Shock",
+        "X Men Evolution",
+        "Superman The Animated Series",
+        "Tazmania",
+        "Teenage Mutant Ninja Turtles",
+        "The Magic School Bus",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX",
+        "Sonic X"
+      ],
+      "commercial_dir": "kidscom",
+      "bump_dir": "FoxKids",
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Donkey Kong Country",
+        "Animaniacs",
+        "Batman The Animated Series",
+        "Goosebumps",
+        "Justice League Unlimited",
+        "Kirby Right Back at Ya",
+        "Liberty Kids",
+        "Power Rangers",
+        "Pokemon",
+        "Spiderman",
+        "Silver Surfer",
+        "Where on Earth is Carmen Sandiego",
+        "X Men",
+        "Static Shock",
+        "X Men Evolution",
+        "Superman The Animated Series",
+        "Tazmania",
+        "Teenage Mutant Ninja Turtles",
+        "The Magic School Bus",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX",
+        "Sonic X"
+      ],
+      "commercial_dir": "kidscom",
+      "bump_dir": "FoxKids",
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Donkey Kong Country",
+        "Animaniacs",
+        "Batman The Animated Series",
+        "Goosebumps",
+        "Justice League Unlimited",
+        "Kirby Right Back at Ya",
+        "Liberty Kids",
+        "Power Rangers",
+        "Pokemon",
+        "Spiderman",
+        "Silver Surfer",
+        "Where on Earth is Carmen Sandiego",
+        "X Men",
+        "Static Shock",
+        "X Men Evolution",
+        "Superman The Animated Series",
+        "Tazmania",
+        "Teenage Mutant Ninja Turtles",
+        "The Magic School Bus",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX",
+        "Sonic X"
+      ],
+      "commercial_dir": "kidscom",
+      "bump_dir": "FoxKids",
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Judge Judy",
+        "The Jerry Springer Show",
+        "Judge Joe Brown"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "Judge Judy",
+        "The Jerry Springer Show",
+        "Judge Joe Brown"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Judge Judy",
+        "The Jerry Springer Show",
+        "Judge Joe Brown"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": "News"
+    },
+    "18": {
+      "tags": [
+        "21 Jump Street",
+        "24",
+        "90210",
+        "American Idol",
+        "Are You Smarter Than a 5th Grader",
+        "Firefly",
+        "Hells Kitchen",
+        "Kitchen Nightmares",
+        "Magics Biggest Secrets Revealed",
+        "Melrose Place",
+        "Prison Break",
+        "The Lone Gunmen",
+        "The Mole",
+        "Millennium",
+        "The X Files"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show",
+        "21 Jump Street",
+        "24",
+        "90210",
+        "American Idol",
+        "Are You Smarter Than a 5th Grader",
+        "Firefly",
+        "Hells Kitchen",
+        "Kitchen Nightmares",
+        "Magics Biggest Secrets Revealed",
+        "Melrose Place",
+        "Prison Break",
+        "The Lone Gunmen",
+        "The Mole",
+        "Millennium",
+        "The X Files"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show",
+        "21 Jump Street",
+        "24",
+        "90210",
+        "American Idol",
+        "Are You Smarter Than a 5th Grader",
+        "Firefly",
+        "Hells Kitchen",
+        "Kitchen Nightmares",
+        "Magics Biggest Secrets Revealed",
+        "Melrose Place",
+        "Prison Break",
+        "The Lone Gunmen",
+        "The Mole",
+        "Millennium",
+        "The X Files"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    }
+    },
+    "saturday": {
+    "0": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "21 Jump Street",
+        "24",
+        "90210",
+        "American Idol",
+        "Are You Smarter Than a 5th Grader",
+        "Firefly",
+        "Hells Kitchen",
+        "Kitchen Nightmares",
+        "Magics Biggest Secrets Revealed",
+        "Melrose Place",
+        "Prison Break",
+        "The Lone Gunmen",
+        "The Mole",
+        "Millennium",
+        "The X Files"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show"
+      ],
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "Donkey Kong Country",
+        "Animaniacs",
+        "Batman The Animated Series",
+        "Goosebumps",
+        "Justice League Unlimited",
+        "Kirby Right Back at Ya",
+        "Liberty Kids",
+        "Power Rangers",
+        "Pokemon",
+        "Spiderman",
+        "Silver Surfer",
+        "Where on Earth is Carmen Sandiego",
+        "X Men",
+        "Static Shock",
+        "X Men Evolution",
+        "Superman The Animated Series",
+        "Tazmania",
+        "Teenage Mutant Ninja Turtles",
+        "The Magic School Bus",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX",
+        "Sonic X"
+      ],
+      "commercial_dir": "kidscom",
+      "bump_dir": "FoxKids",
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "Donkey Kong Country",
+        "Animaniacs",
+        "Batman The Animated Series",
+        "Goosebumps",
+        "Justice League Unlimited",
+        "Kirby Right Back at Ya",
+        "Liberty Kids",
+        "Power Rangers",
+        "Pokemon",
+        "Spiderman",
+        "Silver Surfer",
+        "Where on Earth is Carmen Sandiego",
+        "X Men",
+        "Static Shock",
+        "X Men Evolution",
+        "Superman The Animated Series",
+        "Tazmania",
+        "Teenage Mutant Ninja Turtles",
+        "The Magic School Bus",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX",
+        "Sonic X"
+      ],
+      "commercial_dir": "kidscom",
+      "bump_dir": "FoxKids",
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Donkey Kong Country",
+        "Animaniacs",
+        "Batman The Animated Series",
+        "Goosebumps",
+        "Justice League Unlimited",
+        "Kirby Right Back at Ya",
+        "Liberty Kids",
+        "Power Rangers",
+        "Pokemon",
+        "Spiderman",
+        "Silver Surfer",
+        "Where on Earth is Carmen Sandiego",
+        "X Men",
+        "Static Shock",
+        "X Men Evolution",
+        "Superman The Animated Series",
+        "Tazmania",
+        "Teenage Mutant Ninja Turtles",
+        "The Magic School Bus",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX",
+        "Sonic X"
+      ],
+      "commercial_dir": "kidscom",
+      "bump_dir": "FoxKids",
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Donkey Kong Country",
+        "Animaniacs",
+        "Batman The Animated Series",
+        "Goosebumps",
+        "Justice League Unlimited",
+        "Kirby Right Back at Ya",
+        "Liberty Kids",
+        "Power Rangers",
+        "Pokemon",
+        "Spiderman",
+        "Silver Surfer",
+        "Where on Earth is Carmen Sandiego",
+        "X Men",
+        "Static Shock",
+        "X Men Evolution",
+        "Superman The Animated Series",
+        "Tazmania",
+        "Teenage Mutant Ninja Turtles",
+        "The Magic School Bus",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX",
+        "Sonic X"
+      ],
+      "commercial_dir": "kidscom",
+      "bump_dir": "FoxKids",
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Judge Judy",
+        "The Jerry Springer Show",
+        "Judge Joe Brown"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "Judge Judy",
+        "The Jerry Springer Show",
+        "Judge Joe Brown"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Judge Judy",
+        "The Jerry Springer Show",
+        "Judge Joe Brown"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": "News"
+    },
+    "18": {
+      "tags": [
+        "21 Jump Street",
+        "24",
+        "90210",
+        "American Idol",
+        "Are You Smarter Than a 5th Grader",
+        "Firefly",
+        "Hells Kitchen",
+        "Kitchen Nightmares",
+        "Magics Biggest Secrets Revealed",
+        "Melrose Place",
+        "Prison Break",
+        "The Lone Gunmen",
+        "The Mole",
+        "Millennium",
+        "The X Files"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show",
+        "21 Jump Street",
+        "24",
+        "90210",
+        "American Idol",
+        "Are You Smarter Than a 5th Grader",
+        "Firefly",
+        "Hells Kitchen",
+        "Kitchen Nightmares",
+        "Magics Biggest Secrets Revealed",
+        "Melrose Place",
+        "Prison Break",
+        "The Lone Gunmen",
+        "The Mole",
+        "Millennium",
+        "The X Files"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show",
+        "21 Jump Street",
+        "24",
+        "90210",
+        "American Idol",
+        "Are You Smarter Than a 5th Grader",
+        "Firefly",
+        "Hells Kitchen",
+        "Kitchen Nightmares",
+        "Magics Biggest Secrets Revealed",
+        "Melrose Place",
+        "Prison Break",
+        "The Lone Gunmen",
+        "The Mole",
+        "Millennium",
+        "The X Files"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    }
+    },
+    "sunday": {
+    "0": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "21 Jump Street",
+        "24",
+        "90210",
+        "American Idol",
+        "Are You Smarter Than a 5th Grader",
+        "Firefly",
+        "Hells Kitchen",
+        "Kitchen Nightmares",
+        "Magics Biggest Secrets Revealed",
+        "Melrose Place",
+        "Prison Break",
+        "The Lone Gunmen",
+        "The Mole",
+        "Millennium",
+        "The X Files"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show"
+      ],
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "Donkey Kong Country",
+        "Animaniacs",
+        "Batman The Animated Series",
+        "Goosebumps",
+        "Justice League Unlimited",
+        "Kirby Right Back at Ya",
+        "Liberty Kids",
+        "Power Rangers",
+        "Pokemon",
+        "Spiderman",
+        "Silver Surfer",
+        "Where on Earth is Carmen Sandiego",
+        "X Men",
+        "Static Shock",
+        "X Men Evolution",
+        "Superman The Animated Series",
+        "Tazmania",
+        "Teenage Mutant Ninja Turtles",
+        "The Magic School Bus",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX",
+        "Sonic X"
+      ],
+      "commercial_dir": "kidscom",
+      "bump_dir": "FoxKids",
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "Donkey Kong Country",
+        "Animaniacs",
+        "Batman The Animated Series",
+        "Goosebumps",
+        "Justice League Unlimited",
+        "Kirby Right Back at Ya",
+        "Liberty Kids",
+        "Power Rangers",
+        "Pokemon",
+        "Spiderman",
+        "Silver Surfer",
+        "Where on Earth is Carmen Sandiego",
+        "X Men",
+        "Static Shock",
+        "X Men Evolution",
+        "Superman The Animated Series",
+        "Tazmania",
+        "Teenage Mutant Ninja Turtles",
+        "The Magic School Bus",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX",
+        "Sonic X"
+      ],
+      "commercial_dir": "kidscom",
+      "bump_dir": "FoxKids",
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Donkey Kong Country",
+        "Animaniacs",
+        "Batman The Animated Series",
+        "Goosebumps",
+        "Justice League Unlimited",
+        "Kirby Right Back at Ya",
+        "Liberty Kids",
+        "Power Rangers",
+        "Pokemon",
+        "Spiderman",
+        "Silver Surfer",
+        "Where on Earth is Carmen Sandiego",
+        "X Men",
+        "Static Shock",
+        "X Men Evolution",
+        "Superman The Animated Series",
+        "Tazmania",
+        "Teenage Mutant Ninja Turtles",
+        "The Magic School Bus",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX",
+        "Sonic X"
+      ],
+      "commercial_dir": "kidscom",
+      "bump_dir": "FoxKids",
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Donkey Kong Country",
+        "Animaniacs",
+        "Batman The Animated Series",
+        "Goosebumps",
+        "Justice League Unlimited",
+        "Kirby Right Back at Ya",
+        "Liberty Kids",
+        "Power Rangers",
+        "Pokemon",
+        "Spiderman",
+        "Silver Surfer",
+        "Where on Earth is Carmen Sandiego",
+        "X Men",
+        "Static Shock",
+        "X Men Evolution",
+        "Superman The Animated Series",
+        "Tazmania",
+        "Teenage Mutant Ninja Turtles",
+        "The Magic School Bus",
+        "Yu Gi Oh",
+        "Yu Gi Oh GX",
+        "Sonic X"
+      ],
+      "commercial_dir": "kidscom",
+      "bump_dir": "FoxKids",
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Judge Judy",
+        "The Jerry Springer Show",
+        "Judge Joe Brown"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "Judge Judy",
+        "The Jerry Springer Show",
+        "Judge Joe Brown"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Judge Judy",
+        "The Jerry Springer Show",
+        "Judge Joe Brown"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": "News"
+    },
+    "18": {
+      "tags": [
+        "21 Jump Street",
+        "24",
+        "90210",
+        "American Idol",
+        "Are You Smarter Than a 5th Grader",
+        "Firefly",
+        "Hells Kitchen",
+        "Kitchen Nightmares",
+        "Magics Biggest Secrets Revealed",
+        "Melrose Place",
+        "Prison Break",
+        "The Lone Gunmen",
+        "The Mole",
+        "Millennium",
+        "The X Files"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": "Sports"
+    },
+    "20": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show",
+        "21 Jump Street",
+        "24",
+        "90210",
+        "American Idol",
+        "Are You Smarter Than a 5th Grader",
+        "Firefly",
+        "Hells Kitchen",
+        "Kitchen Nightmares",
+        "Magics Biggest Secrets Revealed",
+        "Melrose Place",
+        "Prison Break",
+        "The Lone Gunmen",
+        "The Mole",
+        "Millennium",
+        "The X Files"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Arrested Development",
+        "COPS",
+        "Grounded For Life",
+        "Married With Children",
+        "Nanny 911",
+        "That 70s Show",
+        "The Bernie Mac Show",
+        "21 Jump Street",
+        "24",
+        "90210",
+        "American Idol",
+        "Are You Smarter Than a 5th Grader",
+        "Firefly",
+        "Hells Kitchen",
+        "Kitchen Nightmares",
+        "Magics Biggest Secrets Revealed",
+        "Melrose Place",
+        "Prison Break",
+        "The Lone Gunmen",
+        "The Mole",
+        "Millennium",
+        "The X Files"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "The Simpsons",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad",
+        "Futurama",
+        "King of the HIll"
+      ],
+      "random_tags": true
+    }
+    }
+}
+}

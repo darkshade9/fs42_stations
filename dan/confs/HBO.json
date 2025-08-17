@@ -1,0 +1,1557 @@
+{"station_conf"  : {
+    "network_name" : "HBO",
+    "channel_number": 301,
+
+    "network_type": "standard",
+    "schedule_increment": 5,
+    "break_strategy": "end",
+    "commercial_free": true, 
+    "break_duration": 20,
+
+    "catalog_path" : "catalog/HBO_catalog.bin",
+    "content_dir" : "catalog/HBO",
+    "commercial_dir" : "commercial",
+    "bump_dir" : "bump",
+    
+    
+    "runtime_dir" : "runtime/HBO",
+    "schedule_path": "runtime/HBO_schedule.bin",
+    "sign_off_video": "runtime/signoff.mp4",
+    "off_air_video": "runtime/off_air_pattern.mp4",
+    "standby_image": "runtime/standby.png",
+
+    "monday": {
+    "0": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "G String Divas",
+        "Real Sex",
+        "Spicy City",
+        "The Cathouse"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "G String Divas",
+        "Real Sex",
+        "Spicy City",
+        "The Cathouse"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": "Movies"
+    },
+    "5": {
+      "tags": "Movies"
+    },
+    "6": {
+      "tags": "Movies"
+    },
+    "7": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": "Movies"
+    },
+    "12": {
+      "tags": "Movies"
+    },
+    "13": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": "Movies"
+    },
+    "15": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": "Movies"
+    },
+    "18": {
+      "tags": "Movies"
+    },
+    "19": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    }
+    },
+    "tuesday": {
+    "0": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "G String Divas",
+        "Real Sex",
+        "Spicy City",
+        "The Cathouse"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "G String Divas",
+        "Real Sex",
+        "Spicy City",
+        "The Cathouse"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": "Movies"
+    },
+    "5": {
+      "tags": "Movies"
+    },
+    "6": {
+      "tags": "Movies"
+    },
+    "7": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": "Movies"
+    },
+    "12": {
+      "tags": "Movies"
+    },
+    "13": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": "Movies"
+    },
+    "15": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": "Movies"
+    },
+    "18": {
+      "tags": "Movies"
+    },
+    "19": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    }
+    },
+    "wednesday": {
+    "0": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "G String Divas",
+        "Real Sex",
+        "Spicy City",
+        "The Cathouse"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "G String Divas",
+        "Real Sex",
+        "Spicy City",
+        "The Cathouse"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": "Movies"
+    },
+    "5": {
+      "tags": "Movies"
+    },
+    "6": {
+      "tags": "Movies"
+    },
+    "7": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": "Movies"
+    },
+    "12": {
+      "tags": "Movies"
+    },
+    "13": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": "Movies"
+    },
+    "15": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": "Movies"
+    },
+    "18": {
+      "tags": "Movies"
+    },
+    "19": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    }
+    },
+    "thursday": {
+    "0": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "G String Divas",
+        "Real Sex",
+        "Spicy City",
+        "The Cathouse"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "G String Divas",
+        "Real Sex",
+        "Spicy City",
+        "The Cathouse"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": "Movies"
+    },
+    "5": {
+      "tags": "Movies"
+    },
+    "6": {
+      "tags": "Movies"
+    },
+    "7": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": "Movies"
+    },
+    "12": {
+      "tags": "Movies"
+    },
+    "13": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": "Movies"
+    },
+    "15": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": "Movies"
+    },
+    "18": {
+      "tags": "Movies"
+    },
+    "19": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    }
+    },
+    "friday": {
+    "0": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "G String Divas",
+        "Real Sex",
+        "Spicy City",
+        "The Cathouse"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "G String Divas",
+        "Real Sex",
+        "Spicy City",
+        "The Cathouse"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": "Movies"
+    },
+    "5": {
+      "tags": "Movies"
+    },
+    "6": {
+      "tags": "Movies"
+    },
+    "7": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": "Movies"
+    },
+    "12": {
+      "tags": "Movies"
+    },
+    "13": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": "Movies"
+    },
+    "15": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": "Movies"
+    },
+    "18": {
+      "tags": "Movies"
+    },
+    "19": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    }
+    },
+    "saturday": {
+    "0": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "G String Divas",
+        "Real Sex",
+        "Spicy City",
+        "The Cathouse"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "G String Divas",
+        "Real Sex",
+        "Spicy City",
+        "The Cathouse"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": "Movies"
+    },
+    "5": {
+      "tags": "Movies"
+    },
+    "6": {
+      "tags": "Movies"
+    },
+    "7": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": "Movies"
+    },
+    "12": {
+      "tags": "Movies"
+    },
+    "13": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": "Movies"
+    },
+    "15": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": "Movies"
+    },
+    "18": {
+      "tags": "Movies"
+    },
+    "19": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    }
+    },
+    "sunday": {
+    "0": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "G String Divas",
+        "Real Sex",
+        "Spicy City",
+        "The Cathouse"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "G String Divas",
+        "Real Sex",
+        "Spicy City",
+        "The Cathouse"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": "Movies"
+    },
+    "5": {
+      "tags": "Movies"
+    },
+    "6": {
+      "tags": "Movies"
+    },
+    "7": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": "Movies"
+    },
+    "12": {
+      "tags": "Movies"
+    },
+    "13": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": "Movies"
+    },
+    "15": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": "Movies"
+    },
+    "18": {
+      "tags": "Movies"
+    },
+    "19": {
+      "tags": [
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Curb Your Enthusiasm",
+        "Eastbound and Down",
+        "Project Greenlight",
+        "Russell Simmons Presents Def Poetry",
+        "Tales From the Crypt",
+        "The Chris Rock Show"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "Boardwalk Empire",
+        "Carnivale",
+        "Deadwood",
+        "Oz",
+        "Rome",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "random_tags": true
+    }
+    }
+}
+}

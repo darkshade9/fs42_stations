@@ -1,0 +1,2796 @@
+{"station_conf"  : {
+    "network_name" : "PapiTV",
+    "channel_number": 69,
+
+    "network_type": "standard",
+    "schedule_increment": 30,
+    "break_strategy": "standard",
+    "commercial_free": false, 
+    "break_duration": 120,
+
+    "catalog_path" : "catalog/PapiTV_catalog.bin",
+    "content_dir" : "catalog/PapiTV",
+    "commercial_dir" : "commercial",
+    "bump_dir" : "bump",
+    
+    
+    "runtime_dir" : "runtime/PapiTV",
+    "schedule_path": "runtime/PapiTV_schedule.bin",
+    "sign_off_video": "runtime/signoff.mp4",
+    "off_air_video": "runtime/off_air_pattern.mp4",
+    "standby_image": "runtime/standby.png",
+
+    "monday": {
+    "0": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "6": {
+       "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    }
+    },
+    "tuesday": {
+    "0": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "6": {
+       "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    }
+    },
+    "wednesday": {
+    "0": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "6": {
+       "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    }
+    },
+    "thursday": {
+    "0": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "6": {
+       "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    }
+    },
+    "friday": {
+    "0": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "6": {
+       "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    }
+    },
+    "saturday": {
+    "0": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "6": {
+       "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    }
+    },
+    "sunday": {
+    "0": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "6": {
+       "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "Everybody Hates Chris",
+        "It's Always Sunny In Philadelphia",
+        "The League",
+        "The Bernie Mac Show",
+        "1000 Ways to Die",
+        "The Amanda Show",
+        "Drake and Josh",
+        "Two and a Half Men",
+        "Malcolm in the Middle",
+        "My Name is Earl",
+        "Rescue Me",
+        "Eastbound and Down"
+      ],
+      "random_tags": true
+    }
+    }
+}
+}

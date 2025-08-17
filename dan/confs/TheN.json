@@ -1,0 +1,2978 @@
+{"station_conf"  : {
+    "network_name" : "TheN",
+    "channel_number": 124,
+
+    "network_type": "standard",
+    "schedule_increment": 30,
+    "break_strategy": "standard",
+    "commercial_free": false, 
+    "break_duration": 120,
+
+    "catalog_path" : "catalog/TheN_catalog.bin",
+    "content_dir" : "catalog/TheN",
+    "commercial_dir" : "commercial",
+    "bump_dir" : "bump",
+    
+    
+    "runtime_dir" : "runtime/TheN",
+    "schedule_path": "runtime/TheN_schedule.bin",
+    "sign_off_video": "runtime/signoff.mp4",
+    "off_air_video": "runtime/off_air_pattern.mp4",
+    "standby_image": "runtime/standby.png",
+
+    "monday": {
+    "0": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "All That",
+        "As Told By Ginger",
+        "Clarissa Explains it All",
+        "Double Dare",
+        "Doug Nick",
+        "Hey Arnold",
+        "Kenan and Kel",
+        "Legends of the Hidden Temple",
+        "Ren and Stimpy",
+        "Rugrats",
+        "Figure it Out",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "All That",
+        "As Told By Ginger",
+        "Clarissa Explains it All",
+        "Double Dare",
+        "Doug Nick",
+        "Hey Arnold",
+        "Kenan and Kel",
+        "Legends of the Hidden Temple",
+        "Ren and Stimpy",
+        "Rugrats",
+        "Figure it Out",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "All That",
+        "As Told By Ginger",
+        "Clarissa Explains it All",
+        "Double Dare",
+        "Doug Nick",
+        "Hey Arnold",
+        "Kenan and Kel",
+        "Legends of the Hidden Temple",
+        "Ren and Stimpy",
+        "Rugrats",
+        "Figure it Out",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "All That",
+        "As Told By Ginger",
+        "Clarissa Explains it All",
+        "Double Dare",
+        "Doug Nick",
+        "Hey Arnold",
+        "Kenan and Kel",
+        "Legends of the Hidden Temple",
+        "Ren and Stimpy",
+        "Rugrats",
+        "Figure it Out",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "All That",
+        "As Told By Ginger",
+        "Clarissa Explains it All",
+        "Double Dare",
+        "Doug Nick",
+        "Hey Arnold",
+        "Kenan and Kel",
+        "Legends of the Hidden Temple",
+        "Ren and Stimpy",
+        "Rugrats",
+        "Figure it Out",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "All That",
+        "As Told By Ginger",
+        "Clarissa Explains it All",
+        "Double Dare",
+        "Doug Nick",
+        "Hey Arnold",
+        "Kenan and Kel",
+        "Legends of the Hidden Temple",
+        "Ren and Stimpy",
+        "Rugrats",
+        "Figure it Out",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    }
+    },
+    "tuesday": {
+    "0": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "All That",
+        "As Told By Ginger",
+        "Clarissa Explains it All",
+        "Double Dare",
+        "Doug Nick",
+        "Hey Arnold",
+        "Kenan and Kel",
+        "Legends of the Hidden Temple",
+        "Ren and Stimpy",
+        "Rugrats",
+        "Figure it Out",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "All That",
+        "As Told By Ginger",
+        "Clarissa Explains it All",
+        "Double Dare",
+        "Doug Nick",
+        "Hey Arnold",
+        "Kenan and Kel",
+        "Legends of the Hidden Temple",
+        "Ren and Stimpy",
+        "Rugrats",
+        "Figure it Out",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "All That",
+        "As Told By Ginger",
+        "Clarissa Explains it All",
+        "Double Dare",
+        "Doug Nick",
+        "Hey Arnold",
+        "Kenan and Kel",
+        "Legends of the Hidden Temple",
+        "Ren and Stimpy",
+        "Rugrats",
+        "Figure it Out",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "All That",
+        "As Told By Ginger",
+        "Clarissa Explains it All",
+        "Double Dare",
+        "Doug Nick",
+        "Hey Arnold",
+        "Kenan and Kel",
+        "Legends of the Hidden Temple",
+        "Ren and Stimpy",
+        "Rugrats",
+        "Figure it Out",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "All That",
+        "As Told By Ginger",
+        "Clarissa Explains it All",
+        "Double Dare",
+        "Doug Nick",
+        "Hey Arnold",
+        "Kenan and Kel",
+        "Legends of the Hidden Temple",
+        "Ren and Stimpy",
+        "Rugrats",
+        "Figure it Out",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "All That",
+        "As Told By Ginger",
+        "Clarissa Explains it All",
+        "Double Dare",
+        "Doug Nick",
+        "Hey Arnold",
+        "Kenan and Kel",
+        "Legends of the Hidden Temple",
+        "Ren and Stimpy",
+        "Rugrats",
+        "Figure it Out",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    }
+    },
+    "wednesday": {
+    "0": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "All That",
+        "As Told By Ginger",
+        "Clarissa Explains it All",
+        "Double Dare",
+        "Doug Nick",
+        "Hey Arnold",
+        "Kenan and Kel",
+        "Legends of the Hidden Temple",
+        "Ren and Stimpy",
+        "Rugrats",
+        "Figure it Out",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "All That",
+        "As Told By Ginger",
+        "Clarissa Explains it All",
+        "Double Dare",
+        "Doug Nick",
+        "Hey Arnold",
+        "Kenan and Kel",
+        "Legends of the Hidden Temple",
+        "Ren and Stimpy",
+        "Rugrats",
+        "Figure it Out",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "All That",
+        "As Told By Ginger",
+        "Clarissa Explains it All",
+        "Double Dare",
+        "Doug Nick",
+        "Hey Arnold",
+        "Kenan and Kel",
+        "Legends of the Hidden Temple",
+        "Ren and Stimpy",
+        "Rugrats",
+        "Figure it Out",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "All That",
+        "As Told By Ginger",
+        "Clarissa Explains it All",
+        "Double Dare",
+        "Doug Nick",
+        "Hey Arnold",
+        "Kenan and Kel",
+        "Legends of the Hidden Temple",
+        "Ren and Stimpy",
+        "Rugrats",
+        "Figure it Out",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "All That",
+        "As Told By Ginger",
+        "Clarissa Explains it All",
+        "Double Dare",
+        "Doug Nick",
+        "Hey Arnold",
+        "Kenan and Kel",
+        "Legends of the Hidden Temple",
+        "Ren and Stimpy",
+        "Rugrats",
+        "Figure it Out",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "All That",
+        "As Told By Ginger",
+        "Clarissa Explains it All",
+        "Double Dare",
+        "Doug Nick",
+        "Hey Arnold",
+        "Kenan and Kel",
+        "Legends of the Hidden Temple",
+        "Ren and Stimpy",
+        "Rugrats",
+        "Figure it Out",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    }
+    },
+    "thursday": {
+    "0": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "All That",
+        "As Told By Ginger",
+        "Clarissa Explains it All",
+        "Double Dare",
+        "Doug Nick",
+        "Hey Arnold",
+        "Kenan and Kel",
+        "Legends of the Hidden Temple",
+        "Ren and Stimpy",
+        "Rugrats",
+        "Figure it Out",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "All That",
+        "As Told By Ginger",
+        "Clarissa Explains it All",
+        "Double Dare",
+        "Doug Nick",
+        "Hey Arnold",
+        "Kenan and Kel",
+        "Legends of the Hidden Temple",
+        "Ren and Stimpy",
+        "Rugrats",
+        "Figure it Out",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "All That",
+        "As Told By Ginger",
+        "Clarissa Explains it All",
+        "Double Dare",
+        "Doug Nick",
+        "Hey Arnold",
+        "Kenan and Kel",
+        "Legends of the Hidden Temple",
+        "Ren and Stimpy",
+        "Rugrats",
+        "Figure it Out",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "All That",
+        "As Told By Ginger",
+        "Clarissa Explains it All",
+        "Double Dare",
+        "Doug Nick",
+        "Hey Arnold",
+        "Kenan and Kel",
+        "Legends of the Hidden Temple",
+        "Ren and Stimpy",
+        "Rugrats",
+        "Figure it Out",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "All That",
+        "As Told By Ginger",
+        "Clarissa Explains it All",
+        "Double Dare",
+        "Doug Nick",
+        "Hey Arnold",
+        "Kenan and Kel",
+        "Legends of the Hidden Temple",
+        "Ren and Stimpy",
+        "Rugrats",
+        "Figure it Out",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "All That",
+        "As Told By Ginger",
+        "Clarissa Explains it All",
+        "Double Dare",
+        "Doug Nick",
+        "Hey Arnold",
+        "Kenan and Kel",
+        "Legends of the Hidden Temple",
+        "Ren and Stimpy",
+        "Rugrats",
+        "Figure it Out",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    }
+    },
+    "friday": {
+    "0": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "All That",
+        "As Told By Ginger",
+        "Clarissa Explains it All",
+        "Double Dare",
+        "Doug Nick",
+        "Hey Arnold",
+        "Kenan and Kel",
+        "Legends of the Hidden Temple",
+        "Ren and Stimpy",
+        "Rugrats",
+        "Figure it Out",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "All That",
+        "As Told By Ginger",
+        "Clarissa Explains it All",
+        "Double Dare",
+        "Doug Nick",
+        "Hey Arnold",
+        "Kenan and Kel",
+        "Legends of the Hidden Temple",
+        "Ren and Stimpy",
+        "Rugrats",
+        "Figure it Out",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "All That",
+        "As Told By Ginger",
+        "Clarissa Explains it All",
+        "Double Dare",
+        "Doug Nick",
+        "Hey Arnold",
+        "Kenan and Kel",
+        "Legends of the Hidden Temple",
+        "Ren and Stimpy",
+        "Rugrats",
+        "Figure it Out",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "All That",
+        "As Told By Ginger",
+        "Clarissa Explains it All",
+        "Double Dare",
+        "Doug Nick",
+        "Hey Arnold",
+        "Kenan and Kel",
+        "Legends of the Hidden Temple",
+        "Ren and Stimpy",
+        "Rugrats",
+        "Figure it Out",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "All That",
+        "As Told By Ginger",
+        "Clarissa Explains it All",
+        "Double Dare",
+        "Doug Nick",
+        "Hey Arnold",
+        "Kenan and Kel",
+        "Legends of the Hidden Temple",
+        "Ren and Stimpy",
+        "Rugrats",
+        "Figure it Out",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "All That",
+        "As Told By Ginger",
+        "Clarissa Explains it All",
+        "Double Dare",
+        "Doug Nick",
+        "Hey Arnold",
+        "Kenan and Kel",
+        "Legends of the Hidden Temple",
+        "Ren and Stimpy",
+        "Rugrats",
+        "Figure it Out",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    }
+    },
+    "saturday": {
+    "0": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "All That",
+        "As Told By Ginger",
+        "Clarissa Explains it All",
+        "Double Dare",
+        "Doug Nick",
+        "Hey Arnold",
+        "Kenan and Kel",
+        "Legends of the Hidden Temple",
+        "Ren and Stimpy",
+        "Rugrats",
+        "Figure it Out",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "All That",
+        "As Told By Ginger",
+        "Clarissa Explains it All",
+        "Double Dare",
+        "Doug Nick",
+        "Hey Arnold",
+        "Kenan and Kel",
+        "Legends of the Hidden Temple",
+        "Ren and Stimpy",
+        "Rugrats",
+        "Figure it Out",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "All That",
+        "As Told By Ginger",
+        "Clarissa Explains it All",
+        "Double Dare",
+        "Doug Nick",
+        "Hey Arnold",
+        "Kenan and Kel",
+        "Legends of the Hidden Temple",
+        "Ren and Stimpy",
+        "Rugrats",
+        "Figure it Out",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "All That",
+        "As Told By Ginger",
+        "Clarissa Explains it All",
+        "Double Dare",
+        "Doug Nick",
+        "Hey Arnold",
+        "Kenan and Kel",
+        "Legends of the Hidden Temple",
+        "Ren and Stimpy",
+        "Rugrats",
+        "Figure it Out",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "All That",
+        "As Told By Ginger",
+        "Clarissa Explains it All",
+        "Double Dare",
+        "Doug Nick",
+        "Hey Arnold",
+        "Kenan and Kel",
+        "Legends of the Hidden Temple",
+        "Ren and Stimpy",
+        "Rugrats",
+        "Figure it Out",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "All That",
+        "As Told By Ginger",
+        "Clarissa Explains it All",
+        "Double Dare",
+        "Doug Nick",
+        "Hey Arnold",
+        "Kenan and Kel",
+        "Legends of the Hidden Temple",
+        "Ren and Stimpy",
+        "Rugrats",
+        "Figure it Out",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    }
+    },
+    "sunday": {
+    "0": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "All That",
+        "As Told By Ginger",
+        "Clarissa Explains it All",
+        "Double Dare",
+        "Doug Nick",
+        "Hey Arnold",
+        "Kenan and Kel",
+        "Legends of the Hidden Temple",
+        "Ren and Stimpy",
+        "Rugrats",
+        "Figure it Out",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "All That",
+        "As Told By Ginger",
+        "Clarissa Explains it All",
+        "Double Dare",
+        "Doug Nick",
+        "Hey Arnold",
+        "Kenan and Kel",
+        "Legends of the Hidden Temple",
+        "Ren and Stimpy",
+        "Rugrats",
+        "Figure it Out",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "All That",
+        "As Told By Ginger",
+        "Clarissa Explains it All",
+        "Double Dare",
+        "Doug Nick",
+        "Hey Arnold",
+        "Kenan and Kel",
+        "Legends of the Hidden Temple",
+        "Ren and Stimpy",
+        "Rugrats",
+        "Figure it Out",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "All That",
+        "As Told By Ginger",
+        "Clarissa Explains it All",
+        "Double Dare",
+        "Doug Nick",
+        "Hey Arnold",
+        "Kenan and Kel",
+        "Legends of the Hidden Temple",
+        "Ren and Stimpy",
+        "Rugrats",
+        "Figure it Out",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "All That",
+        "As Told By Ginger",
+        "Clarissa Explains it All",
+        "Double Dare",
+        "Doug Nick",
+        "Hey Arnold",
+        "Kenan and Kel",
+        "Legends of the Hidden Temple",
+        "Ren and Stimpy",
+        "Rugrats",
+        "Figure it Out",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "All That",
+        "As Told By Ginger",
+        "Clarissa Explains it All",
+        "Double Dare",
+        "Doug Nick",
+        "Hey Arnold",
+        "Kenan and Kel",
+        "Legends of the Hidden Temple",
+        "Ren and Stimpy",
+        "Rugrats",
+        "Figure it Out",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "Are You Afraid of the Dark",
+        "Buffy the Vampire Slayer",
+        "Dawsons Creek",
+        "Degrassi The Next Generation",
+        "Sabrina the Teenage Witch",
+        "The Hills"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "That 70s Show",
+        "Freaks and Geeks",
+        "Big Time Rush",
+        "Daria",
+        "Drake and Josh",
+        "What I Like About You",
+        "Everybody Hates Chris",
+        "iCarly",
+        "Malcolm in the Middle",
+        "Moesha",
+        "Ned's Declassified",
+        "Saved by the Bell",
+        "The Amanda Show",
+        "The Fresh Prince of Bel Air",
+        "Victorious",
+        "Zoey 101",
+        "One on One",
+        "Full House"
+      ],
+      "random_tags": true
+    }
+    }
+}
+}

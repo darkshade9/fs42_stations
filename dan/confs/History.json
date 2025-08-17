@@ -1,0 +1,1508 @@
+{"station_conf"  : {
+    "network_name" : "History",
+    "channel_number": 47,
+
+    "network_type": "standard",
+    "schedule_increment": 30,
+    "break_strategy": "standard",
+    "commercial_free": false, 
+    "break_duration": 120,
+
+    "catalog_path" : "catalog/History_catalog.bin",
+    "content_dir" : "catalog/History",
+    "commercial_dir" : "commercial",
+    "bump_dir" : "bump",
+    
+    
+    "runtime_dir" : "runtime/History",
+    "schedule_path": "runtime/History_schedule.bin",
+    "sign_off_video": "runtime/signoff.mp4",
+    "off_air_video": "runtime/off_air_pattern.mp4",
+    "standby_image": "runtime/standby.png",
+
+    "monday": {
+    "0": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": "Docuseries"
+    },
+    "5": {
+      "tags": "Docuseries"
+    },
+    "6": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": "Docuseries"
+    },
+    "13": {
+      "tags": "Docuseries"
+    },
+    "14": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": "Docuseries"
+    },
+    "19": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars",
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    }
+    },
+    "tuesday": {
+    "0": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": "Docuseries"
+    },
+    "5": {
+      "tags": "Docuseries"
+    },
+    "6": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": "Docuseries"
+    },
+    "13": {
+      "tags": "Docuseries"
+    },
+    "14": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": "Docuseries"
+    },
+    "19": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars",
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    }
+    },
+    "wednesday": {
+    "0": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": "Docuseries"
+    },
+    "5": {
+      "tags": "Docuseries"
+    },
+    "6": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": "Docuseries"
+    },
+    "13": {
+      "tags": "Docuseries"
+    },
+    "14": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": "Docuseries"
+    },
+    "19": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars",
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    }
+    },
+    "thursday": {
+    "0": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": "Docuseries"
+    },
+    "5": {
+      "tags": "Docuseries"
+    },
+    "6": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": "Docuseries"
+    },
+    "13": {
+      "tags": "Docuseries"
+    },
+    "14": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": "Docuseries"
+    },
+    "19": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars",
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    }
+    },
+    "friday": {
+    "0": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": "Docuseries"
+    },
+    "5": {
+      "tags": "Docuseries"
+    },
+    "6": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": "Docuseries"
+    },
+    "13": {
+      "tags": "Docuseries"
+    },
+    "14": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": "Docuseries"
+    },
+    "19": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars",
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    }
+    },
+    "saturday": {
+    "0": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": "Docuseries"
+    },
+    "5": {
+      "tags": "Docuseries"
+    },
+    "6": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": "Docuseries"
+    },
+    "13": {
+      "tags": "Docuseries"
+    },
+    "14": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": "Movies"
+    },
+    "19": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars",
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    }
+    },
+    "sunday": {
+    "0": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": "Docuseries"
+    },
+    "5": {
+      "tags": "Docuseries"
+    },
+    "6": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": "Docuseries"
+    },
+    "13": {
+      "tags": "Docuseries"
+    },
+    "14": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": "Docuseries"
+    },
+    "19": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "Ancient Discoveries",
+        "Battle 360",
+        "Dogfights",
+        "How the Earth was Made",
+        "Lost Worlds",
+
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars",
+        "Modern Marvels",
+        "Monsterquest"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "American Pickers",
+        "Pawn Stars",
+        "Pawn Stars"
+      ],
+      "random_tags": true
+    }
+    }
+}
+}

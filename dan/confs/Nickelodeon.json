@@ -1,0 +1,3383 @@
+{"station_conf"  : {
+    "network_name" : "Nickelodeon",
+    "channel_number": 33,
+
+    "network_type": "standard",
+    "schedule_increment": 30,
+    "break_strategy": "standard",
+    "commercial_free": false, 
+    "break_duration": 120,
+
+    "catalog_path" : "catalog/Nickelodeon_catalog.bin",
+    "content_dir" : "catalog/Nickelodeon",
+    "commercial_dir" : "commercial",
+    "bump_dir" : "bump",
+    
+    "runtime_dir" : "runtime/Nickelodeon",
+    "schedule_path": "runtime/Nickelodeon_schedule.bin",
+    "sign_off_video": "runtime/signoff.mp4",
+    "off_air_video": "runtime/off_air_pattern.mp4",
+    "standby_image": "runtime/standby.png",
+
+    "monday": {
+    "0": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Double Dare",
+        "Figure it Out",
+        "Legends of the Hidden Temple"
+      ],
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "Double Dare",
+        "Figure it Out",
+        "Legends of the Hidden Temple"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "All That",
+        "Clarissa Explains it All",
+        "Drake and Josh",
+        "Drake and Josh",
+        "iCarly",
+        "Kenan and Kel",
+        "Ned's Declassified",
+        "Ned's Declassified",
+        "The Amanda Show",
+        "Victorious",
+        "Zoey 101",
+        "Zoey 101"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "All That",
+        "Clarissa Explains it All",
+        "Drake and Josh",
+        "Drake and Josh",
+        "iCarly",
+        "Kenan and Kel",
+        "Ned's Declassified",
+        "Ned's Declassified",
+        "The Amanda Show",
+        "Victorious",
+        "Zoey 101",
+        "Zoey 101"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "All That",
+        "Clarissa Explains it All",
+        "Drake and Josh",
+        "Drake and Josh",
+        "iCarly",
+        "Kenan and Kel",
+        "Ned's Declassified",
+        "Ned's Declassified",
+        "The Amanda Show",
+        "Victorious",
+        "Zoey 101",
+        "Zoey 101"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "All That",
+        "Clarissa Explains it All",
+        "Drake and Josh",
+        "Drake and Josh",
+        "iCarly",
+        "Kenan and Kel",
+        "Ned's Declassified",
+        "Ned's Declassified",
+        "The Amanda Show",
+        "Victorious",
+        "Zoey 101",
+        "Zoey 101"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "All That",
+        "Clarissa Explains it All",
+        "Drake and Josh",
+        "Drake and Josh",
+        "iCarly",
+        "Kenan and Kel",
+        "Ned's Declassified",
+        "Ned's Declassified",
+        "The Amanda Show",
+        "Victorious",
+        "Zoey 101",
+        "Zoey 101"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "All That",
+        "Clarissa Explains it All",
+        "Drake and Josh",
+        "Drake and Josh",
+        "iCarly",
+        "Kenan and Kel",
+        "Ned's Declassified",
+        "Ned's Declassified",
+        "The Amanda Show",
+        "Victorious",
+        "Zoey 101",
+        "Zoey 101"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    }
+    },
+    "tuesday": {
+    "0": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Double Dare",
+        "Figure it Out",
+        "Legends of the Hidden Temple"
+      ],
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "Double Dare",
+        "Figure it Out",
+        "Legends of the Hidden Temple"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "All That",
+        "Clarissa Explains it All",
+        "Drake and Josh",
+        "Drake and Josh",
+        "iCarly",
+        "Kenan and Kel",
+        "Ned's Declassified",
+        "Ned's Declassified",
+        "The Amanda Show",
+        "Victorious",
+        "Zoey 101",
+        "Zoey 101"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "All That",
+        "Clarissa Explains it All",
+        "Drake and Josh",
+        "Drake and Josh",
+        "iCarly",
+        "Kenan and Kel",
+        "Ned's Declassified",
+        "Ned's Declassified",
+        "The Amanda Show",
+        "Victorious",
+        "Zoey 101",
+        "Zoey 101"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "All That",
+        "Clarissa Explains it All",
+        "Drake and Josh",
+        "Drake and Josh",
+        "iCarly",
+        "Kenan and Kel",
+        "Ned's Declassified",
+        "Ned's Declassified",
+        "The Amanda Show",
+        "Victorious",
+        "Zoey 101",
+        "Zoey 101"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "All That",
+        "Clarissa Explains it All",
+        "Drake and Josh",
+        "Drake and Josh",
+        "iCarly",
+        "Kenan and Kel",
+        "Ned's Declassified",
+        "Ned's Declassified",
+        "The Amanda Show",
+        "Victorious",
+        "Zoey 101",
+        "Zoey 101"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "All That",
+        "Clarissa Explains it All",
+        "Drake and Josh",
+        "Drake and Josh",
+        "iCarly",
+        "Kenan and Kel",
+        "Ned's Declassified",
+        "Ned's Declassified",
+        "The Amanda Show",
+        "Victorious",
+        "Zoey 101",
+        "Zoey 101"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": "Movies"
+    },
+    "21": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    }
+    },
+    "wednesday": {
+    "0": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Double Dare",
+        "Figure it Out",
+        "Legends of the Hidden Temple"
+      ],
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "Double Dare",
+        "Figure it Out",
+        "Legends of the Hidden Temple"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "All That",
+        "Clarissa Explains it All",
+        "Drake and Josh",
+        "Drake and Josh",
+        "iCarly",
+        "Kenan and Kel",
+        "Ned's Declassified",
+        "Ned's Declassified",
+        "The Amanda Show",
+        "Victorious",
+        "Zoey 101",
+        "Zoey 101"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "All That",
+        "Clarissa Explains it All",
+        "Drake and Josh",
+        "Drake and Josh",
+        "iCarly",
+        "Kenan and Kel",
+        "Ned's Declassified",
+        "Ned's Declassified",
+        "The Amanda Show",
+        "Victorious",
+        "Zoey 101",
+        "Zoey 101"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "All That",
+        "Clarissa Explains it All",
+        "Drake and Josh",
+        "Drake and Josh",
+        "iCarly",
+        "Kenan and Kel",
+        "Ned's Declassified",
+        "Ned's Declassified",
+        "The Amanda Show",
+        "Victorious",
+        "Zoey 101",
+        "Zoey 101"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "All That",
+        "Clarissa Explains it All",
+        "Drake and Josh",
+        "Drake and Josh",
+        "iCarly",
+        "Kenan and Kel",
+        "Ned's Declassified",
+        "Ned's Declassified",
+        "The Amanda Show",
+        "Victorious",
+        "Zoey 101",
+        "Zoey 101"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "All That",
+        "Clarissa Explains it All",
+        "Drake and Josh",
+        "Drake and Josh",
+        "iCarly",
+        "Kenan and Kel",
+        "Ned's Declassified",
+        "Ned's Declassified",
+        "The Amanda Show",
+        "Victorious",
+        "Zoey 101",
+        "Zoey 101"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "All That",
+        "Clarissa Explains it All",
+        "Drake and Josh",
+        "Drake and Josh",
+        "iCarly",
+        "Kenan and Kel",
+        "Ned's Declassified",
+        "Ned's Declassified",
+        "The Amanda Show",
+        "Victorious",
+        "Zoey 101",
+        "Zoey 101"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    }
+    },
+    "thursday": {
+    "0": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Double Dare",
+        "Figure it Out",
+        "Legends of the Hidden Temple"
+      ],
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "Double Dare",
+        "Figure it Out",
+        "Legends of the Hidden Temple"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "All That",
+        "Clarissa Explains it All",
+        "Drake and Josh",
+        "Drake and Josh",
+        "iCarly",
+        "Kenan and Kel",
+        "Ned's Declassified",
+        "Ned's Declassified",
+        "The Amanda Show",
+        "Victorious",
+        "Zoey 101",
+        "Zoey 101"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "All That",
+        "Clarissa Explains it All",
+        "Drake and Josh",
+        "Drake and Josh",
+        "iCarly",
+        "Kenan and Kel",
+        "Ned's Declassified",
+        "Ned's Declassified",
+        "The Amanda Show",
+        "Victorious",
+        "Zoey 101",
+        "Zoey 101"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "All That",
+        "Clarissa Explains it All",
+        "Drake and Josh",
+        "Drake and Josh",
+        "iCarly",
+        "Kenan and Kel",
+        "Ned's Declassified",
+        "Ned's Declassified",
+        "The Amanda Show",
+        "Victorious",
+        "Zoey 101",
+        "Zoey 101"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "All That",
+        "Clarissa Explains it All",
+        "Drake and Josh",
+        "Drake and Josh",
+        "iCarly",
+        "Kenan and Kel",
+        "Ned's Declassified",
+        "Ned's Declassified",
+        "The Amanda Show",
+        "Victorious",
+        "Zoey 101",
+        "Zoey 101"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "All That",
+        "Clarissa Explains it All",
+        "Drake and Josh",
+        "Drake and Josh",
+        "iCarly",
+        "Kenan and Kel",
+        "Ned's Declassified",
+        "Ned's Declassified",
+        "The Amanda Show",
+        "Victorious",
+        "Zoey 101",
+        "Zoey 101"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "All That",
+        "Clarissa Explains it All",
+        "Drake and Josh",
+        "Drake and Josh",
+        "iCarly",
+        "Kenan and Kel",
+        "Ned's Declassified",
+        "Ned's Declassified",
+        "The Amanda Show",
+        "Victorious",
+        "Zoey 101",
+        "Zoey 101"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    }
+    },
+    "friday": {
+    "0": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Double Dare",
+        "Figure it Out",
+        "Legends of the Hidden Temple"
+      ],
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "Double Dare",
+        "Figure it Out",
+        "Legends of the Hidden Temple"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "All That",
+        "Clarissa Explains it All",
+        "Drake and Josh",
+        "Drake and Josh",
+        "iCarly",
+        "Kenan and Kel",
+        "Ned's Declassified",
+        "Ned's Declassified",
+        "The Amanda Show",
+        "Victorious",
+        "Zoey 101",
+        "Zoey 101"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "All That",
+        "Clarissa Explains it All",
+        "Drake and Josh",
+        "Drake and Josh",
+        "iCarly",
+        "Kenan and Kel",
+        "Ned's Declassified",
+        "Ned's Declassified",
+        "The Amanda Show",
+        "Victorious",
+        "Zoey 101",
+        "Zoey 101"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "All That",
+        "Clarissa Explains it All",
+        "Drake and Josh",
+        "Drake and Josh",
+        "iCarly",
+        "Kenan and Kel",
+        "Ned's Declassified",
+        "Ned's Declassified",
+        "The Amanda Show",
+        "Victorious",
+        "Zoey 101",
+        "Zoey 101"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": "Movies"
+    },
+    "19": {
+      "tags": [
+        "All That",
+        "Clarissa Explains it All",
+        "Drake and Josh",
+        "Drake and Josh",
+        "iCarly",
+        "Kenan and Kel",
+        "Ned's Declassified",
+        "Ned's Declassified",
+        "The Amanda Show",
+        "Victorious",
+        "Zoey 101",
+        "Zoey 101"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": "Specials"
+    },
+    "21": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    }
+    },
+    "saturday": {
+    "0": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Double Dare",
+        "Figure it Out",
+        "Legends of the Hidden Temple"
+      ],
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "Double Dare",
+        "Figure it Out",
+        "Legends of the Hidden Temple"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "All That",
+        "Clarissa Explains it All",
+        "Drake and Josh",
+        "Drake and Josh",
+        "iCarly",
+        "Kenan and Kel",
+        "Ned's Declassified",
+        "Ned's Declassified",
+        "The Amanda Show",
+        "Victorious",
+        "Zoey 101",
+        "Zoey 101"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "All That",
+        "Clarissa Explains it All",
+        "Drake and Josh",
+        "Drake and Josh",
+        "iCarly",
+        "Kenan and Kel",
+        "Ned's Declassified",
+        "Ned's Declassified",
+        "The Amanda Show",
+        "Victorious",
+        "Zoey 101",
+        "Zoey 101"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "All That",
+        "Clarissa Explains it All",
+        "Drake and Josh",
+        "Drake and Josh",
+        "iCarly",
+        "Kenan and Kel",
+        "Ned's Declassified",
+        "Ned's Declassified",
+        "The Amanda Show",
+        "Victorious",
+        "Zoey 101",
+        "Zoey 101"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "All That",
+        "Clarissa Explains it All",
+        "Drake and Josh",
+        "Drake and Josh",
+        "iCarly",
+        "Kenan and Kel",
+        "Ned's Declassified",
+        "Ned's Declassified",
+        "The Amanda Show",
+        "Victorious",
+        "Zoey 101",
+        "Zoey 101"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "All That",
+        "Clarissa Explains it All",
+        "Drake and Josh",
+        "Drake and Josh",
+        "iCarly",
+        "Kenan and Kel",
+        "Ned's Declassified",
+        "Ned's Declassified",
+        "The Amanda Show",
+        "Victorious",
+        "Zoey 101",
+        "Zoey 101"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": "Specials"
+    },
+    "21": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    }
+    },
+    "sunday": {
+    "0": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Double Dare",
+        "Figure it Out",
+        "Legends of the Hidden Temple"
+      ],
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "Double Dare",
+        "Figure it Out",
+        "Legends of the Hidden Temple"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "Aaahh Real Monsters",
+        "All Grown Up",
+        "As Told By Ginger",
+        "Avatar",
+        "CatDog",
+        "Chalkzone",
+        "Danny Phantom",
+        "Doug Nick",
+        "Hey Arnold",
+        "Hey Arnold",
+        "Jimmy Neutron",
+        "Jimmy Neutron",
+        "My Life as a Teenage Robot",
+        "Ren and Stimpy",
+        "Rocket Power",
+        "Rocket Power",
+        "Rockos Modern Life",
+        "Rugrats",
+        "Rugrats",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "Spongebob Squarepants",
+        "The Fairly OddParents",
+        "The Fairly OddParents",
+        "The Wild Thornberries"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "All That",
+        "Clarissa Explains it All",
+        "Drake and Josh",
+        "Drake and Josh",
+        "iCarly",
+        "Kenan and Kel",
+        "Ned's Declassified",
+        "Ned's Declassified",
+        "The Amanda Show",
+        "Victorious",
+        "Zoey 101",
+        "Zoey 101"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "All That",
+        "Clarissa Explains it All",
+        "Drake and Josh",
+        "Drake and Josh",
+        "iCarly",
+        "Kenan and Kel",
+        "Ned's Declassified",
+        "Ned's Declassified",
+        "The Amanda Show",
+        "Victorious",
+        "Zoey 101",
+        "Zoey 101"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "All That",
+        "Clarissa Explains it All",
+        "Drake and Josh",
+        "Drake and Josh",
+        "iCarly",
+        "Kenan and Kel",
+        "Ned's Declassified",
+        "Ned's Declassified",
+        "The Amanda Show",
+        "Victorious",
+        "Zoey 101",
+        "Zoey 101"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "All That",
+        "Clarissa Explains it All",
+        "Drake and Josh",
+        "Drake and Josh",
+        "iCarly",
+        "Kenan and Kel",
+        "Ned's Declassified",
+        "Ned's Declassified",
+        "The Amanda Show",
+        "Victorious",
+        "Zoey 101",
+        "Zoey 101"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "All That",
+        "Clarissa Explains it All",
+        "Drake and Josh",
+        "Drake and Josh",
+        "iCarly",
+        "Kenan and Kel",
+        "Ned's Declassified",
+        "Ned's Declassified",
+        "The Amanda Show",
+        "Victorious",
+        "Zoey 101",
+        "Zoey 101"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "All That",
+        "Clarissa Explains it All",
+        "Drake and Josh",
+        "Drake and Josh",
+        "iCarly",
+        "Kenan and Kel",
+        "Ned's Declassified",
+        "Ned's Declassified",
+        "The Amanda Show",
+        "Victorious",
+        "Zoey 101",
+        "Zoey 101"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "George Lopez",
+        "George Lopez",
+        "Everybody Hates Chris",
+        "Full House",
+        "Home Improvement",
+        "Roseanne",
+        "That 70s Show",
+        "The Cosby Show",
+        "The Nanny"
+      ],
+      "commercial_dir": "Adultcom",
+      "bump_dir": "NickatNite",
+      "random_tags": true
+    }
+    }
+}
+}

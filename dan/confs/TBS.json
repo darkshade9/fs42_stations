@@ -1,0 +1,2822 @@
+{"station_conf"  : {
+    "network_name" : "TBS",
+    "channel_number": 39,
+
+    "network_type": "standard",
+    "schedule_increment": 30,
+    "break_strategy": "standard",
+    "commercial_free": false, 
+    "break_duration": 120,
+
+    "catalog_path" : "catalog/TBS_catalog.bin",
+    "content_dir" : "catalog/TBS",
+    "commercial_dir" : "commercial",
+    "bump_dir" : "bump",
+    
+    
+    "runtime_dir" : "runtime/TBS",
+    "schedule_path": "runtime/TBS_schedule.bin",
+    "sign_off_video": "runtime/signoff.mp4",
+    "off_air_video": "runtime/off_air_pattern.mp4",
+    "standby_image": "runtime/standby.png",
+
+    "monday": {
+    "0": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "Wipeout",
+        "Magics Biggest Secrets Revealed",
+        "Ripley's Believe it or Not"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "Wipeout",
+        "Magics Biggest Secrets Revealed",
+        "Ripley's Believe it or Not"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "All in the Family",
+        "Bewitched",
+        "Bonanza",
+        "Gilligans Island",
+        "Gunsmoke",
+        "Happy Days",
+        "Hogans Heroes",
+        "I Dream of Jeanie",
+        "I Love Lucy",
+        "Little House on the Prairie",
+        "The Andy Griffith Show",
+        "The Beverly Hillbillies",
+        "The Brady Bunch",
+        "The Cosby Show",
+        "The Mary Tyler Moore Show",
+        "MASH",
+        "The Munsters"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "All in the Family",
+        "Bewitched",
+        "Bonanza",
+        "Gilligans Island",
+        "Gunsmoke",
+        "Happy Days",
+        "Hogans Heroes",
+        "I Dream of Jeanie",
+        "I Love Lucy",
+        "Little House on the Prairie",
+        "The Andy Griffith Show",
+        "The Beverly Hillbillies",
+        "The Brady Bunch",
+        "The Cosby Show",
+        "The Mary Tyler Moore Show",
+        "MASH",
+        "The Munsters"
+      ],
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "All in the Family",
+        "Bewitched",
+        "Bonanza",
+        "Gilligans Island",
+        "Gunsmoke",
+        "Happy Days",
+        "Hogans Heroes",
+        "I Dream of Jeanie",
+        "I Love Lucy",
+        "Little House on the Prairie",
+        "The Andy Griffith Show",
+        "The Beverly Hillbillies",
+        "The Brady Bunch",
+        "The Cosby Show",
+        "The Mary Tyler Moore Show",
+        "MASH",
+        "The Munsters"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "American Dad",
+        "Family Guy",
+        "Futurama"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "American Dad",
+        "Family Guy",
+        "Futurama"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "All in the Family",
+        "Bewitched",
+        "Bonanza",
+        "Gilligans Island",
+        "Gunsmoke",
+        "Happy Days",
+        "Hogans Heroes",
+        "I Dream of Jeanie",
+        "I Love Lucy",
+        "Little House on the Prairie",
+        "The Andy Griffith Show",
+        "The Beverly Hillbillies",
+        "The Brady Bunch",
+        "The Cosby Show",
+        "The Mary Tyler Moore Show",
+        "MASH",
+        "The Munsters"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "All in the Family",
+        "Bewitched",
+        "Bonanza",
+        "Gilligans Island",
+        "Gunsmoke",
+        "Happy Days",
+        "Hogans Heroes",
+        "I Dream of Jeanie",
+        "I Love Lucy",
+        "Little House on the Prairie",
+        "The Andy Griffith Show",
+        "The Beverly Hillbillies",
+        "The Brady Bunch",
+        "The Cosby Show",
+        "The Mary Tyler Moore Show",
+        "MASH",
+        "The Munsters"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "American Dad",
+        "Family Guy",
+        "Futurama"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "American Dad",
+        "Family Guy",
+        "Futurama"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "Wipeout",
+        "Magics Biggest Secrets Revealed",
+        "Ripley's Believe it or Not"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": "Sports"
+    },
+    "20": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "American Dad",
+        "Family Guy",
+        "Futurama"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "Wipeout",
+        "Magics Biggest Secrets Revealed",
+        "Ripley's Believe it or Not"
+      ],
+      "random_tags": true
+    }
+    },
+    "tuesday": {
+    "0": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "Wipeout",
+        "Magics Biggest Secrets Revealed",
+        "Ripley's Believe it or Not"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "Wipeout",
+        "Magics Biggest Secrets Revealed",
+        "Ripley's Believe it or Not"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "All in the Family",
+        "Bewitched",
+        "Bonanza",
+        "Gilligans Island",
+        "Gunsmoke",
+        "Happy Days",
+        "Hogans Heroes",
+        "I Dream of Jeanie",
+        "I Love Lucy",
+        "Little House on the Prairie",
+        "The Andy Griffith Show",
+        "The Beverly Hillbillies",
+        "The Brady Bunch",
+        "The Cosby Show",
+        "The Mary Tyler Moore Show",
+        "MASH",
+        "The Munsters"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "All in the Family",
+        "Bewitched",
+        "Bonanza",
+        "Gilligans Island",
+        "Gunsmoke",
+        "Happy Days",
+        "Hogans Heroes",
+        "I Dream of Jeanie",
+        "I Love Lucy",
+        "Little House on the Prairie",
+        "The Andy Griffith Show",
+        "The Beverly Hillbillies",
+        "The Brady Bunch",
+        "The Cosby Show",
+        "The Mary Tyler Moore Show",
+        "MASH",
+        "The Munsters"
+      ],
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "All in the Family",
+        "Bewitched",
+        "Bonanza",
+        "Gilligans Island",
+        "Gunsmoke",
+        "Happy Days",
+        "Hogans Heroes",
+        "I Dream of Jeanie",
+        "I Love Lucy",
+        "Little House on the Prairie",
+        "The Andy Griffith Show",
+        "The Beverly Hillbillies",
+        "The Brady Bunch",
+        "The Cosby Show",
+        "The Mary Tyler Moore Show",
+        "MASH",
+        "The Munsters"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "American Dad",
+        "Family Guy",
+        "Futurama"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "American Dad",
+        "Family Guy",
+        "Futurama"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "All in the Family",
+        "Bewitched",
+        "Bonanza",
+        "Gilligans Island",
+        "Gunsmoke",
+        "Happy Days",
+        "Hogans Heroes",
+        "I Dream of Jeanie",
+        "I Love Lucy",
+        "Little House on the Prairie",
+        "The Andy Griffith Show",
+        "The Beverly Hillbillies",
+        "The Brady Bunch",
+        "The Cosby Show",
+        "The Mary Tyler Moore Show",
+        "MASH",
+        "The Munsters"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "All in the Family",
+        "Bewitched",
+        "Bonanza",
+        "Gilligans Island",
+        "Gunsmoke",
+        "Happy Days",
+        "Hogans Heroes",
+        "I Dream of Jeanie",
+        "I Love Lucy",
+        "Little House on the Prairie",
+        "The Andy Griffith Show",
+        "The Beverly Hillbillies",
+        "The Brady Bunch",
+        "The Cosby Show",
+        "The Mary Tyler Moore Show",
+        "MASH",
+        "The Munsters"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "American Dad",
+        "Family Guy",
+        "Futurama"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "American Dad",
+        "Family Guy",
+        "Futurama"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "Wipeout",
+        "Magics Biggest Secrets Revealed",
+        "Ripley's Believe it or Not"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": "Movies"
+    },
+    "20": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "American Dad",
+        "Family Guy",
+        "Futurama"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "Wipeout",
+        "Magics Biggest Secrets Revealed",
+        "Ripley's Believe it or Not"
+      ],
+      "random_tags": true
+    }
+    },
+    "wednesday": {
+    "0": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "Wipeout",
+        "Magics Biggest Secrets Revealed",
+        "Ripley's Believe it or Not"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "Wipeout",
+        "Magics Biggest Secrets Revealed",
+        "Ripley's Believe it or Not"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "All in the Family",
+        "Bewitched",
+        "Bonanza",
+        "Gilligans Island",
+        "Gunsmoke",
+        "Happy Days",
+        "Hogans Heroes",
+        "I Dream of Jeanie",
+        "I Love Lucy",
+        "Little House on the Prairie",
+        "The Andy Griffith Show",
+        "The Beverly Hillbillies",
+        "The Brady Bunch",
+        "The Cosby Show",
+        "The Mary Tyler Moore Show",
+        "MASH",
+        "The Munsters"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "All in the Family",
+        "Bewitched",
+        "Bonanza",
+        "Gilligans Island",
+        "Gunsmoke",
+        "Happy Days",
+        "Hogans Heroes",
+        "I Dream of Jeanie",
+        "I Love Lucy",
+        "Little House on the Prairie",
+        "The Andy Griffith Show",
+        "The Beverly Hillbillies",
+        "The Brady Bunch",
+        "The Cosby Show",
+        "The Mary Tyler Moore Show",
+        "MASH",
+        "The Munsters"
+      ],
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "All in the Family",
+        "Bewitched",
+        "Bonanza",
+        "Gilligans Island",
+        "Gunsmoke",
+        "Happy Days",
+        "Hogans Heroes",
+        "I Dream of Jeanie",
+        "I Love Lucy",
+        "Little House on the Prairie",
+        "The Andy Griffith Show",
+        "The Beverly Hillbillies",
+        "The Brady Bunch",
+        "The Cosby Show",
+        "The Mary Tyler Moore Show",
+        "MASH",
+        "The Munsters"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "American Dad",
+        "Family Guy",
+        "Futurama"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "American Dad",
+        "Family Guy",
+        "Futurama"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "All in the Family",
+        "Bewitched",
+        "Bonanza",
+        "Gilligans Island",
+        "Gunsmoke",
+        "Happy Days",
+        "Hogans Heroes",
+        "I Dream of Jeanie",
+        "I Love Lucy",
+        "Little House on the Prairie",
+        "The Andy Griffith Show",
+        "The Beverly Hillbillies",
+        "The Brady Bunch",
+        "The Cosby Show",
+        "The Mary Tyler Moore Show",
+        "MASH",
+        "The Munsters"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "All in the Family",
+        "Bewitched",
+        "Bonanza",
+        "Gilligans Island",
+        "Gunsmoke",
+        "Happy Days",
+        "Hogans Heroes",
+        "I Dream of Jeanie",
+        "I Love Lucy",
+        "Little House on the Prairie",
+        "The Andy Griffith Show",
+        "The Beverly Hillbillies",
+        "The Brady Bunch",
+        "The Cosby Show",
+        "The Mary Tyler Moore Show",
+        "MASH",
+        "The Munsters"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "American Dad",
+        "Family Guy",
+        "Futurama"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "American Dad",
+        "Family Guy",
+        "Futurama"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "Wipeout",
+        "Magics Biggest Secrets Revealed",
+        "Ripley's Believe it or Not"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "American Dad",
+        "Family Guy",
+        "Futurama"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "Wipeout",
+        "Magics Biggest Secrets Revealed",
+        "Ripley's Believe it or Not"
+      ],
+      "random_tags": true
+    }
+    },
+    "thursday": {
+    "0": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "Wipeout",
+        "Magics Biggest Secrets Revealed",
+        "Ripley's Believe it or Not"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "Wipeout",
+        "Magics Biggest Secrets Revealed",
+        "Ripley's Believe it or Not"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "All in the Family",
+        "Bewitched",
+        "Bonanza",
+        "Gilligans Island",
+        "Gunsmoke",
+        "Happy Days",
+        "Hogans Heroes",
+        "I Dream of Jeanie",
+        "I Love Lucy",
+        "Little House on the Prairie",
+        "The Andy Griffith Show",
+        "The Beverly Hillbillies",
+        "The Brady Bunch",
+        "The Cosby Show",
+        "The Mary Tyler Moore Show",
+        "MASH",
+        "The Munsters"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "All in the Family",
+        "Bewitched",
+        "Bonanza",
+        "Gilligans Island",
+        "Gunsmoke",
+        "Happy Days",
+        "Hogans Heroes",
+        "I Dream of Jeanie",
+        "I Love Lucy",
+        "Little House on the Prairie",
+        "The Andy Griffith Show",
+        "The Beverly Hillbillies",
+        "The Brady Bunch",
+        "The Cosby Show",
+        "The Mary Tyler Moore Show",
+        "MASH",
+        "The Munsters"
+      ],
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "All in the Family",
+        "Bewitched",
+        "Bonanza",
+        "Gilligans Island",
+        "Gunsmoke",
+        "Happy Days",
+        "Hogans Heroes",
+        "I Dream of Jeanie",
+        "I Love Lucy",
+        "Little House on the Prairie",
+        "The Andy Griffith Show",
+        "The Beverly Hillbillies",
+        "The Brady Bunch",
+        "The Cosby Show",
+        "The Mary Tyler Moore Show",
+        "MASH",
+        "The Munsters"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "American Dad",
+        "Family Guy",
+        "Futurama"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "American Dad",
+        "Family Guy",
+        "Futurama"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "All in the Family",
+        "Bewitched",
+        "Bonanza",
+        "Gilligans Island",
+        "Gunsmoke",
+        "Happy Days",
+        "Hogans Heroes",
+        "I Dream of Jeanie",
+        "I Love Lucy",
+        "Little House on the Prairie",
+        "The Andy Griffith Show",
+        "The Beverly Hillbillies",
+        "The Brady Bunch",
+        "The Cosby Show",
+        "The Mary Tyler Moore Show",
+        "MASH",
+        "The Munsters"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "All in the Family",
+        "Bewitched",
+        "Bonanza",
+        "Gilligans Island",
+        "Gunsmoke",
+        "Happy Days",
+        "Hogans Heroes",
+        "I Dream of Jeanie",
+        "I Love Lucy",
+        "Little House on the Prairie",
+        "The Andy Griffith Show",
+        "The Beverly Hillbillies",
+        "The Brady Bunch",
+        "The Cosby Show",
+        "The Mary Tyler Moore Show",
+        "MASH",
+        "The Munsters"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "American Dad",
+        "Family Guy",
+        "Futurama"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "American Dad",
+        "Family Guy",
+        "Futurama"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "Wipeout",
+        "Magics Biggest Secrets Revealed",
+        "Ripley's Believe it or Not"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": "Sports"
+    },
+    "20": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "American Dad",
+        "Family Guy",
+        "Futurama"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "Wipeout",
+        "Magics Biggest Secrets Revealed",
+        "Ripley's Believe it or Not"
+      ],
+      "random_tags": true
+    }
+    },
+    "friday": {
+    "0": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "Wipeout",
+        "Magics Biggest Secrets Revealed",
+        "Ripley's Believe it or Not"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "Wipeout",
+        "Magics Biggest Secrets Revealed",
+        "Ripley's Believe it or Not"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "All in the Family",
+        "Bewitched",
+        "Bonanza",
+        "Gilligans Island",
+        "Gunsmoke",
+        "Happy Days",
+        "Hogans Heroes",
+        "I Dream of Jeanie",
+        "I Love Lucy",
+        "Little House on the Prairie",
+        "The Andy Griffith Show",
+        "The Beverly Hillbillies",
+        "The Brady Bunch",
+        "The Cosby Show",
+        "The Mary Tyler Moore Show",
+        "MASH",
+        "The Munsters"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "All in the Family",
+        "Bewitched",
+        "Bonanza",
+        "Gilligans Island",
+        "Gunsmoke",
+        "Happy Days",
+        "Hogans Heroes",
+        "I Dream of Jeanie",
+        "I Love Lucy",
+        "Little House on the Prairie",
+        "The Andy Griffith Show",
+        "The Beverly Hillbillies",
+        "The Brady Bunch",
+        "The Cosby Show",
+        "The Mary Tyler Moore Show",
+        "MASH",
+        "The Munsters"
+      ],
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "All in the Family",
+        "Bewitched",
+        "Bonanza",
+        "Gilligans Island",
+        "Gunsmoke",
+        "Happy Days",
+        "Hogans Heroes",
+        "I Dream of Jeanie",
+        "I Love Lucy",
+        "Little House on the Prairie",
+        "The Andy Griffith Show",
+        "The Beverly Hillbillies",
+        "The Brady Bunch",
+        "The Cosby Show",
+        "The Mary Tyler Moore Show",
+        "MASH",
+        "The Munsters"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "American Dad",
+        "Family Guy",
+        "Futurama"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "American Dad",
+        "Family Guy",
+        "Futurama"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "All in the Family",
+        "Bewitched",
+        "Bonanza",
+        "Gilligans Island",
+        "Gunsmoke",
+        "Happy Days",
+        "Hogans Heroes",
+        "I Dream of Jeanie",
+        "I Love Lucy",
+        "Little House on the Prairie",
+        "The Andy Griffith Show",
+        "The Beverly Hillbillies",
+        "The Brady Bunch",
+        "The Cosby Show",
+        "The Mary Tyler Moore Show",
+        "MASH",
+        "The Munsters"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "All in the Family",
+        "Bewitched",
+        "Bonanza",
+        "Gilligans Island",
+        "Gunsmoke",
+        "Happy Days",
+        "Hogans Heroes",
+        "I Dream of Jeanie",
+        "I Love Lucy",
+        "Little House on the Prairie",
+        "The Andy Griffith Show",
+        "The Beverly Hillbillies",
+        "The Brady Bunch",
+        "The Cosby Show",
+        "The Mary Tyler Moore Show",
+        "MASH",
+        "The Munsters"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "American Dad",
+        "Family Guy",
+        "Futurama"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "American Dad",
+        "Family Guy",
+        "Futurama"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "Wipeout",
+        "Magics Biggest Secrets Revealed",
+        "Ripley's Believe it or Not"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": "Movies"
+    },
+    "20": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "American Dad",
+        "Family Guy",
+        "Futurama"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "Wipeout",
+        "Magics Biggest Secrets Revealed",
+        "Ripley's Believe it or Not"
+      ],
+      "random_tags": true
+    }
+    },
+    "saturday": {
+    "0": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "Wipeout",
+        "Magics Biggest Secrets Revealed",
+        "Ripley's Believe it or Not"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "Wipeout",
+        "Magics Biggest Secrets Revealed",
+        "Ripley's Believe it or Not"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "All in the Family",
+        "Bewitched",
+        "Bonanza",
+        "Gilligans Island",
+        "Gunsmoke",
+        "Happy Days",
+        "Hogans Heroes",
+        "I Dream of Jeanie",
+        "I Love Lucy",
+        "Little House on the Prairie",
+        "The Andy Griffith Show",
+        "The Beverly Hillbillies",
+        "The Brady Bunch",
+        "The Cosby Show",
+        "The Mary Tyler Moore Show",
+        "MASH",
+        "The Munsters"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "All in the Family",
+        "Bewitched",
+        "Bonanza",
+        "Gilligans Island",
+        "Gunsmoke",
+        "Happy Days",
+        "Hogans Heroes",
+        "I Dream of Jeanie",
+        "I Love Lucy",
+        "Little House on the Prairie",
+        "The Andy Griffith Show",
+        "The Beverly Hillbillies",
+        "The Brady Bunch",
+        "The Cosby Show",
+        "The Mary Tyler Moore Show",
+        "MASH",
+        "The Munsters"
+      ],
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "All in the Family",
+        "Bewitched",
+        "Bonanza",
+        "Gilligans Island",
+        "Gunsmoke",
+        "Happy Days",
+        "Hogans Heroes",
+        "I Dream of Jeanie",
+        "I Love Lucy",
+        "Little House on the Prairie",
+        "The Andy Griffith Show",
+        "The Beverly Hillbillies",
+        "The Brady Bunch",
+        "The Cosby Show",
+        "The Mary Tyler Moore Show",
+        "MASH",
+        "The Munsters"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "American Dad",
+        "Family Guy",
+        "Futurama"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "American Dad",
+        "Family Guy",
+        "Futurama"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "All in the Family",
+        "Bewitched",
+        "Bonanza",
+        "Gilligans Island",
+        "Gunsmoke",
+        "Happy Days",
+        "Hogans Heroes",
+        "I Dream of Jeanie",
+        "I Love Lucy",
+        "Little House on the Prairie",
+        "The Andy Griffith Show",
+        "The Beverly Hillbillies",
+        "The Brady Bunch",
+        "The Cosby Show",
+        "The Mary Tyler Moore Show",
+        "MASH",
+        "The Munsters"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "All in the Family",
+        "Bewitched",
+        "Bonanza",
+        "Gilligans Island",
+        "Gunsmoke",
+        "Happy Days",
+        "Hogans Heroes",
+        "I Dream of Jeanie",
+        "I Love Lucy",
+        "Little House on the Prairie",
+        "The Andy Griffith Show",
+        "The Beverly Hillbillies",
+        "The Brady Bunch",
+        "The Cosby Show",
+        "The Mary Tyler Moore Show",
+        "MASH",
+        "The Munsters"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "American Dad",
+        "Family Guy",
+        "Futurama"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "American Dad",
+        "Family Guy",
+        "Futurama"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "Wipeout",
+        "Magics Biggest Secrets Revealed",
+        "Ripley's Believe it or Not"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": "Sports"
+    },
+    "20": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "American Dad",
+        "Family Guy",
+        "Futurama"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "Wipeout",
+        "Magics Biggest Secrets Revealed",
+        "Ripley's Believe it or Not"
+      ],
+      "random_tags": true
+    }
+    },
+    "sunday": {
+    "0": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "Wipeout",
+        "Magics Biggest Secrets Revealed",
+        "Ripley's Believe it or Not"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "Wipeout",
+        "Magics Biggest Secrets Revealed",
+        "Ripley's Believe it or Not"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "All in the Family",
+        "Bewitched",
+        "Bonanza",
+        "Gilligans Island",
+        "Gunsmoke",
+        "Happy Days",
+        "Hogans Heroes",
+        "I Dream of Jeanie",
+        "I Love Lucy",
+        "Little House on the Prairie",
+        "The Andy Griffith Show",
+        "The Beverly Hillbillies",
+        "The Brady Bunch",
+        "The Cosby Show",
+        "The Mary Tyler Moore Show",
+        "MASH",
+        "The Munsters"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "All in the Family",
+        "Bewitched",
+        "Bonanza",
+        "Gilligans Island",
+        "Gunsmoke",
+        "Happy Days",
+        "Hogans Heroes",
+        "I Dream of Jeanie",
+        "I Love Lucy",
+        "Little House on the Prairie",
+        "The Andy Griffith Show",
+        "The Beverly Hillbillies",
+        "The Brady Bunch",
+        "The Cosby Show",
+        "The Mary Tyler Moore Show",
+        "MASH",
+        "The Munsters"
+      ],
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "All in the Family",
+        "Bewitched",
+        "Bonanza",
+        "Gilligans Island",
+        "Gunsmoke",
+        "Happy Days",
+        "Hogans Heroes",
+        "I Dream of Jeanie",
+        "I Love Lucy",
+        "Little House on the Prairie",
+        "The Andy Griffith Show",
+        "The Beverly Hillbillies",
+        "The Brady Bunch",
+        "The Cosby Show",
+        "The Mary Tyler Moore Show",
+        "MASH",
+        "The Munsters"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "American Dad",
+        "Family Guy",
+        "Futurama"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "American Dad",
+        "Family Guy",
+        "Futurama"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "All in the Family",
+        "Bewitched",
+        "Bonanza",
+        "Gilligans Island",
+        "Gunsmoke",
+        "Happy Days",
+        "Hogans Heroes",
+        "I Dream of Jeanie",
+        "I Love Lucy",
+        "Little House on the Prairie",
+        "The Andy Griffith Show",
+        "The Beverly Hillbillies",
+        "The Brady Bunch",
+        "The Cosby Show",
+        "The Mary Tyler Moore Show",
+        "MASH",
+        "The Munsters"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "All in the Family",
+        "Bewitched",
+        "Bonanza",
+        "Gilligans Island",
+        "Gunsmoke",
+        "Happy Days",
+        "Hogans Heroes",
+        "I Dream of Jeanie",
+        "I Love Lucy",
+        "Little House on the Prairie",
+        "The Andy Griffith Show",
+        "The Beverly Hillbillies",
+        "The Brady Bunch",
+        "The Cosby Show",
+        "The Mary Tyler Moore Show",
+        "MASH",
+        "The Munsters"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "American Dad",
+        "Family Guy",
+        "Futurama"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "American Dad",
+        "Family Guy",
+        "Futurama"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "Wipeout",
+        "Magics Biggest Secrets Revealed",
+        "Ripley's Believe it or Not"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Dawsons Creek",
+        "Everybody Loves Raymond",
+        "Friends",
+        "Full House",
+        "Growing Pains",
+        "Home Improvement",
+        "Married With Children",
+        "My Name is Earl",
+        "Newsradio",
+        "Roseanne",
+        "Seinfeld",
+        "The Drew Carey Show",
+        "The Fresh Prince of Bel Air",
+        "The King of Queens",
+        "The Office",
+        "The Steve Harvey Show",
+        "Tyler Perrys Meet the Browns",
+        "Whos The Boss"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "American Dad",
+        "Family Guy",
+        "Futurama"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "Wipeout",
+        "Magics Biggest Secrets Revealed",
+        "Ripley's Believe it or Not"
+      ],
+      "random_tags": true
+    }
+    }
+}
+}

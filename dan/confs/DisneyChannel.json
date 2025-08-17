@@ -1,0 +1,2343 @@
+{"station_conf"  : {
+    "network_name" : "DisneyChannel",
+    "channel_number": 31,
+
+    "network_type": "standard",
+    "schedule_increment": 30,
+    "break_strategy": "standard",
+    "commercial_free": false, 
+    "break_duration": 120,
+
+    "catalog_path" : "catalog/DisneyChannel_catalog.bin",
+    "content_dir" : "catalog/DisneyChannel",
+    "commercial_dir" : "commercial",
+    "bump_dir" : "bump",
+    
+    "runtime_dir" : "runtime/DisneyChannel",
+    "schedule_path": "runtime/DisneyChannel_schedule.bin",
+    "sign_off_video": "runtime/signoff.mp4",
+    "off_air_video": "runtime/off_air_pattern.mp4",
+    "standby_image": "runtime/standby.png",
+
+    "monday": {
+    "0": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": "Movies"
+    },
+    "3": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "6": {
+       "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": "Movies"
+    },
+    "11": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    }
+    },
+    "tuesday": {
+    "0": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": "Movies"
+    },
+    "3": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "6": {
+       "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": "Movies"
+    },
+    "11": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    }
+    },
+    "wednesday": {
+    "0": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": "Movies"
+    },
+    "3": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "6": {
+       "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": "Movies"
+    },
+    "11": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": "Dcoms"
+    },
+    "20": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    }
+    },
+    "thursday": {
+    "0": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": "Movies"
+    },
+    "3": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "6": {
+       "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": "Movies"
+    },
+    "11": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    }
+    },
+    "friday": {
+    "0": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": "Movies"
+    },
+    "3": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "6": {
+       "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": "Movies"
+    },
+    "11": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": "Movies"
+    },
+    "21": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    }
+    },
+    "saturday": {
+    "0": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": "Movies"
+    },
+    "3": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "6": {
+       "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": "Movies"
+    },
+    "11": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": "Dcoms"
+    },
+    "21": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    }
+    },
+    "sunday": {
+    "0": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": "Movies"
+    },
+    "3": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "6": {
+       "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": "Movies"
+    },
+    "11": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": "Movies"
+    },
+    "19": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "Chip N Dale Rescue Rangers",
+        "Darkwing Duck",
+        "Doug Disney",
+        "DuckTales",
+        "House of Mouse",
+        "Kim Possible",
+        "Lilo and Stitch The Series",
+        "Phineas and Ferb",
+        "TaleSpin",
+        "The Emperors New School",
+        "The Proud Family"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "Cory in the House",
+        "Even Stevens",
+        "Hannah Montana",
+        "Lizzie Mcguire",
+        "Phil of the Future",
+        "Thats So Raven",
+        "The Suite Life of Zack and Cody",
+        "The Suite Life on Deck",
+        "Wizards of Waverly Place"
+      ],
+      "random_tags": true
+    }
+    }
+}
+}

@@ -1,0 +1,2899 @@
+{"station_conf"  : {
+    "network_name" : "MTV",
+    "channel_number": 52,
+
+    "network_type": "standard",
+    "schedule_increment": 30,
+    "break_strategy": "standard",
+    "commercial_free": false, 
+    "break_duration": 120,
+
+    "catalog_path" : "catalog/MTV_catalog.bin",
+    "content_dir" : "catalog/MTV",
+    "commercial_dir" : "commercial",
+    "bump_dir" : "bump",
+    "clip_shows" : ["Music Videos","Beavis and Butthead"],
+    
+    "runtime_dir" : "runtime/MTV",
+    "schedule_path": "runtime/MTV_schedule.bin",
+    "sign_off_video": "runtime/signoff.mp4",
+    "off_air_video": "runtime/off_air_pattern.mp4",
+    "standby_image": "runtime/standby.png",
+
+    "monday": {
+    "0": {
+      "tags": "Movies"
+    },
+    "1": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    }
+    },
+    "tuesday": {
+    "0": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    }
+    },
+    "wednesday": {
+    "0": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "1": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    }
+    },
+    "thursday": {
+    "0": {
+      "tags": "Movies"
+    },
+    "1": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    }
+    },
+    "friday": {
+    "0": {
+      "tags": "Movies"
+    },
+    "1": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": "Movies"
+    },
+    "21": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    }
+    },
+    "saturday": {
+    "0": {
+      "tags": "Movies"
+    },
+    "1": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    }
+    },
+    "sunday": {
+    "0": {
+      "tags": "Movies"
+    },
+    "1": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "2": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "3": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "4": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "5": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "6": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "7": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "8": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "9": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "10": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "11": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "12": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "13": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "14": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "15": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "16": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "17": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "18": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "19": {
+      "tags": [
+        "Music Videos",
+        "Music Videos",
+        "Music Videos",
+        "Beavis and Butthead"
+      ],
+      "random_tags": true
+    },
+    "20": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "21": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "22": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    },
+    "23": {
+      "tags": [
+        "Andy Milonakis Show",
+        "Bams Unholy Union",
+        "Clone High",
+        "Cribs",
+        "Daria",
+        "Fantasy Factory",
+        "Jackass",
+        "Jersey Shore",
+        "Pimp My Ride",
+        "Punkd",
+        "Real World Miami",
+        "Rob and Big",
+        "The Osbournes",
+        "True Life",
+        "Viva La Bam",
+        "Wildboyz",
+        "Celebrity Deathmatch",
+        "Wonder Showzen"
+      ],
+      "random_tags": true
+    }
+    }
+}
+}
