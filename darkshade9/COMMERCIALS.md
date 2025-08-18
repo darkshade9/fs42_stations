@@ -36,113 +36,124 @@ Bumpers are simpler: they are either **network-specific** or **show-specific**.
 ### Full Directory Structure
 
 ```shell
-/media/fs42/
-├── commercials
-│   ├── kids_80s
-│   │   ├── generic
-│   │   │   ├── morning
-│   │   │   └── afternoon
-│   │   ├── network
-│   │   │   ├── abc
-│   │   │   ├── cbs
-│   │   │   ├── fox
-│   │   │   └── nbc
-│   │   └── seasonal
-│   │       ├── December
-│   │       └── October
-│   ├── kids_90s
-│   │   ├── generic
-│   │   │   ├── morning
-│   │   │   └── afternoon
-│   │   ├── network
-│   │   │   ├── abc
-│   │   │   ├── cbs
-│   │   │   ├── fox
-│   │   │   └── nbc
-│   │   └── seasonal
-│   │       ├── December
-│   │       └── October
-│   ├── standard_80s
-│   │   ├── generic
-│   │   │   ├── morning
-│   │   │   ├── afternoon
-│   │   │   ├── primetime
-│   │   │   └── late
-│   │   ├── network
-│   │   │   ├── abc
-│   │   │   ├── cbs
-│   │   │   ├── fox
-│   │   │   └── nbc
-│   │   └── seasonal
-│   │       ├── December
-│   │       └── October
-│   └── standard_90s
-│       ├── generic
-│       │   ├── morning
-│       │   ├── afternoon
-│       │   ├── primetime
-│       │   └── late
-│       ├── network
-│       │   ├── abc
-│       │   ├── cbs
-│       │   ├── fox
-│       │   └── nbc
-│       └── seasonal
-│           ├── December
-│           └── October
-├── commercials
-│   ├── kids_80s
-│   │   ├── generic
-│   │   │   ├── morning
-│   │   │   └── afternoon
-│   │   ├── network
-│   │   │   ├── abc
-│   │   │   ├── cbs
-│   │   │   ├── fox
-│   │   │   └── nbc
-│   │   └── seasonal
-│   │       ├── December
-│   │       └── October
-│   ├── kids_90s
-│   │   ├── generic
-│   │   │   ├── morning
-│   │   │   └── afternoon
-│   │   ├── network
-│   │   │   ├── abc
-│   │   │   ├── cbs
-│   │   │   ├── fox
-│   │   │   └── nbc
-│   │   └── seasonal
-│   │       ├── December
-│   │       └── October
-│   ├── standard_80s
-│   │   ├── generic
-│   │   │   ├── morning
-│   │   │   ├── afternoon
-│   │   │   ├── primetime
-│   │   │   └── late
-│   │   ├── network
-│   │   │   ├── abc
-│   │   │   ├── cbs
-│   │   │   ├── fox
-│   │   │   └── nbc
-│   │   └── seasonal
-│   │       ├── December
-│   │       └── October
-│   └── standard_90s
-│       ├── generic
-│       │   ├── morning
-│       │   ├── afternoon
-│       │   ├── primetime
-│       │   └── late
-│       ├── network
-│       │   ├── abc
-│       │   ├── cbs
-│       │   ├── fox
-│       │   └── nbc
-│       └── seasonal
-│           ├── December
-│           └── October
+├── kids_80s
+│   ├── generic
+│   │   ├── afternoon
+│   │   │   ├── abc -> ../../network/abc
+│   │   │   ├── cbs -> ../../network/cbs
+│   │   │   ├── fox -> ../../network/fox
+│   │   │   ├── nbc -> ../../network/nbc
+│   │   │   └── seasonal -> ../../seasonal
+│   │   └── morning
+│   │       ├── abc -> ../../network/abc
+│   │       ├── cbs -> ../../network/cbs
+│   │       ├── fox -> ../../network/fox
+│   │       ├── nbc -> ../../network/nbc
+│   │       └── seasonal -> ../../seasonal/
+│   ├── network
+│   │   ├── abc
+│   │   ├── cbs
+│   │   ├── fox
+│   │   └── nbc
+│   └── seasonal
+│       ├── December
+│       └── October
+├── kids_90s
+│   ├── generic
+│   │   ├── afternoon
+│   │   │   ├── abc -> ../../network/abc
+│   │   │   ├── cbs -> ../../network/cbs
+│   │   │   ├── fox -> ../../network/fox
+│   │   │   ├── nbc -> ../../network/nbc
+│   │   │   └── seasonal -> ../../seasonal
+│   │   └── morning
+│   │       ├── abc -> ../../network/abc
+│   │       ├── cbs -> ../../network/cbs
+│   │       ├── fox -> ../../network/fox
+│   │       ├── nbc -> ../../network/nbc
+│   │       └── seasonal -> ../../seasonal
+│   ├── network
+│   │   ├── abc
+│   │   ├── cbs
+│   │   ├── fox
+│   │   └── nbc
+│   └── seasonal
+│       ├── December
+│       └── October
+├── standard_80s
+│   ├── generic
+│   │   ├── afternoon
+│   │   │   ├── abc -> ../../network/abc
+│   │   │   ├── cbs -> ../../network/cbs
+│   │   │   ├── fox -> ../../network/fox
+│   │   │   ├── nbc -> ../../network/nbc
+│   │   │   └── seasonal -> ../../seasonal
+│   │   ├── late
+│   │   │   ├── abc -> ../../network/abc
+│   │   │   ├── cbs -> ../../network/cbs
+│   │   │   ├── fox -> ../../network/fox
+│   │   │   ├── nbc -> ../../network/nbc
+│   │   │   └── seasonal -> ../../seasonal
+│   │   ├── morning
+│   │   │   ├── abc -> ../../network/abc
+│   │   │   ├── cbs -> ../../network/cbs
+│   │   │   ├── fox -> ../../network/fox
+│   │   │   ├── nbc -> ../../network/nbc
+│   │   │   └── seasonal -> ../../seasonal
+│   │   └── primetime
+│   │       ├── abc -> ../../network/abc
+│   │       ├── cbs -> ../../network/cbs
+│   │       ├── fox -> ../../network/fox
+│   │       ├── nbc -> ../../network/nbc
+│   │       └── seasonal -> ../../seasonal
+│   ├── network
+│   │   ├── abc
+│   │   ├── cbs
+│   │   ├── fox
+│   │   └── nbc
+│   └── seasonal
+│       ├── December
+│       └── October
+└── standard_90s
+    ├── generic
+    │   ├── afternoon
+    │   │   ├── abc -> ../../network/abc
+    │   │   ├── cbs -> ../../network/cbs
+    │   │   ├── fox -> ../../network/fox
+    │   │   ├── nbc -> ../../network/nbc
+    │   │   └── seasonal -> ../../seasonal
+    │   ├── late
+    │   │   ├── abc -> ../../network/abc
+    │   │   ├── cbs -> ../../network/cbs
+    │   │   ├── fox -> ../../network/fox
+    │   │   ├── nbc -> ../../network/nbc
+    │   │   └── seasonal -> ../../seasonal
+    │   ├── morning
+    │   │   ├── abc -> ../../network/abc
+    │   │   ├── cbs -> ../../network/cbs
+    │   │   ├── fox -> ../../network/fox
+    │   │   ├── nbc -> ../../network/nbc
+    │   │   └── seasonal -> ../../seasonal
+    │   └── primetime
+    ├── late
+    │   ├── abc -> ../../network/abc
+    │   ├── cbs -> ../../network/cbs
+    │   ├── fox -> ../../network/fox
+    │   ├── nbc -> ../../network/nbc
+    │   └── seasonal -> ../../seasonal
+    ├── network
+    │   ├── abc
+    │   ├── cbs
+    │   ├── fox
+    │   └── nbc
+    └── seasonal
+        ├── December
+        └── October
+```
+
+#### No need for symlinks in bumpers
+
+```shell
 └── bumpers
     ├── network
     │   ├── abc
@@ -169,14 +180,14 @@ Bumpers are simpler: they are either **network-specific** or **show-specific**.
 ```shell
          ┌─────────────────────────┐
          │ Cartoon Show Tag Active │
-         │  (7:00 – 11:00 AM)     │
-         └───────────┬────────────┘
+         │  (7:00 – 11:00 AM)      │
+         └───────────┬─────────────┘
                      │
                      ▼
        ┌────────────────────────────┐
        │  Determine Show-Specific   │
        │       Bumpers              │
-       │ /media/fs42/bumpers/show- │
+       │ /media/fs42/bumpers/show-  │
        │ specific/{show_name}       │
        └───────────┬────────────────┘
                    │
@@ -184,7 +195,7 @@ Bumpers are simpler: they are either **network-specific** or **show-specific**.
        ┌────────────────────────────┐
        │  Determine Network Bumpers │
        │ /media/fs42/bumpers/network│
-       │ /{abc,cbs,nbc,fox}        │
+       │ /{abc,cbs,nbc,fox}         │
        └───────────┬────────────────┘
                    │
                    ▼
@@ -193,37 +204,37 @@ Bumpers are simpler: they are either **network-specific** or **show-specific**.
          └─────────┬───────────┘
                    │
                    ▼
-   ┌─────────────────────────────────────────┐
-   │ Select from Kids Era / Generic / Morning │
-   │ - /media/fs42/commercials/kids_80s/     │
-   │   generic/morning                        │
-   │ - /media/fs42/commercials/kids_90s/     │
-   │   generic/morning                        │
-   └──────────┬──────────────────────────────┘
+   ┌───────────────────────────────────────────┐
+   │ Select from Kids Era / Generic / Morning  │
+   │ - /media/fs42/commercials/kids_80s/       │
+   │   generic/morning                         │
+   │ - /media/fs42/commercials/kids_90s/       │
+   │   generic/morning                         │
+   └──────────┬────────────────────────────────┘
               │
               ▼
-   ┌───────────────────────────────┐
-   │ Include Seasonal Ads if Any   │
+   ┌─────────────────────────────────────┐
+   │ Include Seasonal Ads if Any         │
+   │ - /media/fs42/commercials/kids_80s/ │
+   │   seasonal/October/                 │
+   │ - /media/fs42/commercials/kids_90s/ │
+   │   seasonal/October/                 │
+   └──────────┬──────────────────────────┘
+              │
+              ▼
+   ┌────────────────────────────────────┐
+   │ Include Network-Specific Ads       │
    │ - /media/fs42/commercials/kids_80s/│
-   │   seasonal/October/           │
-   │ - /media/fs42/commercials/kids_90s/│
-   │   seasonal/October/           │
-   └──────────┬────────────────────┘
+   │   network/{abc,cbs,nbc,fox}        │
+   └──────────┬─────────────────────────┘
               │
               ▼
-   ┌───────────────────────────────┐
-   │ Include Network-Specific Ads  │
-   │ - /media/fs42/commercials/kids_80s/│
-   │   network/{abc,cbs,nbc,fox}   │
-   └──────────┬────────────────────┘
-              │
-              ▼
-   ┌───────────────────────────────┐
-   │ Final Rotation for Slot       │
-   │ - Randomized / Shuffled       │
-   │ - Center or Side Breaks       │
-   │ - Assigned bumpers & breaks   │
-   └───────────────────────────────┘
+   ┌─────────────────────────────────────┐
+   │ Final Rotation for Slot             │
+   │ - Randomized / Shuffled             │
+   │ - Center or Side Breaks             │
+   │ - Assigned bumpers & breaks         │
+   └─────────────────────────────────────┘
 ```
 
 ### Notes
