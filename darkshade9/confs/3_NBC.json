@@ -28,9 +28,9 @@
       "7": [
         {
           "tags": "golden_girls",
-          "start_bump": "extra/pre-golden_girls.mp4",
-          "end_bump": "extra/post-golden_girls.mp4",
-          "bump_dir": "extra/golden_girls_bumps",
+          "start_bump": "bumps/pre-golden_girls.mp4",
+          "end_bump": "bumps/post-golden_girls.mp4",
+          "bump_dir": "bumps/golden_girls_bumps",
           "commercial_dir": "commercials/morning_commercials",
           "break_strategy": "center",
           "sequence": "shuffle",
@@ -39,9 +39,9 @@
         },
         {
           "tags": "night_court",
-          "start_bump": "extra/pre-night_court.mp4",
-          "end_bump": "extra/post-night_court.mp4",
-          "bump_dir": "extra/night_court_bumps",
+          "start_bump": "bumps/pre-night_court.mp4",
+          "end_bump": "bumps/post-night_court.mp4",
+          "bump_dir": "bumps/night_court_bumps",
           "commercial_dir": "commercials/morning_commercials",
           "break_strategy": "center",
           "sequence": "shuffle",
@@ -52,9 +52,9 @@
       "8": [
         {
           "tags": "family_matters",
-          "start_bump": "extra/pre-family_matters.mp4",
-          "end_bump": "extra/post-family_matters.mp4",
-          "bump_dir": "extra/family_matters_bumps",
+          "start_bump": "bumps/pre-family_matters.mp4",
+          "end_bump": "bumps/post-family_matters.mp4",
+          "bump_dir": "bumps/family_matters_bumps",
           "commercial_dir": "commercials/morning_commercials",
           "break_strategy": "center",
           "sequence": "shuffle",
@@ -63,9 +63,9 @@
         },
         {
           "tags": "the_office",
-          "start_bump": "extra/pre-the_office.mp4",
-          "end_bump": "extra/post-the_office.mp4",
-          "bump_dir": "extra/the_office_bumps",
+          "start_bump": "bumps/pre-the_office.mp4",
+          "end_bump": "bumps/post-the_office.mp4",
+          "bump_dir": "bumps/the_office_bumps",
           "commercial_dir": "commercials/morning_commercials",
           "break_strategy": "center",
           "sequence": "shuffle",
@@ -76,9 +76,9 @@
       "9": [
         {
           "tags": "parks_and_rec",
-          "start_bump": "extra/pre-parks_and_rec.mp4",
-          "end_bump": "extra/post-parks_and_rec.mp4",
-          "bump_dir": "extra/parks_and_rec_bumps",
+          "start_bump": "bumps/pre-parks_and_rec.mp4",
+          "end_bump": "bumps/post-parks_and_rec.mp4",
+          "bump_dir": "bumps/parks_and_rec_bumps",
           "commercial_dir": "commercials/morning_commercials",
           "break_strategy": "center",
           "sequence": "shuffle",
@@ -87,9 +87,9 @@
         },
         {
           "tags": "30_rock",
-          "start_bump": "extra/pre-30_rock.mp4",
-          "end_bump": "extra/post-30_rock.mp4",
-          "bump_dir": "extra/30_rock_bumps",
+          "start_bump": "bumps/pre-30_rock.mp4",
+          "end_bump": "bumps/post-30_rock.mp4",
+          "bump_dir": "bumps/30_rock_bumps",
           "commercial_dir": "commercials/morning_commercials",
           "break_strategy": "center",
           "sequence": "shuffle",
@@ -100,9 +100,9 @@
       "10": [
         {
           "tags": "doug",
-          "start_bump": "extra/pre-doug.mp4",
-          "end_bump": "extra/post-doug.mp4",
-          "bump_dir": "extra/doug_bumps",
+          "start_bump": "bumps/pre-doug.mp4",
+          "end_bump": "bumps/post-doug.mp4",
+          "bump_dir": "bumps/doug_bumps",
           "commercial_dir": "commercials/morning_commercials",
           "break_strategy": "center",
           "sequence": "shuffle",
@@ -111,9 +111,9 @@
         },
         {
           "tags": "rugrats",
-          "start_bump": "extra/pre-rugrats.mp4",
-          "end_bump": "extra/post-rugrats.mp4",
-          "bump_dir": "extra/rugrats_bumps",
+          "start_bump": "bumps/pre-rugrats.mp4",
+          "end_bump": "bumps/post-rugrats.mp4",
+          "bump_dir": "bumps/rugrats_bumps",
           "commercial_dir": "commercials/morning_commercials",
           "break_strategy": "center",
           "sequence": "shuffle",
@@ -124,9 +124,9 @@
       "11": [
         {
           "tags": "hey_arnold",
-          "start_bump": "extra/pre-hey_arnold.mp4",
-          "end_bump": "extra/post-hey_arnold.mp4",
-          "bump_dir": "extra/hey_arnold_bumps",
+          "start_bump": "bumps/pre-hey_arnold.mp4",
+          "end_bump": "bumps/post-hey_arnold.mp4",
+          "bump_dir": "bumps/hey_arnold_bumps",
           "commercial_dir": "commercials/morning_commercials",
           "break_strategy": "center",
           "sequence": "shuffle",
@@ -137,9 +137,9 @@
       "12": [
         {
           "tags": "parks_and_rec",
-          "start_bump": "extra/pre-parks_and_rec.mp4",
-          "end_bump": "extra/post-parks_and_rec.mp4",
-          "bump_dir": "extra/parks_and_rec_bumps",
+          "start_bump": "bumps/pre-parks_and_rec.mp4",
+          "end_bump": "bumps/post-parks_and_rec.mp4",
+          "bump_dir": "bumps/parks_and_rec_bumps",
           "commercial_dir": "commercials/midday_commercials",
           "break_strategy": "center",
           "sequence": "shuffle",
@@ -148,9 +148,9 @@
         },
         {
           "tags": "family_sitcoms",
-          "start_bump": "extra/pre-family_sitcoms.mp4",
-          "end_bump": "extra/post-family_sitcoms.mp4",
-          "bump_dir": "extra/family_sitcoms_bumps",
+          "start_bump": "bumps/pre-family_sitcoms.mp4",
+          "end_bump": "bumps/post-family_sitcoms.mp4",
+          "bump_dir": "bumps/family_sitcoms_bumps",
           "commercial_dir": "commercials/midday_commercials",
           "break_strategy": "center",
           "sequence": "shuffle",
@@ -161,9 +161,9 @@
       "13": [
         {
           "tags": "doug",
-          "start_bump": "extra/pre-doug.mp4",
-          "end_bump": "extra/post-doug.mp4",
-          "bump_dir": "extra/doug_bumps",
+          "start_bump": "bumps/pre-doug.mp4",
+          "end_bump": "bumps/post-doug.mp4",
+          "bump_dir": "bumps/doug_bumps",
           "commercial_dir": "commercials/afternoon_commercials",
           "break_strategy": "center",
           "sequence": "shuffle",
@@ -172,9 +172,9 @@
         },
         {
           "tags": "rugrats",
-          "start_bump": "extra/pre-rugrats.mp4",
-          "end_bump": "extra/post-rugrats.mp4",
-          "bump_dir": "extra/rugrats_bumps",
+          "start_bump": "bumps/pre-rugrats.mp4",
+          "end_bump": "bumps/post-rugrats.mp4",
+          "bump_dir": "bumps/rugrats_bumps",
           "commercial_dir": "commercials/afternoon_commercials",
           "break_strategy": "center",
           "sequence": "shuffle",
@@ -185,9 +185,9 @@
             "14": [
         {
           "tags": "family_matters",
-          "start_bump": "extra/pre-family_matters.mp4",
-          "end_bump": "extra/post-family_matters.mp4",
-          "bump_dir": "extra/family_matters_bumps",
+          "start_bump": "bumps/pre-family_matters.mp4",
+          "end_bump": "bumps/post-family_matters.mp4",
+          "bump_dir": "bumps/family_matters_bumps",
           "commercial_dir": "commercials/afternoon_commercials",
           "break_strategy": "center",
           "sequence": "shuffle",
@@ -196,9 +196,9 @@
         },
         {
           "tags": "the_office",
-          "start_bump": "extra/pre-the_office.mp4",
-          "end_bump": "extra/post-the_office.mp4",
-          "bump_dir": "extra/the_office_bumps",
+          "start_bump": "bumps/pre-the_office.mp4",
+          "end_bump": "bumps/post-the_office.mp4",
+          "bump_dir": "bumps/the_office_bumps",
           "commercial_dir": "commercials/afternoon_commercials",
           "break_strategy": "center",
           "sequence": "shuffle",
@@ -209,9 +209,9 @@
       "15": [
         {
           "tags": "doug",
-          "start_bump": "extra/pre-doug.mp4",
-          "end_bump": "extra/post-doug.mp4",
-          "bump_dir": "extra/doug_bumps",
+          "start_bump": "bumps/pre-doug.mp4",
+          "end_bump": "bumps/post-doug.mp4",
+          "bump_dir": "bumps/doug_bumps",
           "commercial_dir": "commercials/afternoon_commercials",
           "break_strategy": "center",
           "sequence": "shuffle",
@@ -220,9 +220,9 @@
         },
         {
           "tags": "rugrats",
-          "start_bump": "extra/pre-rugrats.mp4",
-          "end_bump": "extra/post-rugrats.mp4",
-          "bump_dir": "extra/rugrats_bumps",
+          "start_bump": "bumps/pre-rugrats.mp4",
+          "end_bump": "bumps/post-rugrats.mp4",
+          "bump_dir": "bumps/rugrats_bumps",
           "commercial_dir": "commercials/afternoon_commercials",
           "break_strategy": "center",
           "sequence": "shuffle",
@@ -233,9 +233,9 @@
       "16": [
         {
           "tags": "family_matters",
-          "start_bump": "extra/pre-family_matters.mp4",
-          "end_bump": "extra/post-family_matters.mp4",
-          "bump_dir": "extra/family_matters_bumps",
+          "start_bump": "bumps/pre-family_matters.mp4",
+          "end_bump": "bumps/post-family_matters.mp4",
+          "bump_dir": "bumps/family_matters_bumps",
           "commercial_dir": "commercials/afternoon_commercials",
           "break_strategy": "center",
           "sequence": "shuffle",
@@ -244,9 +244,9 @@
         },
         {
           "tags": "parks_and_rec",
-          "start_bump": "extra/pre-parks_and_rec.mp4",
-          "end_bump": "extra/post-parks_and_rec.mp4",
-          "bump_dir": "extra/parks_and_rec_bumps",
+          "start_bump": "bumps/pre-parks_and_rec.mp4",
+          "end_bump": "bumps/post-parks_and_rec.mp4",
+          "bump_dir": "bumps/parks_and_rec_bumps",
           "commercial_dir": "commercials/afternoon_commercials",
           "break_strategy": "center",
           "sequence": "shuffle",
@@ -257,9 +257,9 @@
       "17": [
         {
           "tags": "office",
-          "start_bump": "extra/pre-office.mp4",
-          "end_bump": "extra/post-office.mp4",
-          "bump_dir": "extra/office_bumps",
+          "start_bump": "bumps/pre-office.mp4",
+          "end_bump": "bumps/post-office.mp4",
+          "bump_dir": "bumps/office_bumps",
           "commercial_dir": "commercials/early_evening_commercials",
           "break_strategy": "center",
           "sequence": "shuffle",
@@ -268,9 +268,9 @@
         },
         {
           "tags": "30_rock",
-          "start_bump": "extra/pre-30_rock.mp4",
-          "end_bump": "extra/post-30_rock.mp4",
-          "bump_dir": "extra/30_rock_bumps",
+          "start_bump": "bumps/pre-30_rock.mp4",
+          "end_bump": "bumps/post-30_rock.mp4",
+          "bump_dir": "bumps/30_rock_bumps",
           "commercial_dir": "commercials/early_evening_commercials",
           "break_strategy": "center",
           "sequence": "shuffle",
@@ -281,9 +281,9 @@
       "18": [
         {
           "tags": "comedy_block",
-          "start_bump": "extra/pre-comedy_block.mp4",
-          "end_bump": "extra/post-comedy_block.mp4",
-          "bump_dir": "extra/comedy_block_bumps",
+          "start_bump": "bumps/pre-comedy_block.mp4",
+          "end_bump": "bumps/post-comedy_block.mp4",
+          "bump_dir": "bumps/comedy_block_bumps",
           "commercial_dir": "commercials/prime_time_commercials",
           "break_strategy": "center",
           "sequence": "shuffle",
@@ -294,9 +294,9 @@
       "19": [
         {
           "tags": "comedy_block",
-          "start_bump": "extra/pre-comedy_block.mp4",
-          "end_bump": "extra/post-comedy_block.mp4",
-          "bump_dir": "extra/comedy_block_bumps",
+          "start_bump": "bumps/pre-comedy_block.mp4",
+          "end_bump": "bumps/post-comedy_block.mp4",
+          "bump_dir": "bumps/comedy_block_bumps",
           "commercial_dir": "commercials/prime_time_commercials",
           "break_strategy": "center",
           "sequence": "shuffle",
@@ -307,9 +307,9 @@
       "20": [
         {
           "tags": "comedy_block",
-          "start_bump": "extra/pre-comedy_block.mp4",
-          "end_bump": "extra/post-comedy_block.mp4",
-          "bump_dir": "extra/comedy_block_bumps",
+          "start_bump": "bumps/pre-comedy_block.mp4",
+          "end_bump": "bumps/post-comedy_block.mp4",
+          "bump_dir": "bumps/comedy_block_bumps",
           "commercial_dir": "commercials/prime_time_commercials",
           "break_strategy": "center",
           "sequence": "shuffle",
@@ -320,9 +320,9 @@
       "21": [
         {
           "tags": "adult_comedy_block",
-          "start_bump": "extra/pre-adult_comedy.mp4",
-          "end_bump": "extra/post-adult_comedy.mp4",
-          "bump_dir": "extra/adult_comedy_bumps",
+          "start_bump": "bumps/pre-adult_comedy.mp4",
+          "end_bump": "bumps/post-adult_comedy.mp4",
+          "bump_dir": "bumps/adult_comedy_bumps",
           "commercial_dir": "commercials/late_night_commercials",
           "break_strategy": "center",
           "sequence": "shuffle",
@@ -333,9 +333,9 @@
       "22": [
         {
           "tags": "adult_comedy_block",
-          "start_bump": "extra/pre-adult_comedy.mp4",
-          "end_bump": "extra/post-adult_comedy.mp4",
-          "bump_dir": "extra/adult_comedy_bumps",
+          "start_bump": "bumps/pre-adult_comedy.mp4",
+          "end_bump": "bumps/post-adult_comedy.mp4",
+          "bump_dir": "bumps/adult_comedy_bumps",
           "commercial_dir": "commercials/late_night_commercials",
           "break_strategy": "center",
           "sequence": "shuffle",
@@ -346,9 +346,9 @@
       "23": [
         {
           "tags": "adult_comedy_block",
-          "start_bump": "extra/pre-adult_comedy.mp4",
-          "end_bump": "extra/post-adult_comedy.mp4",
-          "bump_dir": "extra/adult_comedy_bumps",
+          "start_bump": "bumps/pre-adult_comedy.mp4",
+          "end_bump": "bumps/post-adult_comedy.mp4",
+          "bump_dir": "bumps/adult_comedy_bumps",
           "commercial_dir": "commercials/late_night_commercials",
           "break_strategy": "center",
           "sequence": "shuffle",
@@ -359,9 +359,9 @@
       "0": [
         {
           "tags": "adult_comedy_block",
-          "start_bump": "extra/pre-adult_comedy.mp4",
-          "end_bump": "extra/post-adult_comedy.mp4",
-          "bump_dir": "extra/adult_comedy_bumps",
+          "start_bump": "bumps/pre-adult_comedy.mp4",
+          "end_bump": "bumps/post-adult_comedy.mp4",
+          "bump_dir": "bumps/adult_comedy_bumps",
           "commercial_dir": "commercials/late_night_commercials",
           "break_strategy": "center",
           "sequence": "shuffle",

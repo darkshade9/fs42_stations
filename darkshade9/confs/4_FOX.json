@@ -21,9 +21,9 @@
                 "tags": [
                     "x_files"
                 ],
-                "start_bump": "extra/pre-xfiles.mp4",
-                "end_bump": "extra/post-xfiles.mp4",
-                "bump_dir": "extra/xfiles_bumps",
+                "start_bump": "bumps/pre-xfiles.mp4",
+                "end_bump": "bumps/post-xfiles.mp4",
+                "bump_dir": "bumps/xfiles_bumps",
                 "commercial_dir": "commercials/fox_late_night_commercials",
                 "break_strategy": "center",
                 "sequence": "shuffle",
@@ -34,9 +34,9 @@
                 "tags": [
                     "supernatural"
                 ],
-                "start_bump": "extra/pre-supernatural.mp4",
-                "end_bump": "extra/post-supernatural.mp4",
-                "bump_dir": "extra/supernatural_bumps",
+                "start_bump": "bumps/pre-supernatural.mp4",
+                "end_bump": "bumps/post-supernatural.mp4",
+                "bump_dir": "bumps/supernatural_bumps",
                 "commercial_dir": "commercials/fox_late_night_commercials",
                 "break_strategy": "center",
                 "sequence": "shuffle",
@@ -47,9 +47,9 @@
                 "tags": [
                     "the_tick"
                 ],
-                "start_bump": "extra/pre-tick.mp4",
-                "end_bump": "extra/post-tick.mp4",
-                "bump_dir": "extra/tick_bumps",
+                "start_bump": "bumps/pre-tick.mp4",
+                "end_bump": "bumps/post-tick.mp4",
+                "bump_dir": "bumps/tick_bumps",
                 "commercial_dir": "commercials/fox_late_night_commercials",
                 "break_strategy": "center",
                 "sequence": "shuffle",
@@ -71,9 +71,9 @@
             "7": [
                 {
                     "tags": "gi_joe",
-                    "start_bump": "extra/pre-gijoe.mp4",
-                    "end_bump": "extra/post-gijoe.mp4",
-                    "bump_dir": "extra/gijoe_bumps",
+                    "start_bump": "bumps/pre-gijoe.mp4",
+                    "end_bump": "bumps/post-gijoe.mp4",
+                    "bump_dir": "bumps/gijoe_bumps",
                     "commercial_dir": "commercials/fox_kids_morning_commercials",
                     "break_strategy": "center",
                     "sequence": "shuffle",
@@ -82,9 +82,9 @@
                 },
                 {
                     "tags": "thundercats",
-                    "start_bump": "extra/pre-thundercats.mp4",
-                    "end_bump": "extra/post-thundercats.mp4",
-                    "bump_dir": "extra/thundercats_bumps",
+                    "start_bump": "bumps/pre-thundercats.mp4",
+                    "end_bump": "bumps/post-thundercats.mp4",
+                    "bump_dir": "bumps/thundercats_bumps",
                     "commercial_dir": "commercials/fox_kids_morning_commercials",
                     "break_strategy": "center",
                     "sequence": "shuffle",
@@ -95,9 +95,9 @@
             "8": [
                 {
                     "tags": "mask",
-                    "start_bump": "extra/pre-mask.mp4",
-                    "end_bump": "extra/post-mask.mp4",
-                    "bump_dir": "extra/mask_bumps",
+                    "start_bump": "bumps/pre-mask.mp4",
+                    "end_bump": "bumps/post-mask.mp4",
+                    "bump_dir": "bumps/mask_bumps",
                     "commercial_dir": "commercials/fox_kids_morning_commercials",
                     "break_strategy": "center",
                     "sequence": "shuffle",
@@ -106,9 +106,9 @@
                 },
                 {
                     "tags": "centurions",
-                    "start_bump": "extra/pre-centurions.mp4",
-                    "end_bump": "extra/post-centurions.mp4",
-                    "bump_dir": "extra/centurions_bumps",
+                    "start_bump": "bumps/pre-centurions.mp4",
+                    "end_bump": "bumps/post-centurions.mp4",
+                    "bump_dir": "bumps/centurions_bumps",
                     "commercial_dir": "commercials/fox_kids_morning_commercials",
                     "break_strategy": "center",
                     "sequence": "shuffle",
@@ -119,9 +119,9 @@
             "9": [
                 {
                     "tags": "mighty_max",
-                    "start_bump": "extra/pre-mighty_max.mp4",
-                    "end_bump": "extra/post-mighty_max.mp4",
-                    "bump_dir": "extra/mighty_max_bumps",
+                    "start_bump": "bumps/pre-mighty_max.mp4",
+                    "end_bump": "bumps/post-mighty_max.mp4",
+                    "bump_dir": "bumps/mighty_max_bumps",
                     "commercial_dir": "commercials/fox_kids_morning_commercials",
                     "break_strategy": "center",
                     "sequence": "shuffle",
@@ -130,9 +130,9 @@
                 },
                 {
                     "tags": "captain_n",
-                    "start_bump": "extra/pre-captain_n.mp4",
-                    "end_bump": "extra/post-captain_n.mp4",
-                    "bump_dir": "extra/captain_n_bumps",
+                    "start_bump": "bumps/pre-captain_n.mp4",
+                    "end_bump": "bumps/post-captain_n.mp4",
+                    "bump_dir": "bumps/captain_n_bumps",
                     "commercial_dir": "commercials/fox_kids_morning_commercials",
                     "break_strategy": "center",
                     "sequence": "shuffle",
@@ -143,9 +143,9 @@
             "10": [
                 {
                     "tags": "super_mario_super_show",
-                    "start_bump": "extra/pre-mario.mp4",
-                    "end_bump": "extra/post-mario.mp4",
-                    "bump_dir": "extra/mario_bumps",
+                    "start_bump": "bumps/pre-mario.mp4",
+                    "end_bump": "bumps/post-mario.mp4",
+                    "bump_dir": "bumps/mario_bumps",
                     "commercial_dir": "commercials/fox_kids_morning_commercials",
                     "break_strategy": "center",
                     "sequence": "shuffle",
@@ -154,9 +154,9 @@
                 },
                 {
                     "tags": "real_ghostbusters",
-                    "start_bump": "extra/pre-ghostbusters.mp4",
-                    "end_bump": "extra/post-ghostbusters.mp4",
-                    "bump_dir": "extra/ghostbusters_bumps",
+                    "start_bump": "bumps/pre-ghostbusters.mp4",
+                    "end_bump": "bumps/post-ghostbusters.mp4",
+                    "bump_dir": "bumps/ghostbusters_bumps",
                     "commercial_dir": "commercials/fox_kids_morning_commercials",
                     "break_strategy": "center",
                     "sequence": "shuffle",
@@ -167,9 +167,9 @@
             "11": [
                 {
                     "tags": "action_cartoons_compilation",
-                    "start_bump": "extra/pre-action_cartoon.mp4",
-                    "end_bump": "extra/post-action_cartoon.mp4",
-                    "bump_dir": "extra/action_cartoon_bumps",
+                    "start_bump": "bumps/pre-action_cartoon.mp4",
+                    "end_bump": "bumps/post-action_cartoon.mp4",
+                    "bump_dir": "bumps/action_cartoon_bumps",
                     "commercial_dir": "commercials/fox_kids_morning_commercials",
                     "break_strategy": "center",
                     "sequence": "shuffle",
@@ -178,9 +178,9 @@
                 },
                 {
                     "tags": "batman_new_adventures",
-                    "start_bump": "extra/pre-batman_new_adventures.mp4",
-                    "end_bump": "extra/post-batman_new_adventures.mp4",
-                    "bump_dir": "extra/batman_new_adventures_bumps",
+                    "start_bump": "bumps/pre-batman_new_adventures.mp4",
+                    "end_bump": "bumps/post-batman_new_adventures.mp4",
+                    "bump_dir": "bumps/batman_new_adventures_bumps",
                     "commercial_dir": "commercials/fox_kids_morning_commercials",
                     "break_strategy": "center",
                     "sequence": "shuffle",
@@ -191,9 +191,9 @@
             "12": [
                 {
                     "tags": "x_men_tas",
-                    "start_bump": "extra/pre-xmen_tas.mp4",
-                    "end_bump": "extra/post-xmen_tas.mp4",
-                    "bump_dir": "extra/xmen_tas_bumps",
+                    "start_bump": "bumps/pre-xmen_tas.mp4",
+                    "end_bump": "bumps/post-xmen_tas.mp4",
+                    "bump_dir": "bumps/xmen_tas_bumps",
                     "commercial_dir": "commercials/fox_kids_afternoon_commercials",
                     "break_strategy": "center",
                     "sequence": "shuffle",
@@ -202,9 +202,9 @@
                 },
                 {
                     "tags": "gargoyles",
-                    "start_bump": "extra/pre-gargoyles.mp4",
-                    "end_bump": "extra/post-gargoyles.mp4",
-                    "bump_dir": "extra/gargoyles_bumps",
+                    "start_bump": "bumps/pre-gargoyles.mp4",
+                    "end_bump": "bumps/post-gargoyles.mp4",
+                    "bump_dir": "bumps/gargoyles_bumps",
                     "commercial_dir": "commercials/fox_kids_afternoon_commercials",
                     "break_strategy": "center",
                     "sequence": "shuffle",
@@ -215,9 +215,9 @@
             "13": [
                 {
                     "tags": "batman_tas",
-                    "start_bump": "extra/pre-batman_tas.mp4",
-                    "end_bump": "extra/post-batman_tas.mp4",
-                    "bump_dir": "extra/batman_tas_bumps",
+                    "start_bump": "bumps/pre-batman_tas.mp4",
+                    "end_bump": "bumps/post-batman_tas.mp4",
+                    "bump_dir": "bumps/batman_tas_bumps",
                     "commercial_dir": "commercials/fox_kids_afternoon_commercials",
                     "break_strategy": "center",
                     "sequence": "shuffle",
@@ -226,9 +226,9 @@
                 },
                 {
                     "tags": "transformers",
-                    "start_bump": "extra/pre-transformers.mp4",
-                    "end_bump": "extra/post-transformers.mp4",
-                    "bump_dir": "extra/transformers_bumps",
+                    "start_bump": "bumps/pre-transformers.mp4",
+                    "end_bump": "bumps/post-transformers.mp4",
+                    "bump_dir": "bumps/transformers_bumps",
                     "commercial_dir": "commercials/fox_kids_afternoon_commercials",
                     "break_strategy": "center",
                     "sequence": "shuffle",
@@ -239,9 +239,9 @@
             "14": [
                 {
                     "tags": "super_mario_super_show",
-                    "start_bump": "extra/pre-mario.mp4",
-                    "end_bump": "extra/post-mario.mp4",
-                    "bump_dir": "extra/mario_bumps",
+                    "start_bump": "bumps/pre-mario.mp4",
+                    "end_bump": "bumps/post-mario.mp4",
+                    "bump_dir": "bumps/mario_bumps",
                     "commercial_dir": "commercials/fox_kids_afternoon_commercials",
                     "break_strategy": "center",
                     "sequence": "shuffle",
@@ -250,9 +250,9 @@
                 },
                 {
                     "tags": "action_cartoons_compilation",
-                    "start_bump": "extra/pre-action_cartoon.mp4",
-                    "end_bump": "extra/post-action_cartoon.mp4",
-                    "bump_dir": "extra/action_cartoon_bumps",
+                    "start_bump": "bumps/pre-action_cartoon.mp4",
+                    "end_bump": "bumps/post-action_cartoon.mp4",
+                    "bump_dir": "bumps/action_cartoon_bumps",
                     "commercial_dir": "commercials/fox_kids_afternoon_commercials",
                     "break_strategy": "center",
                     "sequence": "shuffle",
@@ -263,9 +263,9 @@
             "15": [
                 {
                     "tags": "gargoyles",
-                    "start_bump": "extra/pre-gargoyles.mp4",
-                    "end_bump": "extra/post-gargoyles.mp4",
-                    "bump_dir": "extra/gargoyles_bumps",
+                    "start_bump": "bumps/pre-gargoyles.mp4",
+                    "end_bump": "bumps/post-gargoyles.mp4",
+                    "bump_dir": "bumps/gargoyles_bumps",
                     "commercial_dir": "commercials/fox_kids_afternoon_commercials",
                     "break_strategy": "center",
                     "sequence": "shuffle",
@@ -274,9 +274,9 @@
                 },
                 {
                     "tags": "batman_tas",
-                    "start_bump": "extra/pre-batman_tas.mp4",
-                    "end_bump": "extra/post-batman_tas.mp4",
-                    "bump_dir": "extra/batman_tas_bumps",
+                    "start_bump": "bumps/pre-batman_tas.mp4",
+                    "end_bump": "bumps/post-batman_tas.mp4",
+                    "bump_dir": "bumps/batman_tas_bumps",
                     "commercial_dir": "commercials/fox_kids_afternoon_commercials",
                     "break_strategy": "center",
                     "sequence": "shuffle",
@@ -287,9 +287,9 @@
             "16": [
                 {
                     "tags": "transformers",
-                    "start_bump": "extra/pre-transformers.mp4",
-                    "end_bump": "extra/post-transformers.mp4",
-                    "bump_dir": "extra/transformers_bumps",
+                    "start_bump": "bumps/pre-transformers.mp4",
+                    "end_bump": "bumps/post-transformers.mp4",
+                    "bump_dir": "bumps/transformers_bumps",
                     "commercial_dir": "commercials/fox_kids_afternoon_commercials",
                     "break_strategy": "center",
                     "sequence": "shuffle",
@@ -298,9 +298,9 @@
                 },
                 {
                     "tags": "x_men_tas",
-                    "start_bump": "extra/pre-xmen_tas.mp4",
-                    "end_bump": "extra/post-xmen_tas.mp4",
-                    "bump_dir": "extra/xmen_tas_bumps",
+                    "start_bump": "bumps/pre-xmen_tas.mp4",
+                    "end_bump": "bumps/post-xmen_tas.mp4",
+                    "bump_dir": "bumps/xmen_tas_bumps",
                     "commercial_dir": "commercials/fox_kids_afternoon_commercials",
                     "break_strategy": "center",
                     "sequence": "shuffle",
@@ -311,9 +311,9 @@
             "17": [
                 {
                     "tags": "gargoyles",
-                    "start_bump": "extra/pre-gargoyles.mp4",
-                    "end_bump": "extra/post-gargoyles.mp4",
-                    "bump_dir": "extra/gargoyles_bumps",
+                    "start_bump": "bumps/pre-gargoyles.mp4",
+                    "end_bump": "bumps/post-gargoyles.mp4",
+                    "bump_dir": "bumps/gargoyles_bumps",
                     "commercial_dir": "commercials/fox_kids_afternoon_commercials",
                     "break_strategy": "center",
                     "sequence": "shuffle",
@@ -322,9 +322,9 @@
                 },
                 {
                     "tags": "batman_tas",
-                    "start_bump": "extra/pre-batman_tas.mp4",
-                    "end_bump": "extra/post-batman_tas.mp4",
-                    "bump_dir": "extra/batman_tas_bumps",
+                    "start_bump": "bumps/pre-batman_tas.mp4",
+                    "end_bump": "bumps/post-batman_tas.mp4",
+                    "bump_dir": "bumps/batman_tas_bumps",
                     "commercial_dir": "commercials/fox_kids_afternoon_commercials",
                     "break_strategy": "center",
                     "sequence": "shuffle",
@@ -335,9 +335,9 @@
             "18": [
                 {
                     "tags": "the_expanse",
-                    "start_bump": "extra/pre-expanse.mp4",
-                    "end_bump": "extra/post-expanse.mp4",
-                    "bump_dir": "extra/expanse_bumps",
+                    "start_bump": "bumps/pre-expanse.mp4",
+                    "end_bump": "bumps/post-expanse.mp4",
+                    "bump_dir": "bumps/expanse_bumps",
                     "commercial_dir": "commercials/fox_evening_commercials",
                     "break_strategy": "center",
                     "sequence": "shuffle",
@@ -348,9 +348,9 @@
             "19": [
                 {
                     "tags": "supernatural",
-                    "start_bump": "extra/pre-supernatural.mp4",
-                    "end_bump": "extra/post-supernatural.mp4",
-                    "bump_dir": "extra/supernatural_bumps",
+                    "start_bump": "bumps/pre-supernatural.mp4",
+                    "end_bump": "bumps/post-supernatural.mp4",
+                    "bump_dir": "bumps/supernatural_bumps",
                     "commercial_dir": "commercials/fox_evening_commercials",
                     "break_strategy": "center",
                     "sequence": "shuffle",
@@ -361,9 +361,9 @@
             "20": [
                 {
                     "tags": "star_trek_rotation",
-                    "start_bump": "extra/pre-star_trek.mp4",
-                    "end_bump": "extra/post-star_trek.mp4",
-                    "bump_dir": "extra/star_trek_bumps",
+                    "start_bump": "bumps/pre-star_trek.mp4",
+                    "end_bump": "bumps/post-star_trek.mp4",
+                    "bump_dir": "bumps/star_trek_bumps",
                     "commercial_dir": "commercials/fox_evening_commercials",
                     "break_strategy": "center",
                     "sequence": "shuffle",
@@ -374,9 +374,9 @@
             "21": [
                 {
                     "tags": "stargate_sg1",
-                    "start_bump": "extra/pre-stargate.mp4",
-                    "end_bump": "extra/post-stargate.mp4",
-                    "bump_dir": "extra/stargate_bumps",
+                    "start_bump": "bumps/pre-stargate.mp4",
+                    "end_bump": "bumps/post-stargate.mp4",
+                    "bump_dir": "bumps/stargate_bumps",
                     "commercial_dir": "commercials/fox_evening_commercials",
                     "break_strategy": "center",
                     "sequence": "shuffle",
@@ -387,9 +387,9 @@
             "22": [
                 {
                     "tags": "firefly",
-                    "start_bump": "extra/pre-firefly.mp4",
-                    "end_bump": "extra/post-firefly.mp4",
-                    "bump_dir": "extra/firefly_bumps",
+                    "start_bump": "bumps/pre-firefly.mp4",
+                    "end_bump": "bumps/post-firefly.mp4",
+                    "bump_dir": "bumps/firefly_bumps",
                     "commercial_dir": "commercials/fox_evening_commercials",
                     "break_strategy": "center",
                     "sequence": "shuffle",
@@ -400,9 +400,9 @@
             "23": [
                 {
                     "tags": "babylon_5",
-                    "start_bump": "extra/pre-babylon5.mp4",
-                    "end_bump": "extra/post-babylon5.mp4",
-                    "bump_dir": "extra/babylon5_bumps",
+                    "start_bump": "bumps/pre-babylon5.mp4",
+                    "end_bump": "bumps/post-babylon5.mp4",
+                    "bump_dir": "bumps/babylon5_bumps",
                     "commercial_dir": "commercials/fox_evening_commercials",
                     "break_strategy": "center",
                     "sequence": "shuffle",
