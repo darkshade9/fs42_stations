@@ -60,104 +60,101 @@
                 "event": "off_air"
             },
             "6": {
-              "tags": ["star_wars_ewoks", "star_wars_ewoks"],
-                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": "star_wars_ewoks",
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
+                "break_strategy": "center"
+            },
             "7": {
-              "tags": ["pole_position", "pound_puppies"],
-                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "pole_position",
+                    "pound_puppies"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
+                "break_strategy": "center"
+            },
             "8": {
-              "tags": ["muppet_babies", "voltron"],
-                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "muppet_babies",
+                    "voltron"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
+                "break_strategy": "center"
+            },
             "9": {
-              "tags": ["thundercats", "mask"],
-                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "thundercats",
+                    "mask"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
+                "break_strategy": "center"
+            },
             "10": {
-              "tags": ["centurions", "inspector_gadget"],
-                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "centurions",
+                    "inspector_gadget"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
+                "break_strategy": "center"
+            },
             "11": {
-              "tags": ["the_snorks", "pee_wees_playhouse"],
+                "tags": [
+                    "the_snorks",
+                    "pee_wees_playhouse"
+                ],
+                "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
-                "random_tags": false,
-                "schedule_increment": 30
-                },
+                "break_strategy": "center"
+            },
             "12": {
-              "tags": ["alvin_and_the_chipmunks", "the_smurfs"],
-                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "alvin_and_the_chipmunks",
+                    "the_smurfs"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
+                "break_strategy": "center"
+            },
             "13": {
-              "tags": ["garfield", "heathcliff"],
-                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "garfield",
+                    "heathcliff"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
+                "break_strategy": "center"
+            },
             "14": {
-              "tags": ["the_real_ghostbusters", "super_mario_super_show"],
-                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "the_real_ghostbusters",
+                    "super_mario_super_show"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
+                "break_strategy": "center"
+            },
             "15": {
-              "tags": ["gi_joe", "transformers"],
-                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "gi_joe",
+                    "transformers"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
+                "break_strategy": "center"
+            },
             "16": {
-              "tags": ["he_man", "thundercats"],
-                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "he_man",
+                    "thundercats"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
+                "break_strategy": "center"
+            },
             "17": {
                 "tags": [
                     "star_wars_ewoks",
@@ -300,104 +297,101 @@
                 "event": "off_air"
             },
             "6": {
-              "tags": ["star_wars_ewoks", "star_wars_ewoks"],
-                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": "star_wars_ewoks",
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
+                "break_strategy": "center"
+            },
             "7": {
-              "tags": ["pole_position", "pound_puppies"],
-                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "pole_position",
+                    "pound_puppies"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
+                "break_strategy": "center"
+            },
             "8": {
-              "tags": ["muppet_babies", "voltron"],
-                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "muppet_babies",
+                    "voltron"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
+                "break_strategy": "center"
+            },
             "9": {
-              "tags": ["thundercats", "mask"],
-                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "thundercats",
+                    "mask"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
+                "break_strategy": "center"
+            },
             "10": {
-              "tags": ["centurions", "inspector_gadget"],
-                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "centurions",
+                    "inspector_gadget"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
+                "break_strategy": "center"
+            },
             "11": {
-              "tags": ["the_snorks", "pee_wees_playhouse"],
+                "tags": [
+                    "the_snorks",
+                    "pee_wees_playhouse"
+                ],
+                "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
-                "random_tags": false,
-                "schedule_increment": 30
-                },
+                "break_strategy": "center"
+            },
             "12": {
-              "tags": ["alvin_and_the_chipmunks", "the_smurfs"],
-                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "alvin_and_the_chipmunks",
+                    "the_smurfs"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
+                "break_strategy": "center"
+            },
             "13": {
-              "tags": ["garfield", "heathcliff"],
-                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "garfield",
+                    "heathcliff"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
+                "break_strategy": "center"
+            },
             "14": {
-              "tags": ["the_real_ghostbusters", "super_mario_super_show"],
-                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "the_real_ghostbusters",
+                    "super_mario_super_show"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
+                "break_strategy": "center"
+            },
             "15": {
-              "tags": ["gi_joe", "transformers"],
-                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "gi_joe",
+                    "transformers"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
+                "break_strategy": "center"
+            },
             "16": {
-              "tags": ["he_man", "thundercats"],
-                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "he_man",
+                    "thundercats"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
+                "break_strategy": "center"
+            },
             "17": {
                 "tags": [
                     "star_wars_ewoks",
@@ -540,104 +534,101 @@
                 "event": "off_air"
             },
             "6": {
-              "tags": ["star_wars_ewoks", "star_wars_ewoks"],
-                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": "star_wars_ewoks",
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
+                "break_strategy": "center"
+            },
             "7": {
-              "tags": ["pole_position", "pound_puppies"],
-                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "pole_position",
+                    "pound_puppies"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
+                "break_strategy": "center"
+            },
             "8": {
-              "tags": ["muppet_babies", "voltron"],
-                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "muppet_babies",
+                    "voltron"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
+                "break_strategy": "center"
+            },
             "9": {
-              "tags": ["thundercats", "mask"],
-                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "thundercats",
+                    "mask"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
+                "break_strategy": "center"
+            },
             "10": {
-              "tags": ["centurions", "inspector_gadget"],
-                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "centurions",
+                    "inspector_gadget"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
+                "break_strategy": "center"
+            },
             "11": {
-              "tags": ["the_snorks", "pee_wees_playhouse"],
+                "tags": [
+                    "the_snorks",
+                    "pee_wees_playhouse"
+                ],
+                "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
-                "random_tags": false,
-                "schedule_increment": 30
-                },
+                "break_strategy": "center"
+            },
             "12": {
-              "tags": ["alvin_and_the_chipmunks", "the_smurfs"],
-                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "alvin_and_the_chipmunks",
+                    "the_smurfs"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
+                "break_strategy": "center"
+            },
             "13": {
-              "tags": ["garfield", "heathcliff"],
-                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "garfield",
+                    "heathcliff"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
+                "break_strategy": "center"
+            },
             "14": {
-              "tags": ["the_real_ghostbusters", "super_mario_super_show"],
-                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "the_real_ghostbusters",
+                    "super_mario_super_show"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
+                "break_strategy": "center"
+            },
             "15": {
-              "tags": ["gi_joe", "transformers"],
-                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "gi_joe",
+                    "transformers"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
+                "break_strategy": "center"
+            },
             "16": {
-              "tags": ["he_man", "thundercats"],
-                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "he_man",
+                    "thundercats"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
+                "break_strategy": "center"
+            },
             "17": {
                 "tags": [
                     "star_wars_ewoks",
@@ -780,104 +771,101 @@
                 "event": "off_air"
             },
             "6": {
-              "tags": ["star_wars_ewoks", "star_wars_ewoks"],
-                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": "star_wars_ewoks",
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
+                "break_strategy": "center"
+            },
             "7": {
-              "tags": ["pole_position", "pound_puppies"],
-                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "pole_position",
+                    "pound_puppies"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
+                "break_strategy": "center"
+            },
             "8": {
-              "tags": ["muppet_babies", "voltron"],
-                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "muppet_babies",
+                    "voltron"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
+                "break_strategy": "center"
+            },
             "9": {
-              "tags": ["thundercats", "mask"],
-                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "thundercats",
+                    "mask"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
+                "break_strategy": "center"
+            },
             "10": {
-              "tags": ["centurions", "inspector_gadget"],
-                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "centurions",
+                    "inspector_gadget"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
+                "break_strategy": "center"
+            },
             "11": {
-              "tags": ["the_snorks", "pee_wees_playhouse"],
+                "tags": [
+                    "the_snorks",
+                    "pee_wees_playhouse"
+                ],
+                "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
-                "random_tags": false,
-                "schedule_increment": 30
-                },
+                "break_strategy": "center"
+            },
             "12": {
-              "tags": ["alvin_and_the_chipmunks", "the_smurfs"],
-                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "alvin_and_the_chipmunks",
+                    "the_smurfs"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
+                "break_strategy": "center"
+            },
             "13": {
-              "tags": ["garfield", "heathcliff"],
-                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "garfield",
+                    "heathcliff"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
+                "break_strategy": "center"
+            },
             "14": {
-              "tags": ["the_real_ghostbusters", "super_mario_super_show"],
-                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "the_real_ghostbusters",
+                    "super_mario_super_show"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
+                "break_strategy": "center"
+            },
             "15": {
-              "tags": ["gi_joe", "transformers"],
-                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "gi_joe",
+                    "transformers"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
+                "break_strategy": "center"
+            },
             "16": {
-              "tags": ["he_man", "thundercats"],
-                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "he_man",
+                    "thundercats"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
+                "break_strategy": "center"
+            },
             "17": {
                 "tags": [
                     "star_wars_ewoks",
@@ -1020,104 +1008,101 @@
                 "event": "off_air"
             },
             "6": {
-              "tags": ["star_wars_ewoks", "star_wars_ewoks"],
-                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": "star_wars_ewoks",
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
+                "break_strategy": "center"
+            },
             "7": {
-              "tags": ["pole_position", "pound_puppies"],
-                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "pole_position",
+                    "pound_puppies"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
+                "break_strategy": "center"
+            },
             "8": {
-              "tags": ["muppet_babies", "voltron"],
-                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "muppet_babies",
+                    "voltron"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
+                "break_strategy": "center"
+            },
             "9": {
-              "tags": ["thundercats", "mask"],
-                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "thundercats",
+                    "mask"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
+                "break_strategy": "center"
+            },
             "10": {
-              "tags": ["centurions", "inspector_gadget"],
-                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "centurions",
+                    "inspector_gadget"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
+                "break_strategy": "center"
+            },
             "11": {
-              "tags": ["the_snorks", "pee_wees_playhouse"],
+                "tags": [
+                    "the_snorks",
+                    "pee_wees_playhouse"
+                ],
+                "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
-                "random_tags": false,
-                "schedule_increment": 30
-                },
+                "break_strategy": "center"
+            },
             "12": {
-              "tags": ["alvin_and_the_chipmunks", "the_smurfs"],
-                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "alvin_and_the_chipmunks",
+                    "the_smurfs"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
+                "break_strategy": "center"
+            },
             "13": {
-              "tags": ["garfield", "heathcliff"],
-                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "garfield",
+                    "heathcliff"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
+                "break_strategy": "center"
+            },
             "14": {
-              "tags": ["the_real_ghostbusters", "super_mario_super_show"],
-                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "the_real_ghostbusters",
+                    "super_mario_super_show"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
+                "break_strategy": "center"
+            },
             "15": {
-              "tags": ["gi_joe", "transformers"],
-                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "gi_joe",
+                    "transformers"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
+                "break_strategy": "center"
+            },
             "16": {
-              "tags": ["he_man", "thundercats"],
-                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "he_man",
+                    "thundercats"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
+                "break_strategy": "center"
+            },
             "17": {
                 "tags": [
                     "star_wars_ewoks",
@@ -1260,104 +1245,101 @@
                 "event": "off_air"
             },
             "6": {
-              "tags": ["star_wars_ewoks", "star_wars_ewoks"],
-                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": "star_wars_ewoks",
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
+                "break_strategy": "center"
+            },
             "7": {
-              "tags": ["pole_position", "pound_puppies"],
-                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "pole_position",
+                    "pound_puppies"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
+                "break_strategy": "center"
+            },
             "8": {
-              "tags": ["muppet_babies", "voltron"],
-                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "muppet_babies",
+                    "voltron"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
+                "break_strategy": "center"
+            },
             "9": {
-              "tags": ["thundercats", "mask"],
-                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "thundercats",
+                    "mask"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
+                "break_strategy": "center"
+            },
             "10": {
-              "tags": ["centurions", "inspector_gadget"],
-                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "centurions",
+                    "inspector_gadget"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
+                "break_strategy": "center"
+            },
             "11": {
-              "tags": ["the_snorks", "pee_wees_playhouse"],
+                "tags": [
+                    "the_snorks",
+                    "pee_wees_playhouse"
+                ],
+                "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
-                "random_tags": false,
-                "schedule_increment": 30
-                },
+                "break_strategy": "center"
+            },
             "12": {
-              "tags": ["alvin_and_the_chipmunks", "the_smurfs"],
-                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "alvin_and_the_chipmunks",
+                    "the_smurfs"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
+                "break_strategy": "center"
+            },
             "13": {
-              "tags": ["garfield", "heathcliff"],
-                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "garfield",
+                    "heathcliff"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
+                "break_strategy": "center"
+            },
             "14": {
-              "tags": ["the_real_ghostbusters", "super_mario_super_show"],
-                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "the_real_ghostbusters",
+                    "super_mario_super_show"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
+                "break_strategy": "center"
+            },
             "15": {
-              "tags": ["gi_joe", "transformers"],
-                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "gi_joe",
+                    "transformers"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
+                "break_strategy": "center"
+            },
             "16": {
-              "tags": ["he_man", "thundercats"],
-                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "he_man",
+                    "thundercats"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
+                "break_strategy": "center"
+            },
             "17": {
                 "tags": [
                     "star_wars_ewoks",
@@ -1500,104 +1482,101 @@
                 "event": "off_air"
             },
             "6": {
-              "tags": ["star_wars_ewoks", "star_wars_ewoks"],
-                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": "star_wars_ewoks",
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
+                "break_strategy": "center"
+            },
             "7": {
-              "tags": ["pole_position", "pound_puppies"],
-                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "pole_position",
+                    "pound_puppies"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
+                "break_strategy": "center"
+            },
             "8": {
-              "tags": ["muppet_babies", "voltron"],
-                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "muppet_babies",
+                    "voltron"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
+                "break_strategy": "center"
+            },
             "9": {
-              "tags": ["thundercats", "mask"],
-                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "thundercats",
+                    "mask"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
+                "break_strategy": "center"
+            },
             "10": {
-              "tags": ["centurions", "inspector_gadget"],
-                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "centurions",
+                    "inspector_gadget"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/morning/abc",
+                "break_strategy": "center"
+            },
             "11": {
-              "tags": ["the_snorks", "pee_wees_playhouse"],
+                "tags": [
+                    "the_snorks",
+                    "pee_wees_playhouse"
+                ],
+                "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
-                "random_tags": false,
-                "schedule_increment": 30
-                },
+                "break_strategy": "center"
+            },
             "12": {
-              "tags": ["alvin_and_the_chipmunks", "the_smurfs"],
-                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "alvin_and_the_chipmunks",
+                    "the_smurfs"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
+                "break_strategy": "center"
+            },
             "13": {
-              "tags": ["garfield", "heathcliff"],
-                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "garfield",
+                    "heathcliff"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
+                "break_strategy": "center"
+            },
             "14": {
-              "tags": ["the_real_ghostbusters", "super_mario_super_show"],
-                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "the_real_ghostbusters",
+                    "super_mario_super_show"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
+                "break_strategy": "center"
+            },
             "15": {
-              "tags": ["gi_joe", "transformers"],
-                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "gi_joe",
+                    "transformers"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
+                "break_strategy": "center"
+            },
             "16": {
-              "tags": ["he_man", "thundercats"],
-                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "center",
-                "sequence": "shuffle",
-                "sequence_start": 0,
+                "tags": [
+                    "he_man",
+                    "thundercats"
+                ],
                 "random_tags": false,
-                "schedule_increment": 30
-                },
+                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
+                "break_strategy": "center"
+            },
             "17": {
                 "tags": [
                     "star_wars_ewoks",
