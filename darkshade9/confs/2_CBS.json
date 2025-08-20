@@ -25,7 +25,7 @@
           "end_bump": "bumps/post-frasier.mp4",
           "bump_dir": "bumps/frasier_bumps",
           "commercial_dir": "commercials/standard_90s/generic/late/cbs",
-          "break_strategy": "center",
+          "break_strategy": "end",
           "sequence": "shuffle",
           "random_tags": false,
           "schedule_increment": 30
@@ -36,7 +36,7 @@
           "end_bump": "bumps/post-golden_girls.mp4",
           "bump_dir": "bumps/golden_girls_bumps",
           "commercial_dir": "commercials/standard_90s/generic/late/cbs",
-          "break_strategy": "center",
+          "break_strategy": "end",
           "sequence": "shuffle",
           "random_tags": false,
           "schedule_increment": 30
@@ -56,7 +56,7 @@
           "end_bump": "bumps/post-golden_girls.mp4",
           "bump_dir": "bumps/golden_girls_bumps",
           "commercial_dir": "commercials/standard_80s/generic/morning/cbs",
-          "break_strategy": "center",
+          "break_strategy": "end",
           "sequence": "shuffle",
           "random_tags": false,
           "schedule_increment": 30
@@ -67,7 +67,7 @@
           "end_bump": "bumps/post-cheers.mp4",
           "bump_dir": "bumps/cheers_bumps",
           "commercial_dir": "commercials/standard_80s/generic/morning/cbs",
-          "break_strategy": "center",
+          "break_strategy": "end",
           "sequence": "shuffle",
           "random_tags": false,
           "schedule_increment": 30
@@ -80,7 +80,7 @@
           "end_bump": "bumps/post-family_matters.mp4",
           "bump_dir": "bumps/family_matters_bumps",
           "commercial_dir": "commercials/standard_80s/generic/morning/cbs",
-          "break_strategy": "center",
+          "break_strategy": "end",
           "sequence": "shuffle",
           "random_tags": false,
           "schedule_increment": 30
@@ -91,7 +91,7 @@
           "end_bump": "bumps/post-frasier.mp4",
           "bump_dir": "bumps/frasier_bumps",
           "commercial_dir": "commercials/standard_80s/generic/morning/cbs",
-          "break_strategy": "center",
+          "break_strategy": "end",
           "sequence": "shuffle",
           "random_tags": false,
           "schedule_increment": 30
@@ -104,7 +104,7 @@
           "end_bump": "bumps/post-night_court.mp4",
           "bump_dir": "bumps/night_court_bumps",
           "commercial_dir": "commercials/standard_80s/generic/morning/cbs",
-          "break_strategy": "center",
+          "break_strategy": "end",
           "sequence": "shuffle",
           "random_tags": false,
           "schedule_increment": 30
@@ -115,7 +115,7 @@
           "end_bump": "bumps/post-golden_girls.mp4",
           "bump_dir": "bumps/golden_girls_bumps",
           "commercial_dir": "commercials/standard_80s/generic/morning/cbs",
-          "break_strategy": "center",
+          "break_strategy": "end",
           "sequence": "shuffle",
           "random_tags": false,
           "schedule_increment": 30
@@ -128,7 +128,7 @@
           "end_bump": "bumps/post-cheers.mp4",
           "bump_dir": "bumps/cheers_bumps",
           "commercial_dir": "commercials/standard_80s/generic/morning/cbs",
-          "break_strategy": "center",
+          "break_strategy": "end",
           "sequence": "shuffle",
           "random_tags": false,
           "schedule_increment": 30
@@ -139,7 +139,7 @@
           "end_bump": "bumps/post-frasier.mp4",
           "bump_dir": "bumps/frasier_bumps",
           "commercial_dir": "commercials/standard_80s/generic/morning/cbs",
-          "break_strategy": "center",
+          "break_strategy": "end",
           "sequence": "shuffle",
           "random_tags": false,
           "schedule_increment": 30
@@ -152,7 +152,7 @@
           "end_bump": "bumps/post-family_matters.mp4",
           "bump_dir": "bumps/family_matters_bumps",
           "commercial_dir": "commercials/standard_80s/generic/morning/cbs",
-          "break_strategy": "center",
+          "break_strategy": "end",
           "sequence": "shuffle",
           "random_tags": false,
           "schedule_increment": 30
@@ -163,7 +163,7 @@
           "end_bump": "bumps/post-night_court.mp4",
           "bump_dir": "bumps/night_court_bumps",
           "commercial_dir": "commercials/standard_80s/generic/morning/cbs",
-          "break_strategy": "center",
+          "break_strategy": "end",
           "sequence": "shuffle",
           "random_tags": false,
           "schedule_increment": 30
@@ -177,7 +177,7 @@
           "end_bump": "bumps/post-dallas.mp4",
           "bump_dir": "bumps/dallas_bumps",
           "commercial_dir": "commercials/standard_80s/generic/afternoon/cbs",
-          "break_strategy": "center",
+          "break_strategy": "end",
           "sequence": "shuffle",
           "random_tags": false,
           "schedule_increment": 60
@@ -190,7 +190,7 @@
           "end_bump": "bumps/post-murder_she_wrote.mp4",
           "bump_dir": "bumps/murder_she_wrote_bumps",
           "commercial_dir": "commercials/standard_80s/generic/afternoon/cbs",
-          "break_strategy": "center",
+          "break_strategy": "end",
           "sequence": "shuffle",
           "random_tags": false,
           "schedule_increment": 60
@@ -203,7 +203,7 @@
           "end_bump": "bumps/post-quantum_leap.mp4",
           "bump_dir": "bumps/quantum_leap_bumps",
           "commercial_dir": "commercials/standard_80s/generic/afternoon/cbs",
-          "break_strategy": "center",
+          "break_strategy": "end",
           "sequence": "shuffle",
           "random_tags": false,
           "schedule_increment": 60
@@ -216,7 +216,7 @@
           "end_bump": "bumps/post-dallas.mp4",
           "bump_dir": "bumps/dallas_bumps",
           "commercial_dir": "commercials/standard_80s/generic/afternoon/cbs",
-          "break_strategy": "center",
+          "break_strategy": "end",
           "sequence": "shuffle",
           "random_tags": false,
           "schedule_increment": 60
@@ -229,7 +229,7 @@
           "end_bump": "bumps/post-murder_she_wrote.mp4",
           "bump_dir": "bumps/murder_she_wrote_bumps",
           "commercial_dir": "commercials/standard_80s/generic/afternoon/cbs",
-          "break_strategy": "center",
+          "break_strategy": "end",
           "sequence": "shuffle",
           "random_tags": false,
           "schedule_increment": 60
@@ -243,7 +243,7 @@
           "end_bump": "bumps/post-frasier.mp4",
           "bump_dir": "bumps/frasier_bumps",
           "commercial_dir": "commercials/standard_80s/generic/primetime/cbs",
-          "break_strategy": "center",
+          "break_strategy": "end",
           "sequence": "shuffle",
           "random_tags": false,
           "schedule_increment": 30
@@ -254,7 +254,7 @@
           "end_bump": "bumps/post-golden_girls.mp4",
           "bump_dir": "bumps/golden_girls_bumps",
           "commercial_dir": "commercials/standard_80s/generic/primetime/cbs",
-          "break_strategy": "center",
+          "break_strategy": "end",
           "sequence": "shuffle",
           "random_tags": false,
           "schedule_increment": 30
@@ -267,7 +267,7 @@
           "end_bump": "bumps/post-cheers.mp4",
           "bump_dir": "bumps/cheers_bumps",
           "commercial_dir": "commercials/standard_80s/generic/primetime/cbs",
-          "break_strategy": "center",
+          "break_strategy": "end",
           "sequence": "shuffle",
           "random_tags": false,
           "schedule_increment": 30
@@ -278,7 +278,7 @@
           "end_bump": "bumps/post-family_matters.mp4",
           "bump_dir": "bumps/family_matters_bumps",
           "commercial_dir": "commercials/standard_80s/generic/primetime/cbs",
-          "break_strategy": "center",
+          "break_strategy": "end",
           "sequence": "shuffle",
           "random_tags": false,
           "schedule_increment": 30
@@ -291,7 +291,7 @@
           "end_bump": "bumps/post-quantum_leap.mp4",
           "bump_dir": "bumps/quantum_leap_bumps",
           "commercial_dir": "commercials/standard_80s/generic/primetime/cbs",
-          "break_strategy": "center",
+          "break_strategy": "end",
           "sequence": "shuffle",
           "random_tags": false,
           "schedule_increment": 60
@@ -305,7 +305,7 @@
           "end_bump": "bumps/post-miniseries.mp4",
           "bump_dir": "bumps/miniseries_bumps",
           "commercial_dir": "commercials/standard_80s/generic/primetime/cbs",
-          "break_strategy": "center",
+          "break_strategy": "end",
           "sequence": "prime",
           "random_tags": false,
           "schedule_increment": 120
@@ -319,7 +319,7 @@
           "end_bump": "bumps/post-murder_she_wrote.mp4",
           "bump_dir": "bumps/murder_she_wrote_bumps",
           "commercial_dir": "commercials/standard_90s/generic/late/cbs",
-          "break_strategy": "center",
+          "break_strategy": "end",
           "sequence": "shuffle",
           "random_tags": false,
           "schedule_increment": 60
@@ -332,7 +332,7 @@
           "end_bump": "bumps/post-cheers.mp4",
           "bump_dir": "bumps/cheers_bumps",
           "commercial_dir": "commercials/standard_90s/generic/late/cbs",
-          "break_strategy": "center",
+          "break_strategy": "end",
           "sequence": "shuffle",
           "random_tags": false,
           "schedule_increment": 30
@@ -343,7 +343,7 @@
           "end_bump": "bumps/post-night_court.mp4",
           "bump_dir": "bumps/night_court_bumps",
           "commercial_dir": "commercials/standard_90s/generic/late/cbs",
-          "break_strategy": "center",
+          "break_strategy": "end",
           "sequence": "shuffle",
           "random_tags": false,
           "schedule_increment": 30
