@@ -1,60 +1,30 @@
 {
     "station_conf": {
-        "network_name": "fox",
-        "channel_number": 4,
+        "network_name": "FOX",
+        "channel_number": 1,
         "network_type": "standard",
         "schedule_increment": 30,
-        "break_strategy": "end",
+        "break_strategy": "standard",
         "commercial_free": false,
         "break_duration": 120,
-        "catalog_path": "catalog/fox_catalog.bin",
-        "content_dir": "catalog/fox",
-        "commercial_dir": "commercial",
-        "bump_dir": "bump",
-        "runtime_dir": "runtime/fox",
-        "schedule_path": "runtime/fox_schedule.bin",
+        "catalog_path": "catalog/FOX_catalog.bin",
+        "content_dir": "catalog/FOX",
+        "commercial_dir": "commercials",
+        "bump_dir": "bumpers",
+        "runtime_dir": "runtime/FOX",
+        "schedule_path": "runtime/FOX_schedule.bin",
         "sign_off_video": "runtime/signoff.mp4",
         "off_air_video": "runtime/off_air_pattern.mp4",
         "standby_image": "runtime/standby.png",
         "sunday": {
             "0": {
-                "tags": [
-                    "x_files"
-                ],
-                "start_bump": "bumps/pre-xfiles.mp4",
-                "end_bump": "bumps/post-xfiles.mp4",
-                "bump_dir": "bumps/xfiles_bumps",
-                "commercial_dir": "commercials/standard_90s/generic/late/fox",
-                "break_strategy": "end",
-                "sequence": "shuffle",
-                "random_tags": false,
-                "schedule_increment": 60
+                "event": "off_air"
             },
             "1": {
-                "tags": [
-                    "supernatural"
-                ],
-                "start_bump": "bumps/pre-supernatural.mp4",
-                "end_bump": "bumps/post-supernatural.mp4",
-                "bump_dir": "bumps/supernatural_bumps",
-                "commercial_dir": "commercials/standard_90s/generic/late/fox",
-                "break_strategy": "end",
-                "sequence": "shuffle",
-                "random_tags": false,
-                "schedule_increment": 60
+                "event": "off_air"
             },
             "2": {
-                "tags": [
-                    "the_tick"
-                ],
-                "start_bump": "bumps/pre-tick.mp4",
-                "end_bump": "bumps/post-tick.mp4",
-                "bump_dir": "bumps/tick_bumps",
-                "commercial_dir": "commercials/standard_90s/generic/late/fox",
-                "break_strategy": "end",
-                "sequence": "shuffle",
-                "random_tags": false,
-                "schedule_increment": 60
+                "event": "off_air"
             },
             "3": {
                 "event": "off_air"
@@ -66,350 +36,1449 @@
                 "event": "off_air"
             },
             "6": {
+                "tags": [
+                    "carmen_sandiego",
+                    "inspector_gadget"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/morning/fox",
+                "break_strategy": "center"
+            },
+            "7": {
+                "tags": [
+                    "rockos_modern_life",
+                    "doug"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/morning/fox",
+                "break_strategy": "center"
+            },
+            "8": {
+                "tags": [
+                    "hey_arnold",
+                    "rugrats"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/morning/fox",
+                "break_strategy": "center"
+            },
+            "9": {
+                "tags": [
+                    "wild_thornberries",
+                    "xmen"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/morning/fox",
+                "break_strategy": "center"
+            },
+            "10": {
+                "tags": [
+                    "the_tick",
+                    "freakazoid"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/morning/fox",
+                "break_strategy": "center"
+            },
+            "11": {
+                "tags": [
+                    "adventure_time",
+                    "tmnt"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/morning/fox",
+                "break_strategy": "center"
+            },
+            "12": {
+                "tags": [
+                    "gummi_bears",
+                    "ducktales"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "13": {
+                "tags": [
+                    "rescue_rangers",
+                    "talespin"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "14": {
+                "tags": [
+                    "darkwing_duck",
+                    "ducktales_2017"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "15": {
+                "tags": [
+                    "batman_tas",
+                    "gargoyles"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "16": {
+                "tags": [
+                    "nick_arcade",
+                    "fresh_prince"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "17": {
+                "tags": [
+                    "in_living_color",
+                    "harvey_birdman"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "18": {
+                "tags": [
+                    "american_dad",
+                    "mike_tyson_mysteries"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "19": {
+                "tags": [
+                    "family_guy",
+                    "venture_bros"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "20": {
+                "tags": [
+                    "the_critic",
+                    "dr_katz"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "21": {
+                "tags": [
+                    "cleveland_show",
+                    "bobs_burgers"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "22": {
+                "tags": [
+                    "family_guy",
+                    "venture_bros"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "23": {
+                "tags": [
+                    "adventure_time",
+                    "american_dad",
+                    "batman_tas",
+                    "bobs_burgers",
+                    "carmen_sandiego",
+                    "darkwing_duck",
+                    "doug",
+                    "ducktales",
+                    "ducktales_2017",
+                    "family_guy",
+                    "freakazoid",
+                    "fresh_prince",
+                    "gargoyles",
+                    "gummi_bears",
+                    "harvey_birdman",
+                    "hey_arnold",
+                    "nick_arcade",
+                    "in_living_color",
+                    "inspector_gadget",
+                    "mike_tyson_mysteries",
+                    "tmnt",
+                    "rescue_rangers",
+                    "rockos_modern_life",
+                    "rugrats",
+                    "talespin",
+                    "the_tick",
+                    "venture_bros",
+                    "wild_thornberries",
+                    "xmen"
+                ],
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center",
+                "random_tags": true
+            }
+        },
+        "monday": {
+            "0": {
                 "event": "off_air"
             },
-            "7": [
-                {
-                    "tags": "gi_joe",
-                    "start_bump": "bumps/pre-gijoe.mp4",
-                    "end_bump": "bumps/post-gijoe.mp4",
-                    "bump_dir": "bumps/gijoe_bumps",
-                    "commercial_dir": "commercials/kids_80s/generic/morning/fox",
-                    "break_strategy": "end",
-                    "sequence": "shuffle",
-                    "random_tags": false,
-                    "schedule_increment": 30
-                },
-                {
-                    "tags": "thundercats",
-                    "start_bump": "bumps/pre-thundercats.mp4",
-                    "end_bump": "bumps/post-thundercats.mp4",
-                    "bump_dir": "bumps/thundercats_bumps",
-                    "commercial_dir": "commercials/kids_80s/generic/morning/fox",
-                    "break_strategy": "end",
-                    "sequence": "shuffle",
-                    "random_tags": false,
-                    "schedule_increment": 30
-                }
-            ],
-            "8": [
-                {
-                    "tags": "mask",
-                    "start_bump": "bumps/pre-mask.mp4",
-                    "end_bump": "bumps/post-mask.mp4",
-                    "bump_dir": "bumps/mask_bumps",
-                    "commercial_dir": "commercials/kids_80s/generic/morning/fox",
-                    "break_strategy": "end",
-                    "sequence": "shuffle",
-                    "random_tags": false,
-                    "schedule_increment": 30
-                },
-                {
-                    "tags": "centurions",
-                    "start_bump": "bumps/pre-centurions.mp4",
-                    "end_bump": "bumps/post-centurions.mp4",
-                    "bump_dir": "bumps/centurions_bumps",
-                    "commercial_dir": "commercials/kids_80s/generic/morning/fox",
-                    "break_strategy": "end",
-                    "sequence": "shuffle",
-                    "random_tags": false,
-                    "schedule_increment": 30
-                }
-            ],
-            "9": [
-                {
-                    "tags": "mighty_max",
-                    "start_bump": "bumps/pre-mighty_max.mp4",
-                    "end_bump": "bumps/post-mighty_max.mp4",
-                    "bump_dir": "bumps/mighty_max_bumps",
-                    "commercial_dir": "commercials/kids_90s/generic/morning/fox",
-                    "break_strategy": "end",
-                    "sequence": "shuffle",
-                    "random_tags": false,
-                    "schedule_increment": 30
-                },
-                {
-                    "tags": "captain_n",
-                    "start_bump": "bumps/pre-captain_n.mp4",
-                    "end_bump": "bumps/post-captain_n.mp4",
-                    "bump_dir": "bumps/captain_n_bumps",
-                    "commercial_dir": "commercials/kids_80s/generic/morning/fox",
-                    "break_strategy": "end",
-                    "sequence": "shuffle",
-                    "random_tags": false,
-                    "schedule_increment": 30
-                }
-            ],
-            "10": [
-                {
-                    "tags": "super_mario_super_show",
-                    "start_bump": "bumps/pre-mario.mp4",
-                    "end_bump": "bumps/post-mario.mp4",
-                    "bump_dir": "bumps/mario_bumps",
-                    "commercial_dir": "commercials/kids_80s/generic/morning/fox",
-                    "break_strategy": "end",
-                    "sequence": "shuffle",
-                    "random_tags": false,
-                    "schedule_increment": 30
-                },
-                {
-                    "tags": "real_ghostbusters",
-                    "start_bump": "bumps/pre-ghostbusters.mp4",
-                    "end_bump": "bumps/post-ghostbusters.mp4",
-                    "bump_dir": "bumps/ghostbusters_bumps",
-                    "commercial_dir": "commercials/kids_90s/generic/morning/fox",
-                    "break_strategy": "end",
-                    "sequence": "shuffle",
-                    "random_tags": false,
-                    "schedule_increment": 30
-                }
-            ],
-            "11": [
-                {
-                    "tags": "action_cartoons_compilation",
-                    "start_bump": "bumps/pre-action_cartoon.mp4",
-                    "end_bump": "bumps/post-action_cartoon.mp4",
-                    "bump_dir": "bumps/action_cartoon_bumps",
-                    "commercial_dir": "commercials/kids_80s/generic/morning/fox",
-                    "break_strategy": "end",
-                    "sequence": "shuffle",
-                    "random_tags": false,
-                    "schedule_increment": 30
-                },
-                {
-                    "tags": "batman_new_adventures",
-                    "start_bump": "bumps/pre-batman_new_adventures.mp4",
-                    "end_bump": "bumps/post-batman_new_adventures.mp4",
-                    "bump_dir": "bumps/batman_new_adventures_bumps",
-                    "commercial_dir": "commercials/kids_90s/generic/morning/fox",
-                    "break_strategy": "end",
-                    "sequence": "shuffle",
-                    "random_tags": false,
-                    "schedule_increment": 30
-                }
-            ],
-            "12": [
-                {
-                    "tags": "x_men_tas",
-                    "start_bump": "bumps/pre-xmen_tas.mp4",
-                    "end_bump": "bumps/post-xmen_tas.mp4",
-                    "bump_dir": "bumps/xmen_tas_bumps",
-                    "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
-                    "break_strategy": "end",
-                    "sequence": "shuffle",
-                    "random_tags": false,
-                    "schedule_increment": 30
-                },
-                {
-                    "tags": "gargoyles",
-                    "start_bump": "bumps/pre-gargoyles.mp4",
-                    "end_bump": "bumps/post-gargoyles.mp4",
-                    "bump_dir": "bumps/gargoyles_bumps",
-                    "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
-                    "break_strategy": "end",
-                    "sequence": "shuffle",
-                    "random_tags": false,
-                    "schedule_increment": 30
-                }
-            ],
-            "13": [
-                {
-                    "tags": "batman_tas",
-                    "start_bump": "bumps/pre-batman_tas.mp4",
-                    "end_bump": "bumps/post-batman_tas.mp4",
-                    "bump_dir": "bumps/batman_tas_bumps",
-                    "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
-                    "break_strategy": "end",
-                    "sequence": "shuffle",
-                    "random_tags": false,
-                    "schedule_increment": 30
-                },
-                {
-                    "tags": "transformers",
-                    "start_bump": "bumps/pre-transformers.mp4",
-                    "end_bump": "bumps/post-transformers.mp4",
-                    "bump_dir": "bumps/transformers_bumps",
-                    "commercial_dir": "commercials/kids_80s/generic/afternoon/fox",
-                    "break_strategy": "end",
-                    "sequence": "shuffle",
-                    "random_tags": false,
-                    "schedule_increment": 30
-                }
-            ],
-            "14": [
-                {
-                    "tags": "super_mario_super_show",
-                    "start_bump": "bumps/pre-mario.mp4",
-                    "end_bump": "bumps/post-mario.mp4",
-                    "bump_dir": "bumps/mario_bumps",
-                    "commercial_dir": "commercials/kids_80s/generic/afternoon/fox",
-                    "break_strategy": "end",
-                    "sequence": "shuffle",
-                    "random_tags": false,
-                    "schedule_increment": 30
-                },
-                {
-                    "tags": "action_cartoons_compilation",
-                    "start_bump": "bumps/pre-action_cartoon.mp4",
-                    "end_bump": "bumps/post-action_cartoon.mp4",
-                    "bump_dir": "bumps/action_cartoon_bumps",
-                    "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
-                    "break_strategy": "end",
-                    "sequence": "shuffle",
-                    "random_tags": false,
-                    "schedule_increment": 30
-                }
-            ],
-            "15": [
-                {
-                    "tags": "gargoyles",
-                    "start_bump": "bumps/pre-gargoyles.mp4",
-                    "end_bump": "bumps/post-gargoyles.mp4",
-                    "bump_dir": "bumps/gargoyles_bumps",
-                    "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
-                    "break_strategy": "end",
-                    "sequence": "shuffle",
-                    "random_tags": false,
-                    "schedule_increment": 30
-                },
-                {
-                    "tags": "batman_tas",
-                    "start_bump": "bumps/pre-batman_tas.mp4",
-                    "end_bump": "bumps/post-batman_tas.mp4",
-                    "bump_dir": "bumps/batman_tas_bumps",
-                    "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
-                    "break_strategy": "end",
-                    "sequence": "shuffle",
-                    "random_tags": false,
-                    "schedule_increment": 30
-                }
-            ],
-            "16": [
-                {
-                    "tags": "transformers",
-                    "start_bump": "bumps/pre-transformers.mp4",
-                    "end_bump": "bumps/post-transformers.mp4",
-                    "bump_dir": "bumps/transformers_bumps",
-                    "commercial_dir": "commercials/kids_80s/generic/afternoon/fox",
-                    "break_strategy": "end",
-                    "sequence": "shuffle",
-                    "random_tags": false,
-                    "schedule_increment": 30
-                },
-                {
-                    "tags": "x_men_tas",
-                    "start_bump": "bumps/pre-xmen_tas.mp4",
-                    "end_bump": "bumps/post-xmen_tas.mp4",
-                    "bump_dir": "bumps/xmen_tas_bumps",
-                    "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
-                    "break_strategy": "end",
-                    "sequence": "shuffle",
-                    "random_tags": false,
-                    "schedule_increment": 30
-                }
-            ],
-            "17": [
-                {
-                    "tags": "gargoyles",
-                    "start_bump": "bumps/pre-gargoyles.mp4",
-                    "end_bump": "bumps/post-gargoyles.mp4",
-                    "bump_dir": "bumps/gargoyles_bumps",
-                    "commercial_dir": "commercials/standard_90s/generic/primetime/fox",
-                    "break_strategy": "end",
-                    "sequence": "shuffle",
-                    "random_tags": false,
-                    "schedule_increment": 30
-                },
-                {
-                    "tags": "batman_tas",
-                    "start_bump": "bumps/pre-batman_tas.mp4",
-                    "end_bump": "bumps/post-batman_tas.mp4",
-                    "bump_dir": "bumps/batman_tas_bumps",
-                    "commercial_dir": "commercials/standard_90s/generic/primetime/fox",
-                    "break_strategy": "end",
-                    "sequence": "shuffle",
-                    "random_tags": false,
-                    "schedule_increment": 30
-                }
-            ],
-            "18": [
-                {
-                    "tags": "the_expanse",
-                    "start_bump": "bumps/pre-expanse.mp4",
-                    "end_bump": "bumps/post-expanse.mp4",
-                    "bump_dir": "bumps/expanse_bumps",
-                    "commercial_dir": "commercials/standard_90s/generic/primetime/fox",
-                    "break_strategy": "end",
-                    "sequence": "shuffle",
-                    "random_tags": false,
-                    "schedule_increment": 60
-                }
-            ],
-            "19": [
-                {
-                    "tags": "supernatural",
-                    "start_bump": "bumps/pre-supernatural.mp4",
-                    "end_bump": "bumps/post-supernatural.mp4",
-                    "bump_dir": "bumps/supernatural_bumps",
-                    "commercial_dir": "commercials/standard_90s/generic/primetime/fox",
-                    "break_strategy": "end",
-                    "sequence": "shuffle",
-                    "random_tags": false,
-                    "schedule_increment": 60
-                }
-            ],
-            "20": [
-                {
-                    "tags": "star_trek_rotation",
-                    "start_bump": "bumps/pre-star_trek.mp4",
-                    "end_bump": "bumps/post-star_trek.mp4",
-                    "bump_dir": "bumps/star_trek_bumps",
-                    "commercial_dir": "commercials/standard_90s/generic/primetime/fox",
-                    "break_strategy": "end",
-                    "sequence": "shuffle",
-                    "random_tags": false,
-                    "schedule_increment": 60
-                }
-            ],
-            "21": [
-                {
-                    "tags": "stargate_sg1",
-                    "start_bump": "bumps/pre-stargate.mp4",
-                    "end_bump": "bumps/post-stargate.mp4",
-                    "bump_dir": "bumps/stargate_bumps",
-                    "commercial_dir": "commercials/standard_90s/generic/primetime/fox",
-                    "break_strategy": "end",
-                    "sequence": "shuffle",
-                    "random_tags": false,
-                    "schedule_increment": 60
-                }
-            ],
-            "22": [
-                {
-                    "tags": "firefly",
-                    "start_bump": "bumps/pre-firefly.mp4",
-                    "end_bump": "bumps/post-firefly.mp4",
-                    "bump_dir": "bumps/firefly_bumps",
-                    "commercial_dir": "commercials/standard_90s/generic/primetime/fox",
-                    "break_strategy": "end",
-                    "sequence": "shuffle",
-                    "random_tags": false,
-                    "schedule_increment": 60
-                }
-            ],
-            "23": [
-                {
-                    "tags": "babylon_5",
-                    "start_bump": "bumps/pre-babylon5.mp4",
-                    "end_bump": "bumps/post-babylon5.mp4",
-                    "bump_dir": "bumps/babylon5_bumps",
-                    "commercial_dir": "commercials/standard_90s/generic/primetime/fox",
-                    "break_strategy": "end",
-                    "sequence": "shuffle",
-                    "random_tags": false,
-                    "schedule_increment": 60
-                }
-            ]
+            "1": {
+                "event": "off_air"
+            },
+            "2": {
+                "event": "off_air"
+            },
+            "3": {
+                "event": "off_air"
+            },
+            "4": {
+                "event": "off_air"
+            },
+            "5": {
+                "event": "off_air"
+            },
+            "6": {
+                "tags": [
+                    "carmen_sandiego",
+                    "inspector_gadget"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/morning/fox",
+                "break_strategy": "center"
+            },
+            "7": {
+                "tags": [
+                    "rockos_modern_life",
+                    "doug"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/morning/fox",
+                "break_strategy": "center"
+            },
+            "8": {
+                "tags": [
+                    "hey_arnold",
+                    "rugrats"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/morning/fox",
+                "break_strategy": "center"
+            },
+            "9": {
+                "tags": [
+                    "wild_thornberries",
+                    "xmen"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/morning/fox",
+                "break_strategy": "center"
+            },
+            "10": {
+                "tags": [
+                    "the_tick",
+                    "freakazoid"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/morning/fox",
+                "break_strategy": "center"
+            },
+            "11": {
+                "tags": [
+                    "adventure_time",
+                    "tmnt"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/morning/fox",
+                "break_strategy": "center"
+            },
+            "12": {
+                "tags": [
+                    "gummi_bears",
+                    "ducktales"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "13": {
+                "tags": [
+                    "rescue_rangers",
+                    "talespin"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "14": {
+                "tags": [
+                    "darkwing_duck",
+                    "ducktales_2017"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "15": {
+                "tags": [
+                    "batman_tas",
+                    "gargoyles"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "16": {
+                "tags": [
+                    "nick_arcade",
+                    "fresh_prince"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "17": {
+                "tags": [
+                    "bobs_burgers",
+                    "harvey_birdman"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "18": {
+                "tags": [
+                    "american_dad",
+                    "mike_tyson_mysteries"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "19": {
+                "tags": [
+                    "family_guy",
+                    "venture_bros"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "20": {
+                "tags": [
+                    "bobs_burgers",
+                    "harvey_birdman"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "21": {
+                "tags": [
+                    "american_dad",
+                    "mike_tyson_mysteries"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "22": {
+                "tags": [
+                    "family_guy",
+                    "venture_bros"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "23": {
+                "tags": [
+                    "adventure_time",
+                    "american_dad",
+                    "batman_tas",
+                    "bobs_burgers",
+                    "carmen_sandiego",
+                    "darkwing_duck",
+                    "doug",
+                    "ducktales",
+                    "ducktales_2017",
+                    "family_guy",
+                    "freakazoid",
+                    "fresh_prince",
+                    "gargoyles",
+                    "gummi_bears",
+                    "harvey_birdman",
+                    "hey_arnold",
+                    "nick_arcade",
+                    "in_living_color",
+                    "inspector_gadget",
+                    "mike_tyson_mysteries",
+                    "tmnt",
+                    "rescue_rangers",
+                    "rockos_modern_life",
+                    "rugrats",
+                    "talespin",
+                    "the_tick",
+                    "venture_bros",
+                    "wild_thornberries",
+                    "xmen"
+                ],
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center",
+                "random_tags": true
+            }
+        },
+        "tuesday": {
+            "0": {
+                "event": "off_air"
+            },
+            "1": {
+                "event": "off_air"
+            },
+            "2": {
+                "event": "off_air"
+            },
+            "3": {
+                "event": "off_air"
+            },
+            "4": {
+                "event": "off_air"
+            },
+            "5": {
+                "event": "off_air"
+            },
+            "6": {
+                "tags": [
+                    "carmen_sandiego",
+                    "inspector_gadget"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/morning/fox",
+                "break_strategy": "center"
+            },
+            "7": {
+                "tags": [
+                    "rockos_modern_life",
+                    "doug"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/morning/fox",
+                "break_strategy": "center"
+            },
+            "8": {
+                "tags": [
+                    "hey_arnold",
+                    "rugrats"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/morning/fox",
+                "break_strategy": "center"
+            },
+            "9": {
+                "tags": [
+                    "wild_thornberries",
+                    "xmen"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/morning/fox",
+                "break_strategy": "center"
+            },
+            "10": {
+                "tags": [
+                    "the_tick",
+                    "freakazoid"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/morning/fox",
+                "break_strategy": "center"
+            },
+            "11": {
+                "tags": [
+                    "adventure_time",
+                    "tmnt"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/morning/fox",
+                "break_strategy": "center"
+            },
+            "12": {
+                "tags": [
+                    "gummi_bears",
+                    "ducktales"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "13": {
+                "tags": [
+                    "rescue_rangers",
+                    "talespin"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "14": {
+                "tags": [
+                    "darkwing_duck",
+                    "ducktales_2017"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "15": {
+                "tags": [
+                    "batman_tas",
+                    "gargoyles"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "16": {
+                "tags": [
+                    "nick_arcade",
+                    "fresh_prince"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "17": {
+                "tags": [
+                    "bobs_burgers",
+                    "harvey_birdman"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "18": {
+                "tags": [
+                    "american_dad",
+                    "mike_tyson_mysteries"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "19": {
+                "tags": [
+                    "family_guy",
+                    "venture_bros"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "20": {
+                "tags": [
+                    "bobs_burgers",
+                    "harvey_birdman"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "21": {
+                "tags": [
+                    "american_dad",
+                    "mike_tyson_mysteries"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "22": {
+                "tags": [
+                    "family_guy",
+                    "venture_bros"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "23": {
+                "tags": [
+                    "adventure_time",
+                    "american_dad",
+                    "batman_tas",
+                    "bobs_burgers",
+                    "carmen_sandiego",
+                    "darkwing_duck",
+                    "doug",
+                    "ducktales",
+                    "ducktales_2017",
+                    "family_guy",
+                    "freakazoid",
+                    "fresh_prince",
+                    "gargoyles",
+                    "gummi_bears",
+                    "harvey_birdman",
+                    "hey_arnold",
+                    "nick_arcade",
+                    "in_living_color",
+                    "inspector_gadget",
+                    "mike_tyson_mysteries",
+                    "tmnt",
+                    "rescue_rangers",
+                    "rockos_modern_life",
+                    "rugrats",
+                    "talespin",
+                    "the_tick",
+                    "venture_bros",
+                    "wild_thornberries",
+                    "xmen"
+                ],
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center",
+                "random_tags": true
+            }
+        },
+        "wednesday": {
+            "0": {
+                "event": "off_air"
+            },
+            "1": {
+                "event": "off_air"
+            },
+            "2": {
+                "event": "off_air"
+            },
+            "3": {
+                "event": "off_air"
+            },
+            "4": {
+                "event": "off_air"
+            },
+            "5": {
+                "event": "off_air"
+            },
+            "6": {
+                "tags": [
+                    "carmen_sandiego",
+                    "inspector_gadget"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/morning/fox",
+                "break_strategy": "center"
+            },
+            "7": {
+                "tags": [
+                    "rockos_modern_life",
+                    "doug"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/morning/fox",
+                "break_strategy": "center"
+            },
+            "8": {
+                "tags": [
+                    "hey_arnold",
+                    "rugrats"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/morning/fox",
+                "break_strategy": "center"
+            },
+            "9": {
+                "tags": [
+                    "wild_thornberries",
+                    "xmen"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/morning/fox",
+                "break_strategy": "center"
+            },
+            "10": {
+                "tags": [
+                    "the_tick",
+                    "freakazoid"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/morning/fox",
+                "break_strategy": "center"
+            },
+            "11": {
+                "tags": [
+                    "adventure_time",
+                    "tmnt"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/morning/fox",
+                "break_strategy": "center"
+            },
+            "12": {
+                "tags": [
+                    "gummi_bears",
+                    "ducktales"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "13": {
+                "tags": [
+                    "rescue_rangers",
+                    "talespin"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "14": {
+                "tags": [
+                    "darkwing_duck",
+                    "ducktales_2017"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "15": {
+                "tags": [
+                    "batman_tas",
+                    "gargoyles"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "16": {
+                "tags": [
+                    "nick_arcade",
+                    "fresh_prince"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "17": {
+                "tags": [
+                    "bobs_burgers",
+                    "harvey_birdman"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "18": {
+                "tags": [
+                    "american_dad",
+                    "mike_tyson_mysteries"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "19": {
+                "tags": [
+                    "family_guy",
+                    "venture_bros"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "20": {
+                "tags": [
+                    "bobs_burgers",
+                    "harvey_birdman"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "21": {
+                "tags": [
+                    "american_dad",
+                    "mike_tyson_mysteries"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "22": {
+                "tags": [
+                    "family_guy",
+                    "venture_bros"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "23": {
+                "tags": [
+                    "adventure_time",
+                    "american_dad",
+                    "batman_tas",
+                    "bobs_burgers",
+                    "carmen_sandiego",
+                    "darkwing_duck",
+                    "doug",
+                    "ducktales",
+                    "ducktales_2017",
+                    "family_guy",
+                    "freakazoid",
+                    "fresh_prince",
+                    "gargoyles",
+                    "gummi_bears",
+                    "harvey_birdman",
+                    "hey_arnold",
+                    "nick_arcade",
+                    "in_living_color",
+                    "inspector_gadget",
+                    "mike_tyson_mysteries",
+                    "tmnt",
+                    "rescue_rangers",
+                    "rockos_modern_life",
+                    "rugrats",
+                    "talespin",
+                    "the_tick",
+                    "venture_bros",
+                    "wild_thornberries",
+                    "xmen"
+                ],
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center",
+                "random_tags": true
+            }
+        },
+        "thursday": {
+            "0": {
+                "event": "off_air"
+            },
+            "1": {
+                "event": "off_air"
+            },
+            "2": {
+                "event": "off_air"
+            },
+            "3": {
+                "event": "off_air"
+            },
+            "4": {
+                "event": "off_air"
+            },
+            "5": {
+                "event": "off_air"
+            },
+            "6": {
+                "tags": [
+                    "carmen_sandiego",
+                    "inspector_gadget"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/morning/fox",
+                "break_strategy": "center"
+            },
+            "7": {
+                "tags": [
+                    "rockos_modern_life",
+                    "doug"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/morning/fox",
+                "break_strategy": "center"
+            },
+            "8": {
+                "tags": [
+                    "hey_arnold",
+                    "rugrats"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/morning/fox",
+                "break_strategy": "center"
+            },
+            "9": {
+                "tags": [
+                    "wild_thornberries",
+                    "xmen"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/morning/fox",
+                "break_strategy": "center"
+            },
+            "10": {
+                "tags": [
+                    "the_tick",
+                    "freakazoid"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/morning/fox",
+                "break_strategy": "center"
+            },
+            "11": {
+                "tags": [
+                    "adventure_time",
+                    "tmnt"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/morning/fox",
+                "break_strategy": "center"
+            },
+            "12": {
+                "tags": [
+                    "gummi_bears",
+                    "ducktales"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "13": {
+                "tags": [
+                    "rescue_rangers",
+                    "talespin"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "14": {
+                "tags": [
+                    "darkwing_duck",
+                    "ducktales_2017"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "15": {
+                "tags": [
+                    "batman_tas",
+                    "gargoyles"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "16": {
+                "tags": [
+                    "nick_arcade",
+                    "fresh_prince"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "17": {
+                "tags": [
+                    "bobs_burgers",
+                    "harvey_birdman"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "18": {
+                "tags": [
+                    "american_dad",
+                    "mike_tyson_mysteries"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "19": {
+                "tags": [
+                    "family_guy",
+                    "venture_bros"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "20": {
+                "tags": [
+                    "bobs_burgers",
+                    "harvey_birdman"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "21": {
+                "tags": [
+                    "american_dad",
+                    "mike_tyson_mysteries"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "22": {
+                "tags": [
+                    "family_guy",
+                    "venture_bros"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "23": {
+                "tags": [
+                    "adventure_time",
+                    "american_dad",
+                    "batman_tas",
+                    "bobs_burgers",
+                    "carmen_sandiego",
+                    "darkwing_duck",
+                    "doug",
+                    "ducktales",
+                    "ducktales_2017",
+                    "family_guy",
+                    "freakazoid",
+                    "fresh_prince",
+                    "gargoyles",
+                    "gummi_bears",
+                    "harvey_birdman",
+                    "hey_arnold",
+                    "nick_arcade",
+                    "in_living_color",
+                    "inspector_gadget",
+                    "mike_tyson_mysteries",
+                    "tmnt",
+                    "rescue_rangers",
+                    "rockos_modern_life",
+                    "rugrats",
+                    "talespin",
+                    "the_tick",
+                    "venture_bros",
+                    "wild_thornberries",
+                    "xmen"
+                ],
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center",
+                "random_tags": true
+            }
+        },
+        "friday": {
+            "0": {
+                "event": "off_air"
+            },
+            "1": {
+                "event": "off_air"
+            },
+            "2": {
+                "event": "off_air"
+            },
+            "3": {
+                "event": "off_air"
+            },
+            "4": {
+                "event": "off_air"
+            },
+            "5": {
+                "event": "off_air"
+            },
+            "6": {
+                "tags": [
+                    "carmen_sandiego",
+                    "inspector_gadget"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/morning/fox",
+                "break_strategy": "center"
+            },
+            "7": {
+                "tags": [
+                    "rockos_modern_life",
+                    "doug"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/morning/fox",
+                "break_strategy": "center"
+            },
+            "8": {
+                "tags": [
+                    "hey_arnold",
+                    "rugrats"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/morning/fox",
+                "break_strategy": "center"
+            },
+            "9": {
+                "tags": [
+                    "wild_thornberries",
+                    "xmen"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/morning/fox",
+                "break_strategy": "center"
+            },
+            "10": {
+                "tags": [
+                    "the_tick",
+                    "freakazoid"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/morning/fox",
+                "break_strategy": "center"
+            },
+            "11": {
+                "tags": [
+                    "adventure_time",
+                    "tmnt"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/morning/fox",
+                "break_strategy": "center"
+            },
+            "12": {
+                "tags": [
+                    "gummi_bears",
+                    "ducktales"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "13": {
+                "tags": [
+                    "rescue_rangers",
+                    "talespin"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "14": {
+                "tags": [
+                    "darkwing_duck",
+                    "ducktales_2017"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "15": {
+                "tags": [
+                    "batman_tas",
+                    "gargoyles"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "16": {
+                "tags": [
+                    "nick_arcade",
+                    "fresh_prince"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "17": {
+                "tags": [
+                    "bobs_burgers",
+                    "harvey_birdman"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "18": {
+                "tags": [
+                    "american_dad",
+                    "mike_tyson_mysteries"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "19": {
+                "tags": [
+                    "family_guy",
+                    "venture_bros"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "20": {
+                "tags": [
+                    "bobs_burgers",
+                    "harvey_birdman"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "21": {
+                "tags": [
+                    "american_dad",
+                    "mike_tyson_mysteries"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "22": {
+                "tags": [
+                    "family_guy",
+                    "venture_bros"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "23": {
+                "tags": [
+                    "adventure_time",
+                    "american_dad",
+                    "batman_tas",
+                    "bobs_burgers",
+                    "carmen_sandiego",
+                    "darkwing_duck",
+                    "doug",
+                    "ducktales",
+                    "ducktales_2017",
+                    "family_guy",
+                    "freakazoid",
+                    "fresh_prince",
+                    "gargoyles",
+                    "gummi_bears",
+                    "harvey_birdman",
+                    "hey_arnold",
+                    "nick_arcade",
+                    "in_living_color",
+                    "inspector_gadget",
+                    "mike_tyson_mysteries",
+                    "tmnt",
+                    "rescue_rangers",
+                    "rockos_modern_life",
+                    "rugrats",
+                    "talespin",
+                    "the_tick",
+                    "venture_bros",
+                    "wild_thornberries",
+                    "xmen"
+                ],
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center",
+                "random_tags": true
+            }
+        },
+        "saturday": {
+            "0": {
+                "event": "off_air"
+            },
+            "1": {
+                "event": "off_air"
+            },
+            "2": {
+                "event": "off_air"
+            },
+            "3": {
+                "event": "off_air"
+            },
+            "4": {
+                "event": "off_air"
+            },
+            "5": {
+                "event": "off_air"
+            },
+            "6": {
+                "tags": [
+                    "carmen_sandiego",
+                    "inspector_gadget"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/morning/fox",
+                "break_strategy": "center"
+            },
+            "7": {
+                "tags": [
+                    "rockos_modern_life",
+                    "doug"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/morning/fox",
+                "break_strategy": "center"
+            },
+            "8": {
+                "tags": [
+                    "hey_arnold",
+                    "rugrats"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/morning/fox",
+                "break_strategy": "center"
+            },
+            "9": {
+                "tags": [
+                    "wild_thornberries",
+                    "xmen"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/morning/fox",
+                "break_strategy": "center"
+            },
+            "10": {
+                "tags": [
+                    "the_tick",
+                    "freakazoid"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/morning/fox",
+                "break_strategy": "center"
+            },
+            "11": {
+                "tags": [
+                    "adventure_time",
+                    "tmnt"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/morning/fox",
+                "break_strategy": "center"
+            },
+            "12": {
+                "tags": [
+                    "gummi_bears",
+                    "ducktales"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "13": {
+                "tags": [
+                    "rescue_rangers",
+                    "talespin"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "14": {
+                "tags": [
+                    "darkwing_duck",
+                    "ducktales_2017"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "15": {
+                "tags": [
+                    "batman_tas",
+                    "gargoyles"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "16": {
+                "tags": [
+                    "nick_arcade",
+                    "fresh_prince"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "17": {
+                "tags": [
+                    "bobs_burgers",
+                    "harvey_birdman"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "18": {
+                "tags": [
+                    "american_dad",
+                    "mike_tyson_mysteries"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "19": {
+                "tags": [
+                    "family_guy",
+                    "venture_bros"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "20": {
+                "tags": [
+                    "bobs_burgers",
+                    "harvey_birdman"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "21": {
+                "tags": [
+                    "american_dad",
+                    "mike_tyson_mysteries"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "22": {
+                "tags": [
+                    "family_guy",
+                    "venture_bros"
+                ],
+                "random_tags": false,
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center"
+            },
+            "23": {
+                "tags": [
+                    "adventure_time",
+                    "american_dad",
+                    "batman_tas",
+                    "bobs_burgers",
+                    "carmen_sandiego",
+                    "cleveland_show",
+                    "darkwing_duck",
+                    "doug",
+                    "ducktales",
+                    "ducktales_2017",
+                    "family_guy",
+                    "freakazoid",
+                    "fresh_prince",
+                    "gargoyles",
+                    "gummi_bears",
+                    "harvey_birdman",
+                    "hey_arnold",
+                    "nick_arcade",
+                    "in_living_color",
+                    "inspector_gadget",
+                    "mike_tyson_mysteries",
+                    "tmnt",
+                    "rescue_rangers",
+                    "rockos_modern_life",
+                    "rugrats",
+                    "talespin",
+                    "the_tick",
+                    "venture_bros",
+                    "wild_thornberries",
+                    "xmen"
+                ],
+                "commercial_dir": "commercials/kids_90s/generic/afternoon/fox",
+                "break_strategy": "center",
+                "random_tags": true
+            }
         }
     }
 }

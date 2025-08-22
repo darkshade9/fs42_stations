@@ -41,7 +41,7 @@
                     "he_man"
                 ],
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end",
+                "break_strategy": "center",
                 "random_tags": true
             },
             "1": {
@@ -63,7 +63,7 @@
                 "tags": "star_wars_ewoks",
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "7": {
                 "tags": [
@@ -72,7 +72,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "8": {
                 "tags": [
@@ -81,7 +81,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "9": {
                 "tags": [
@@ -90,7 +90,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "10": {
                 "tags": [
@@ -99,7 +99,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "11": {
                 "tags": [
@@ -108,7 +108,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "12": {
                 "tags": [
@@ -117,7 +117,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "13": {
                 "tags": [
@@ -126,7 +126,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "14": {
                 "tags": [
@@ -135,7 +135,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "15": {
                 "tags": [
@@ -144,7 +144,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "16": {
                 "tags": [
@@ -153,7 +153,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "17": {
                 "tags": [
@@ -179,7 +179,7 @@
                     "he_man"
                 ],
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end",
+                "break_strategy": "center",
                 "random_tags": true
             },
             "18": {
@@ -206,7 +206,7 @@
                     "he_man"
                 ],
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end",
+                "break_strategy": "center",
                 "random_tags": true
             },
             "19": {
@@ -233,22 +233,20 @@
                     "he_man"
                 ],
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end",
+                "break_strategy": "center",
                 "random_tags": true
             },
             "20": {
-                "tags": "classic_movies",
+                "tags": "movies/drama",
                 "sequence": "prime",
                 "commercial_dir": "commercials/standard_80s/generic/primetime/abc",
                 "random_tags": false,
                 "schedule_increment": 120
             },
             "22": {
-                "tags": [
-                    "classic_movies"
-                ],
-                "sequence": "shuffle",
-                "commercial_dir": "commercials/standard_90s/generic/primetime/abc",
+                "tags": "movies/action",
+                "sequence": "prime",
+                "commercial_dir": "commercials/standard_80s/generic/primetime/abc",
                 "random_tags": false,
                 "schedule_increment": 120
             }
@@ -278,7 +276,7 @@
                     "he_man"
                 ],
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end",
+                "break_strategy": "center",
                 "random_tags": true
             },
             "1": {
@@ -300,7 +298,7 @@
                 "tags": "star_wars_ewoks",
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "7": {
                 "tags": [
@@ -309,7 +307,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "8": {
                 "tags": [
@@ -318,7 +316,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "9": {
                 "tags": [
@@ -327,7 +325,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "10": {
                 "tags": [
@@ -336,7 +334,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "11": {
                 "tags": [
@@ -345,7 +343,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "12": {
                 "tags": [
@@ -354,7 +352,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "13": {
                 "tags": [
@@ -363,7 +361,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "14": {
                 "tags": [
@@ -372,7 +370,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "15": {
                 "tags": [
@@ -381,7 +379,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "16": {
                 "tags": [
@@ -390,7 +388,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "17": {
                 "tags": [
@@ -416,7 +414,7 @@
                     "he_man"
                 ],
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end",
+                "break_strategy": "center",
                 "random_tags": true
             },
             "18": {
@@ -443,7 +441,7 @@
                     "he_man"
                 ],
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end",
+                "break_strategy": "center",
                 "random_tags": true
             },
             "19": {
@@ -470,22 +468,20 @@
                     "he_man"
                 ],
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end",
+                "break_strategy": "center",
                 "random_tags": true
             },
             "20": {
-                "tags": "classic_movies",
+                "tags": "movies/drama",
                 "sequence": "prime",
                 "commercial_dir": "commercials/standard_80s/generic/primetime/abc",
                 "random_tags": false,
                 "schedule_increment": 120
             },
             "22": {
-                "tags": [
-                    "classic_movies"
-                ],
-                "sequence": "shuffle",
-                "commercial_dir": "commercials/standard_90s/generic/primetime/abc",
+                "tags": "movies/action",
+                "sequence": "prime",
+                "commercial_dir": "commercials/standard_80s/generic/primetime/abc",
                 "random_tags": false,
                 "schedule_increment": 120
             }
@@ -515,7 +511,7 @@
                     "he_man"
                 ],
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end",
+                "break_strategy": "center",
                 "random_tags": true
             },
             "1": {
@@ -537,7 +533,7 @@
                 "tags": "star_wars_ewoks",
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "7": {
                 "tags": [
@@ -546,7 +542,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "8": {
                 "tags": [
@@ -555,7 +551,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "9": {
                 "tags": [
@@ -564,7 +560,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "10": {
                 "tags": [
@@ -573,7 +569,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "11": {
                 "tags": [
@@ -582,7 +578,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "12": {
                 "tags": [
@@ -591,7 +587,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "13": {
                 "tags": [
@@ -600,7 +596,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "14": {
                 "tags": [
@@ -609,7 +605,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "15": {
                 "tags": [
@@ -618,7 +614,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "16": {
                 "tags": [
@@ -627,7 +623,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "17": {
                 "tags": [
@@ -653,7 +649,7 @@
                     "he_man"
                 ],
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end",
+                "break_strategy": "center",
                 "random_tags": true
             },
             "18": {
@@ -680,7 +676,7 @@
                     "he_man"
                 ],
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end",
+                "break_strategy": "center",
                 "random_tags": true
             },
             "19": {
@@ -707,24 +703,44 @@
                     "he_man"
                 ],
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end",
+                "break_strategy": "center",
                 "random_tags": true
             },
             "20": {
-                "tags": "classic_movies",
-                "sequence": "prime",
-                "commercial_dir": "commercials/standard_80s/generic/primetime/abc",
-                "random_tags": false,
-                "schedule_increment": 120
-            },
+                        "tags": [
+                            "gi_joe",
+                            "transformers"
+                        ],
+                        "random_tags": false,
+                        "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
+                        "break_strategy": "center"
+                    },
+            "21": {
+                        "tags": [
+                            "gi_joe",
+                            "transformers"
+                        ],
+                        "random_tags": false,
+                        "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
+                        "break_strategy": "center"
+                    },
             "22": {
+                        "tags": [
+                            "the_smurfs",
+                            "the_snorks"
+                        ],
+                        "random_tags": false,
+                        "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
+                        "break_strategy": "center"
+                    },
+            "23": {
                 "tags": [
-                    "classic_movies"
+                    "gi_joe",
+                    "transformers"
                 ],
-                "sequence": "shuffle",
-                "commercial_dir": "commercials/standard_90s/generic/primetime/abc",
                 "random_tags": false,
-                "schedule_increment": 120
+                "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
+                "break_strategy": "center"
             }
         },
         "wednesday": {
@@ -752,7 +768,7 @@
                     "he_man"
                 ],
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end",
+                "break_strategy": "center",
                 "random_tags": true
             },
             "1": {
@@ -774,7 +790,7 @@
                 "tags": "star_wars_ewoks",
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "7": {
                 "tags": [
@@ -783,7 +799,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "8": {
                 "tags": [
@@ -792,7 +808,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "9": {
                 "tags": [
@@ -801,7 +817,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "10": {
                 "tags": [
@@ -810,7 +826,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "11": {
                 "tags": [
@@ -819,7 +835,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "12": {
                 "tags": [
@@ -828,7 +844,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "13": {
                 "tags": [
@@ -837,7 +853,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "14": {
                 "tags": [
@@ -846,7 +862,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "15": {
                 "tags": [
@@ -855,7 +871,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "16": {
                 "tags": [
@@ -864,7 +880,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "17": {
                 "tags": [
@@ -890,7 +906,7 @@
                     "he_man"
                 ],
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end",
+                "break_strategy": "center",
                 "random_tags": true
             },
             "18": {
@@ -917,7 +933,7 @@
                     "he_man"
                 ],
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end",
+                "break_strategy": "center",
                 "random_tags": true
             },
             "19": {
@@ -944,26 +960,23 @@
                     "he_man"
                 ],
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end",
+                "break_strategy": "center",
                 "random_tags": true
             },
             "20": {
-                "tags": "classic_movies",
+                "tags": "movies/drama",
                 "sequence": "prime",
                 "commercial_dir": "commercials/standard_80s/generic/primetime/abc",
                 "random_tags": false,
                 "schedule_increment": 120
             },
             "22": {
-                "tags": [
-                    "classic_movies"
-                ],
-                "sequence": "shuffle",
-                "commercial_dir": "commercials/standard_90s/generic/primetime/abc",
+                "tags": "movies/action",
+                "sequence": "prime",
+                "commercial_dir": "commercials/standard_80s/generic/primetime/abc",
                 "random_tags": false,
                 "schedule_increment": 120
-            }
-        },
+            }        },
         "thursday": {
             "0": {
                 "tags": [
@@ -989,7 +1002,7 @@
                     "he_man"
                 ],
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end",
+                "break_strategy": "center",
                 "random_tags": true
             },
             "1": {
@@ -1011,7 +1024,7 @@
                 "tags": "star_wars_ewoks",
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "7": {
                 "tags": [
@@ -1020,7 +1033,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "8": {
                 "tags": [
@@ -1029,7 +1042,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "9": {
                 "tags": [
@@ -1038,7 +1051,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "10": {
                 "tags": [
@@ -1047,7 +1060,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "11": {
                 "tags": [
@@ -1056,7 +1069,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "12": {
                 "tags": [
@@ -1065,7 +1078,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "13": {
                 "tags": [
@@ -1074,7 +1087,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "14": {
                 "tags": [
@@ -1083,7 +1096,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "15": {
                 "tags": [
@@ -1092,7 +1105,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "16": {
                 "tags": [
@@ -1101,7 +1114,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "17": {
                 "tags": [
@@ -1127,7 +1140,7 @@
                     "he_man"
                 ],
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end",
+                "break_strategy": "center",
                 "random_tags": true
             },
             "18": {
@@ -1154,7 +1167,7 @@
                     "he_man"
                 ],
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end",
+                "break_strategy": "center",
                 "random_tags": true
             },
             "19": {
@@ -1181,26 +1194,23 @@
                     "he_man"
                 ],
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end",
+                "break_strategy": "center",
                 "random_tags": true
             },
             "20": {
-                "tags": "classic_movies",
+                "tags": "movies/drama",
                 "sequence": "prime",
                 "commercial_dir": "commercials/standard_80s/generic/primetime/abc",
                 "random_tags": false,
                 "schedule_increment": 120
             },
             "22": {
-                "tags": [
-                    "classic_movies"
-                ],
-                "sequence": "shuffle",
-                "commercial_dir": "commercials/standard_90s/generic/primetime/abc",
+                "tags": "movies/action",
+                "sequence": "prime",
+                "commercial_dir": "commercials/standard_80s/generic/primetime/abc",
                 "random_tags": false,
                 "schedule_increment": 120
-            }
-        },
+            }        },
         "friday": {
             "0": {
                 "tags": [
@@ -1226,7 +1236,7 @@
                     "he_man"
                 ],
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end",
+                "break_strategy": "center",
                 "random_tags": true
             },
             "1": {
@@ -1248,7 +1258,7 @@
                 "tags": "star_wars_ewoks",
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "7": {
                 "tags": [
@@ -1257,7 +1267,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "8": {
                 "tags": [
@@ -1266,7 +1276,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "9": {
                 "tags": [
@@ -1275,7 +1285,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "10": {
                 "tags": [
@@ -1284,7 +1294,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "11": {
                 "tags": [
@@ -1293,7 +1303,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "12": {
                 "tags": [
@@ -1302,7 +1312,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "13": {
                 "tags": [
@@ -1311,7 +1321,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "14": {
                 "tags": [
@@ -1320,7 +1330,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "15": {
                 "tags": [
@@ -1329,7 +1339,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "16": {
                 "tags": [
@@ -1338,7 +1348,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "17": {
                 "tags": [
@@ -1364,7 +1374,7 @@
                     "he_man"
                 ],
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end",
+                "break_strategy": "center",
                 "random_tags": true
             },
             "18": {
@@ -1391,7 +1401,7 @@
                     "he_man"
                 ],
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end",
+                "break_strategy": "center",
                 "random_tags": true
             },
             "19": {
@@ -1418,26 +1428,23 @@
                     "he_man"
                 ],
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end",
+                "break_strategy": "center",
                 "random_tags": true
             },
             "20": {
-                "tags": "classic_movies",
+                "tags": "movies/drama",
                 "sequence": "prime",
                 "commercial_dir": "commercials/standard_80s/generic/primetime/abc",
                 "random_tags": false,
                 "schedule_increment": 120
             },
             "22": {
-                "tags": [
-                    "classic_movies"
-                ],
-                "sequence": "shuffle",
-                "commercial_dir": "commercials/standard_90s/generic/primetime/abc",
+                "tags": "movies/action",
+                "sequence": "prime",
+                "commercial_dir": "commercials/standard_80s/generic/primetime/abc",
                 "random_tags": false,
                 "schedule_increment": 120
-            }
-        },
+            }        },
         "saturday": {
             "0": {
                 "tags": [
@@ -1463,7 +1470,7 @@
                     "he_man"
                 ],
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end",
+                "break_strategy": "center",
                 "random_tags": true
             },
             "1": {
@@ -1485,7 +1492,7 @@
                 "tags": "star_wars_ewoks",
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "7": {
                 "tags": [
@@ -1494,7 +1501,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "8": {
                 "tags": [
@@ -1503,7 +1510,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "9": {
                 "tags": [
@@ -1512,7 +1519,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "10": {
                 "tags": [
@@ -1521,7 +1528,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "11": {
                 "tags": [
@@ -1530,7 +1537,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/morning/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "12": {
                 "tags": [
@@ -1539,7 +1546,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "13": {
                 "tags": [
@@ -1548,7 +1555,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "14": {
                 "tags": [
@@ -1557,7 +1564,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "15": {
                 "tags": [
@@ -1566,7 +1573,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "16": {
                 "tags": [
@@ -1575,7 +1582,7 @@
                 ],
                 "random_tags": false,
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end"
+                "break_strategy": "center"
             },
             "17": {
                 "tags": [
@@ -1601,7 +1608,7 @@
                     "he_man"
                 ],
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end",
+                "break_strategy": "center",
                 "random_tags": true
             },
             "18": {
@@ -1628,7 +1635,7 @@
                     "he_man"
                 ],
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end",
+                "break_strategy": "center",
                 "random_tags": true
             },
             "19": {
@@ -1655,22 +1662,20 @@
                     "he_man"
                 ],
                 "commercial_dir": "commercials/kids_80s/generic/afternoon/abc",
-                "break_strategy": "end",
+                "break_strategy": "center",
                 "random_tags": true
             },
             "20": {
-                "tags": "classic_movies",
+                "tags": "movies/drama",
                 "sequence": "prime",
                 "commercial_dir": "commercials/standard_80s/generic/primetime/abc",
                 "random_tags": false,
                 "schedule_increment": 120
             },
             "22": {
-                "tags": [
-                    "classic_movies"
-                ],
-                "sequence": "shuffle",
-                "commercial_dir": "commercials/standard_90s/generic/primetime/abc",
+                "tags": "movies/action",
+                "sequence": "prime",
+                "commercial_dir": "commercials/standard_80s/generic/primetime/abc",
                 "random_tags": false,
                 "schedule_increment": 120
             }
